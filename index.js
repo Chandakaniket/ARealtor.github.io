@@ -1,4 +1,4 @@
-// var Controller = require('./controller/controller.js');
+var Controller = require('./controller/controller.js');
 var express = require('express');
 var app = express();
 var http = require('http').Server(app);
@@ -7,9 +7,21 @@ app.use('/public', express.static(__dirname + '/public'));
 app.get('/', function(req, res){
   res.sendFile(__dirname + '/views/index.html');
 });
+app.get('/landingPage', function(req, res){
+  res.sendFile(__dirname + '/views/landingPage.html');
+});
 
 
 
+io.on('connection', function(socket){
+  socket.on('getEmployee', function(){
+    var contObj = new Controller();
+    contObj.getEmployeeImage(function(response){
+        io.emit('getEmployee', response);
+    });
+    
+  });
+});
 
 http.listen(3000, function(){
     console.log('listening on *:3000');

@@ -1,6 +1,5 @@
 class Controller{
 	constructor() {
-		
     }
     
 }
