@@ -1,0 +1,7 @@
+{ "headline":"Lot In Henrico","address":"4193 CHARLES CITY RD","listing_status":"for sale", "price":"51950",
+"city":"RICHMOND", "state":"VA","listing_date":"2018-08-31T14:34:50Z",
+  "zip":"23231", "caption":"4.999 acres on Charles city rd. plat online; irregular shaped lot, priced way below assessment for quick sale.",
+  "country":"US", "square_footage":"3200",
+  "property_type":"LOTS/LAND", "images":"https://cdn-0.eneighborhoods.com/x2/@v=451167776@/90150/3/385/1831385/1831385_1.jpg"
+  
+}
