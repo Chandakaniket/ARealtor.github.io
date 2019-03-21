@@ -1,0 +1,2766 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<response>
+    <lst name="responseHeader">
+        <bool name="zkConnected">true</bool>
+        <int name="status">0</int>
+        <int name="QTime">16</int>
+        <lst name="params">
+            <str name="q">listing_type: "RESALE" listing_status:"FOR RENT"</str>
+        </lst>
+    </lst>
+    <result name="response" numFound="244641" start="0" maxScore="2.7237666">
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000076175324</str>
+            </arr>
+            <int name="year_built">1988</int>
+            <long name="sz_id">1000076175324</long>
+            <str name="listing_type">RESALE</str>
+            <str name="country">US</str>
+            <int name="square_footage">750</int>
+            <str name="city">LEXINGTON</str>
+            <str name="zip">02421</str>
+            <str name="cbsa">14460</str>
+            <str name="supplier_id_name">NRT LLC</str>
+            <str name="caption">
+            Adams model apartment in small, well-managed apartment community of 128 units, sited on 12 acres of beautifully landscaped grounds. Commuter's dream location, with close proximity to highways (I-95 and Routes 2 and 3), the Minuteman Bike path and the #76 bus to Alewife T station (for the Red Line to Cambridge and Boston). Enjoy Lexington's superb schools and recreational facilities. Cats & dogs are welcome, although breed restrictions apply. Rents change frequently and could be higher or lower than the price stated at the time of posting. Shorter terms and furnished units may be available, at an additional cost. Additional units and occupancy dates may periodically be available for any posted apartments.
+            </str>
+            <str name="state">MA</str>
+            <int name="price">2125</int>
+            <str name="listing_status">FOR RENT</str>
+            <arr name="headline_elements">
+            <str>square_footage;750 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Lexington</str>
+            </arr>
+            <str name="headline">750 SqFt House In Lexington</str>
+            <str name="propid">380751091</str>
+            <int name="office_id">5504706</int>
+            <float name="lot_size">0.0</float>
+            <str name="acct_type">OFFICE</str>
+            <date name="listing_date">2019-03-12T02:25:19Z</date>
+            <str name="supplier_listing_id">1102_4_72463610</str>
+            <str name="listing_url">
+            https://www.coldwellbankerhomes.com/ma/lexington/one-katahdin-dr-530/pid_29123750/?utm_campaign=OLDP-homes&utm_source=homes&utm_medium=oldp&utm_content=listing
+            </str>
+            <str name="mls_number">72463610</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <int name="beds">1</int>
+            <long name="hdc_uuid">1000076175324</long>
+            <float name="total_baths">1.0</float>
+            <int name="agent_id">5343263</int>
+            <int name="supplier_id">514</int>
+            <int name="half_baths">0</int>
+            <str name="premier_flag">Y</str>
+            <str name="lsid">79973</str>
+            <str name="county">MIDDLESEX</str>
+            <int name="full_baths">1</int>
+            <date name="last_update">2019-03-12T02:25:26Z</date>
+            <str name="acct_level">P</str>
+            <str name="address">ONE KATAHDIN DRIVE UNIT 530</str>
+            <str name="lead_routing_email">900601.lead.100221036@leads.leadrouter.com</str>
+            <str name="pool">Y</str>
+            <arr name="features">
+            <str>Pool;Yes</str>
+            <str>CableTV;Yes</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <arr name="features_normalized">
+            <str>Heating Fuels;Gas;Y</str>
+            </arr>
+            <str name="natural_gas">N</str>
+            <str name="garage">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="bonus_room">N</str>
+            <str name="parking">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="pool_community">N</str>
+            <str name="fireplace">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="basement">N</str>
+            <arr name="features_ranked">
+            <str>Heating Fuels;Gas;Y</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Gas Heating</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            1;https://cdn.homes.com/cgi-bin/readimage/8054344403
+            </str>
+            <str>
+            2;https://cdn.homes.com/cgi-bin/readimage/8054344852
+            </str>
+            <str>
+            3;https://cdn.homes.com/cgi-bin/readimage/8054345082
+            </str>
+            <str>
+            4;https://cdn.homes.com/cgi-bin/readimage/8054345158
+            </str>
+            <str>
+            5;https://cdn.homes.com/cgi-bin/readimage/8054345322
+            </str>
+            </arr>
+            <int name="image_count">5</int>
+            <str name="main_image">https://cdn.homes.com/cgi-bin/readimage/8054344403</str>
+            <int name="image_count_acctmod">5</int>
+            <int name="premier_snipe">7</int>
+            <str name="hide_home_scores">Y</str>
+            <str name="hide_estimated_home_values">Y</str>
+            <arr name="detail_attributes">
+            <str>dma_name;Boston-Manchester-506</str>
+            <str>ld_agent_enhanced_branding;Y</str>
+            <str>ld_agent_name;Gail Green</str>
+            <str>ld_agent_phone;6178729669</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/8043363399
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>
+            ld_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7247726678
+            </str>
+            <str>ld_broker_name;Lexington</str>
+            <str>ld_broker_phone;7818622600</str>
+            <str>ld_broker_smf;Y</str>
+            <str>
+            sr_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7247726678
+            </str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">LEXINGTON</str>
+            <arr name="places">
+            <str>LEXINGTON</str>
+            </arr>
+            <str name="latlng_combo_zip">42.445500000000003,-71.236199999999997</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/lexington-ma-02421/id-1000076175324/
+            </str>
+            <int name="sort_score">-10099</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at One Katahdin Drive Unit 530 Lexington, MA 02421 US and has been listed on Homes.com since 12 March 2019 and is currently priced at $2,125, approximately $3 per square foot. This property was built in 1988.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.1;pipeline_solr;1.193.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;PINEHURST</str>
+            <str>city;LOWELL</str>
+            <str>zip;02456</str>
+            <str>city;READING</str>
+            <str>zip;01805</str>
+            <str>city;NEWTON</str>
+            <str>zip;01890</str>
+            <str>zip;01773</str>
+            <str>city;HUDSON</str>
+            <str>city;WINCHESTER</str>
+            <str>zip;02477</str>
+            <str>zip;01731</str>
+            <str>zip;02472</str>
+            <str>city;MEDFORD</str>
+            <str>city;CAMBRIDGE</str>
+            <str>city;WAKEFIELD</str>
+            <str>city;DEDHAM</str>
+            <str>city;MARLBOROUGH</str>
+            <str>zip;02453</str>
+            <str>zip;02455</str>
+            <str>zip;02454</str>
+            <str>city;ARLINGTON</str>
+            <str>city;WILMINGTON</str>
+            <str>city;HANSCOM AFB</str>
+            <str>zip;02474</str>
+            <str>city;AYER</str>
+            <str>zip;02452</str>
+            <str>city;DOVER</str>
+            <str>city;BROOKLINE</str>
+            <str>zip;02475</str>
+            <str>zip;01801</str>
+            <str>zip;02420</str>
+            <str>city;NEEDHAM</str>
+            <str>zip;02451</str>
+            <str>zip;01803</str>
+            <str>city;FRAMINGHAM</str>
+            <str>city;GROTON</str>
+            <str>city;EVERETT</str>
+            <str>city;SOMERVILLE</str>
+            <str>zip;01730</str>
+            <str>city;MALDEN</str>
+            <str>zip;02479</str>
+            <str>city;WALTHAM</str>
+            <str>city;BELMONT</str>
+            <str>city;BURLINGTON</str>
+            <str>city;WOBURN</str>
+            <str>city;DEVENS</str>
+            <str>city;WELLESLEY</str>
+            <str>city;MELROSE</str>
+            <str>zip;01741</str>
+            <str>county;NORFOLK</str>
+            <str>zip;02476</str>
+            <str>zip;02495</str>
+            <str>county;SUFFOLK</str>
+            <str>city;MAYNARD</str>
+            </arr>
+            <long name="_version_">1627779951631532032</long>
+            <date name="timestamp">2019-03-12T06:25:32.632Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000076175351</str>
+            </arr>
+            <float name="lot_size">0.11</float>
+            <arr name="headline_elements">
+            <str>home_condition;Renovated</str>
+            <str>bedrooms;1-Bedroom</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Nutley Twp.</str>
+            </arr>
+            <str name="headline">Renovated 1-Bedroom House In Nutley Twp.</str>
+            <str name="country">US</str>
+            <int name="half_baths">0</int>
+            <str name="zip">07110</str>
+            <int name="supplier_id">514</int>
+            <str name="lsid">79973</str>
+            <str name="listing_url">
+            https://www.coldwellbankerhomes.com/nj/nutley/5-howard-pl-4/pid_29124035/?utm_campaign=OLDP-homes&utm_source=homes&utm_medium=oldp&utm_content=listing
+            </str>
+            <date name="last_update">2019-03-12T02:26:46Z</date>
+            <int name="beds">1</int>
+            <str name="state">NJ</str>
+            <str name="acct_type">OFFICE</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="supplier_id_name">NRT LLC</str>
+            <str name="propid">380751259</str>
+            <int name="square_footage">0</int>
+            <str name="premier_flag">Y</str>
+            <long name="sz_id">1000076175351</long>
+            <long name="hdc_uuid">1000076175351</long>
+            <str name="acct_level">P</str>
+            <int name="full_baths">1</int>
+            <str name="listing_status">FOR RENT</str>
+            <date name="listing_date">2019-03-12T02:26:40Z</date>
+            <int name="agent_id">37182620</int>
+            <int name="year_built">1910</int>
+            <int name="office_id">5504051</int>
+            <str name="county">ESSEX</str>
+            <int name="price">1600</int>
+            <str name="city">NUTLEY TWP.</str>
+            <str name="cbsa">35620</str>
+            <str name="supplier_listing_id">1610_4_3538015</str>
+            <str name="mls_number">3538015</str>
+            <float name="total_baths">1.0</float>
+            <str name="listing_type">RESALE</str>
+            <str name="caption">
+            Safe, modern, fully renovated apartment located near multiple bus stops and close to GSP. Each unit has video doorbell for security and there are over a dozen security cameras throughout building. 1 Bedroom shared with only one other apartment on the 3rd floor with new bath and gorgeous granite counters and stainless steel appliances in new kitchen. Ceiling fans in living room and bedroom and large double door closet in bedroom. Coin-operated laundry in basement as well as a 55 sq. ft. storage unit. Comes with 1 parking space. MAY REDUCE RENT IF PARKING SPACE IS NOT NEEDED. Shared front patio to enjoy the beautiful neighborhood. Completely renovated: new windows, insulation, electric, plumbing, kitchen countertops, appliances, roof, hardwood and tile floors, water filtration system, etc. No Cats.
+            </str>
+            <str name="address">5 HOWARD PL UNIT 4</str>
+            <str name="lead_routing_email">900608.lead.100836730@leads.leadrouter.com</str>
+            <arr name="features">
+            <str>Fence;Yes</str>
+            <str>Patio;Yes</str>
+            </arr>
+            <str name="hardwood_floors">Y</str>
+            <str name="appliances_ss">Y</str>
+            <str name="parking">Y</str>
+            <str name="basement">Y</str>
+            <str name="fireplace">N</str>
+            <str name="pool_community">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="bonus_room">N</str>
+            <str name="garage">N</str>
+            <str name="pool">N</str>
+            <str name="natural_gas">N</str>
+            <str name="energy_efficient">N</str>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            1;https://cdn.homes.com/cgi-bin/readimage/8054354925/5-howard-pl-unit-4-nutley-twp-nj-07110-1.jpg
+            </str>
+            <str>
+            2;https://cdn.homes.com/cgi-bin/readimage/8054355008/5-howard-pl-unit-4-nutley-twp-nj-07110-2.jpg
+            </str>
+            <str>
+            3;https://cdn.homes.com/cgi-bin/readimage/8054355076/5-howard-pl-unit-4-nutley-twp-nj-07110-3.jpg
+            </str>
+            <str>
+            4;https://cdn.homes.com/cgi-bin/readimage/8054355320/5-howard-pl-unit-4-nutley-twp-nj-07110-4.jpg
+            </str>
+            <str>
+            5;https://cdn.homes.com/cgi-bin/readimage/8054355811/5-howard-pl-unit-4-nutley-twp-nj-07110-5.jpg
+            </str>
+            <str>
+            6;https://cdn.homes.com/cgi-bin/readimage/8054355916/5-howard-pl-unit-4-nutley-twp-nj-07110-6.jpg
+            </str>
+            <str>
+            7;https://cdn.homes.com/cgi-bin/readimage/8054356035/5-howard-pl-unit-4-nutley-twp-nj-07110-7.jpg
+            </str>
+            <str>
+            8;https://cdn.homes.com/cgi-bin/readimage/8054356188/5-howard-pl-unit-4-nutley-twp-nj-07110-8.jpg
+            </str>
+            <str>
+            9;https://cdn.homes.com/cgi-bin/readimage/8054356294/5-howard-pl-unit-4-nutley-twp-nj-07110-9.jpg
+            </str>
+            </arr>
+            <int name="image_count">9</int>
+            <str name="main_image">
+            https://cdn.homes.com/cgi-bin/readimage/8054354925/5-howard-pl-unit-4-nutley-twp-nj-07110-1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">7</int>
+            <str name="hide_home_scores">Y</str>
+            <str name="hide_estimated_home_values">Y</str>
+            <arr name="detail_attributes">
+            <str>ld_agent_enhanced_branding;Y</str>
+            <str>ld_agent_name;Catherine Garruto</str>
+            <str>ld_agent_phone;9738869140</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/8054354827
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>
+            ld_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7247726678
+            </str>
+            <str>ld_broker_name;Montclair Office</str>
+            <str>ld_broker_phone;9732332300</str>
+            <str>ld_broker_smf;Y</str>
+            <str>
+            sr_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7247726678
+            </str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">NUTLEY</str>
+            <arr name="places">
+            <str>NUTLEY TWP.</str>
+            <str>NUTLEY</str>
+            </arr>
+            <str name="latlng_combo_zip">40.819200000000002,-74.157399999999996</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/5-howard-pl-unit-4-nutley-twp-nj-07110/id-1000076175351/
+            </str>
+            <int name="sort_score">-10099</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 5 Howard Pl Unit 4 Nutley Twp., NJ 07110 US and has been listed on Homes.com since 12 March 2019 and is currently priced at $1,600. This property was built in 1910.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.1;pipeline_solr;1.193.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;07026</str>
+            <str>zip;07032</str>
+            <str>county;PASSAIC</str>
+            <str>zip;07070</str>
+            <str>zip;07028</str>
+            <str>county;KINGS</str>
+            <str>county;SOMERSET</str>
+            <str>zip;07075</str>
+            <str>zip;07012</str>
+            <str>zip;07057</str>
+            <str>zip;07011</str>
+            <str>county;NEW YORK</str>
+            <str>zip;07042</str>
+            <str>county;HUDSON</str>
+            <str>zip;07009</str>
+            <str>zip;07013</str>
+            <str>zip;07104</str>
+            <str>zip;07017</str>
+            <str>zip;07044</str>
+            <str>county;QUEENS</str>
+            <str>zip;07031</str>
+            <str>zip;07073</str>
+            <str>zip;07015</str>
+            <str>zip;07071</str>
+            <str>county;BERGEN</str>
+            <str>county;RICHMOND</str>
+            <str>zip;07109</str>
+            <str>county;UNION</str>
+            <str>zip;07055</str>
+            <str>zip;07014</str>
+            <str>county;BRONX</str>
+            <str>zip;07003</str>
+            <str>zip;07043</str>
+            <str>county;MORRIS</str>
+            </arr>
+            <long name="_version_">1627780023973838848</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-12T06:26:41.623Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000007492029</str>
+            <str>1000066205256</str>
+            <str>1000066867737</str>
+            <str>1000068752316</str>
+            <str>1000069285087</str>
+            <str>1000070178306</str>
+            <str>1000070519799</str>
+            <str>200006561908</str>
+            </arr>
+            <double name="lat">25.940876</double>
+            <int name="supplier_id">93</int>
+            <str name="mls_number">A10361578</str>
+            <int name="half_baths">0</int>
+            <str name="sub_division">ACQUALINA OCEAN RESIDENCE</str>
+            <str name="acct_level">F</str>
+            <str name="listing_url">
+            http://151087639.homesconnect.com/listing/190768670-151087639/17875%20Collins%20Ave%201705-Fl-33160/?RefCode=40001
+            </str>
+            <date name="supplier_update">2019-01-07T18:10:07Z</date>
+            <int name="beds">3</int>
+            <str name="county">MIAMI-DADE</str>
+            <str name="acct_type">AGENT</str>
+            <int name="year_built">2006</int>
+            <date name="last_update">2019-03-13T00:26:45Z</date>
+            <str name="property_type">RESIDENTIAL</str>
+            <float name="total_baths">3.0</float>
+            <long name="hdc_uuid">200006561908</long>
+            <date name="listing_date">2017-10-25T09:36:19Z</date>
+            <int name="agent_id">26542764</int>
+            <str name="subdivision">ACQUALINA OCEAN RESIDENCE</str>
+            <int name="price">13500</int>
+            <str name="country">US</str>
+            <str name="zip">33160</str>
+            <str name="state">FL</str>
+            <str name="caption">
+            Acqualina Residences. Leading Hotels of the World Alliance. Facilities are with remarkable attendants at your service. Concierge desk available for you 24hours a day. Amenities include ESPA spa, 3 heated pools, state of the art Gym with fitness instructors. Total privacy with security front desk. Private elevator opens the door to peaceful views direct Ocean from your living room. Perfect for families to enjoy resort living. AVAILABLE SEPTEMBER 1ST
+            </str>
+            <double name="lng">-80.120506</double>
+            <str name="premier_flag">N</str>
+            <str name="lsid">1002</str>
+            <str name="listing_status">FOR RENT</str>
+            <long name="sz_id">200006561908</long>
+            <str name="address_mapped">
+            17875 COLLINS AVE 1705;SUNNY ISLES BEACH;FL;33160;US
+            </str>
+            <str name="supplier_listing_id">A10361578</str>
+            <str name="listing_type">RESALE</str>
+            <str name="cbsa">33100</str>
+            <str name="mls_partnership">Y</str>
+            <str name="supplier_id_name">Miami Association REALTORS</str>
+            <arr name="headline_elements">
+            <str>bedrooms;3-Bedroom</str>
+            <str>home_type;House</str>
+            <str>
+            location_prep;In Acqualina Resort And Spa On The Beach
+            </str>
+            </arr>
+            <str name="headline">
+            3-Bedroom House In Acqualina Resort And Spa On The Beach
+            </str>
+            <int name="office_id">684147</int>
+            <int name="full_baths">3</int>
+            <str name="latlng_combo">25.940876,-80.120506</str>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="city">SUNNY ISLES</str>
+            <str name="propid">350866334</str>
+            <str name="address">17875 COLLINS AVE 1705</str>
+            <str name="homesconnect_id">151087639</str>
+            <str name="virtual_tour_url">
+            http://www.propertypanorama.com/instaview/mia/A10361578
+            </str>
+            <str name="virtual_tour">Y</str>
+            <str name="parking">Y</str>
+            <arr name="lot_type">
+            <str>WATERFRONT</str>
+            </arr>
+            <arr name="view">
+            <str>WATER</str>
+            </arr>
+            <str name="garage">Y</str>
+            <str name="pool">Y</str>
+            <arr name="features">
+            <str>Flooring;Ceramic Floor</str>
+            <str>Approval Features;1-2 Weeks Approval</str>
+            <str>Garage;Attached</str>
+            <str>Occupancy;Call Listing Agent</str>
+            <str>Property Type;Condo</str>
+            <str>Faces;East</str>
+            <str>Waterfront;Ocean Front</str>
+            <str>Pool;Above Ground Pool</str>
+            <str>Pool;Hot Tub</str>
+            <str>Pool;Indoor</str>
+            <str>Pool;Private Pool</str>
+            <str>Pool YN;Y</str>
+            <str>Spa;Y</str>
+            <str>Parking;2 Spaces</str>
+            <str>Pet Restrictions;Maximum 20 Lbs</str>
+            <str>Pets Allowed;Y</str>
+            <str>Water Access;Deeded Beach Access</str>
+            <str>Zoning;5000</str>
+            <str>Deposit(s);1st Mo2 Security Deposit</str>
+            <str>Lease;Month</str>
+            <str>Rent Includes;Cable Tv</str>
+            <str>Listing Type;Exclusive Right to Sell/Rent</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Other;Beach Access;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Exterior Features;Pool - Above Ground;N</str>
+            <str>Exterior Features;Pool - In Ground;N</str>
+            </arr>
+            <str name="hardwood_floors">N</str>
+            <str name="fireplace">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="basement">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="natural_gas">N</str>
+            <str name="bonus_room">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="pool_community">N</str>
+            <str name="first_floor_master">N</str>
+            <arr name="features_ranked">
+            <str>Other;Beach Access;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Exterior Features;Pool - In Ground;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Beach Access</str>
+            <str>Tile Flooring</str>
+            <str>In Ground Pool</str>
+            </arr>
+            <str name="apn">3122110711500</str>
+            <str name="fips_code">12025</str>
+            <arr name="maponics_schools">
+            <str>
+            P_sch_name;NORMAN S EDLECUP/SUNNY ISLES BEACH K-8 SCHOOL
+            </str>
+            <str>P_hdcgrd;A</str>
+            <str>P_pupteach;18.08</str>
+            <str>P_nces_schid;120039007533</str>
+            <str>P_sch_dist;0.33</str>
+            <str>P_district;MIAMI-DADE COUNTY SCHOOL DISTRICT</str>
+            <str>P_nces_disid;1200390</str>
+            <str>P_assigned;N</str>
+            <str>M_sch_name;HIGHLAND OAKS MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;B</str>
+            <str>M_pupteach;21.8</str>
+            <str>M_nces_schid;120039000555</str>
+            <str>M_sch_dist;2.63</str>
+            <str>M_district;MIAMI-DADE COUNTY SCHOOL DISTRICT</str>
+            <str>M_nces_disid;1200390</str>
+            <str>M_assigned;N</str>
+            <str>
+            H_sch_name;ALONZO AND TRACY MOURNING SENIOR HIGH SCHOOL
+            </str>
+            <str>H_hdcgrd;B</str>
+            <str>H_pupteach;24.27</str>
+            <str>H_nces_schid;120039007635</str>
+            <str>H_sch_dist;2.34</str>
+            <str>H_district;MIAMI-DADE COUNTY SCHOOL DISTRICT</str>
+            <str>H_nces_disid;1200390</str>
+            <str>H_assigned;N</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-2.eneighborhoods.com/x2/@v=-1081581219@/1002/5/578/a10361578/a10361578_1.jpg
+            </str>
+            <str>
+            1;https://cdn-2.eneighborhoods.com/x2/@v=-1078435491@/1002/5/578/a10361578/a10361578_2.jpg
+            </str>
+            <str>
+            2;https://cdn-2.eneighborhoods.com/x2/@v=-1079484067@/1002/5/578/a10361578/a10361578_3.jpg
+            </str>
+            <str>
+            3;https://cdn-2.eneighborhoods.com/x2/@v=-1076338339@/1002/5/578/a10361578/a10361578_4.jpg
+            </str>
+            <str>
+            4;https://cdn-2.eneighborhoods.com/x2/@v=-1077386915@/1002/5/578/a10361578/a10361578_5.jpg
+            </str>
+            <str>
+            5;https://cdn-2.eneighborhoods.com/x2/@v=-1074241187@/1002/5/578/a10361578/a10361578_6.jpg
+            </str>
+            <str>
+            6;https://cdn-2.eneighborhoods.com/x2/@v=-1075289763@/1002/5/578/a10361578/a10361578_7.jpg
+            </str>
+            <str>
+            7;https://cdn-2.eneighborhoods.com/x2/@v=-1088921251@/1002/5/578/a10361578/a10361578_8.jpg
+            </str>
+            <str>
+            8;https://cdn-2.eneighborhoods.com/x2/@v=-1089969827@/1002/5/578/a10361578/a10361578_9.jpg
+            </str>
+            <str>
+            9;https://cdn-2.eneighborhoods.com/x2/@v=-54206316@/1002/5/578/a10361578/a10361578_10.jpg
+            </str>
+            <str>
+            10;https://cdn-2.eneighborhoods.com/x2/@v=-53157740@/1002/5/578/a10361578/a10361578_11.jpg
+            </str>
+            <str>
+            11;https://cdn-2.eneighborhoods.com/x2/@v=-52109164@/1002/5/578/a10361578/a10361578_12.jpg
+            </str>
+            <str>
+            12;https://cdn-2.eneighborhoods.com/x2/@v=-51060588@/1002/5/578/a10361578/a10361578_13.jpg
+            </str>
+            <str>
+            13;https://cdn-2.eneighborhoods.com/x2/@v=-58400620@/1002/5/578/a10361578/a10361578_14.jpg
+            </str>
+            <str>
+            14;https://cdn-2.eneighborhoods.com/x2/@v=-57352044@/1002/5/578/a10361578/a10361578_15.jpg
+            </str>
+            <str>
+            15;https://cdn-2.eneighborhoods.com/x2/@v=-56303468@/1002/5/578/a10361578/a10361578_16.jpg
+            </str>
+            <str>
+            16;https://cdn-2.eneighborhoods.com/x2/@v=-55254892@/1002/5/578/a10361578/a10361578_17.jpg
+            </str>
+            <str>
+            17;https://cdn-2.eneighborhoods.com/x2/@v=-62594924@/1002/5/578/a10361578/a10361578_18.jpg
+            </str>
+            <str>
+            18;https://cdn-2.eneighborhoods.com/x2/@v=-61546348@/1002/5/578/a10361578/a10361578_19.jpg
+            </str>
+            <str>
+            19;https://cdn-2.eneighborhoods.com/x2/@v=-3874668@/1002/5/578/a10361578/a10361578_20.jpg
+            </str>
+            <str>
+            20;https://cdn-2.eneighborhoods.com/x2/@v=-2826092@/1002/5/578/a10361578/a10361578_21.jpg
+            </str>
+            <str>
+            21;https://cdn-2.eneighborhoods.com/x2/@v=-1777516@/1002/5/578/a10361578/a10361578_22.jpg
+            </str>
+            <str>
+            22;https://cdn-2.eneighborhoods.com/x2/@v=-728940@/1002/5/578/a10361578/a10361578_23.jpg
+            </str>
+            <str>
+            23;https://cdn-2.eneighborhoods.com/x2/@v=-8068972@/1002/5/578/a10361578/a10361578_24.jpg
+            </str>
+            <str>
+            24;https://cdn-2.eneighborhoods.com/x2/@v=-7020396@/1002/5/578/a10361578/a10361578_25.jpg
+            </str>
+            <str>
+            25;https://cdn-2.eneighborhoods.com/x2/@v=-5971820@/1002/5/578/a10361578/a10361578_26.jpg
+            </str>
+            <str>
+            26;https://cdn-2.eneighborhoods.com/x2/@v=-4923244@/1002/5/578/a10361578/a10361578_27.jpg
+            </str>
+            <str>
+            27;https://cdn-2.eneighborhoods.com/x2/@v=-12263276@/1002/5/578/a10361578/a10361578_28.jpg
+            </str>
+            <str>
+            28;https://cdn-2.eneighborhoods.com/x2/@v=-11214700@/1002/5/578/a10361578/a10361578_29.jpg
+            </str>
+            <str>
+            29;https://cdn-2.eneighborhoods.com/x2/@v=-20651884@/1002/5/578/a10361578/a10361578_30.jpg
+            </str>
+            <str>
+            30;https://cdn-2.eneighborhoods.com/x2/@v=-19603308@/1002/5/578/a10361578/a10361578_31.jpg
+            </str>
+            <str>
+            31;https://cdn-2.eneighborhoods.com/x2/@v=-18554732@/1002/5/578/a10361578/a10361578_32.jpg
+            </str>
+            <str>
+            32;https://cdn-2.eneighborhoods.com/x2/@v=-17506156@/1002/5/578/a10361578/a10361578_33.jpg
+            </str>
+            </arr>
+            <int name="image_count">33</int>
+            <str name="main_image">
+            https://cdn-2.eneighborhoods.com/x2/@v=-1081581219@/1002/5/578/a10361578/a10361578_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">10</int>
+            <arr name="detail_attributes">
+            <str>ld_agent_name;Julia Iourova</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;3059321000</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Florida Best Realty, Inc.</str>
+            <str>ld_broker_phone;3057920800</str>
+            </arr>
+            <str name="city_preferred">NORTH MIAMI BEACH</str>
+            <arr name="places">
+            <str>SUNNY ISLES</str>
+            <str>AVENTURA</str>
+            <str>GOLDEN BEACH</str>
+            <str>MIAMI</str>
+            <str>NORTH MIAMI BEACH</str>
+            <str>SUNNY ISLES BEACH</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>ACQUALINA RESORT AND SPA ON THE BEACH</str>
+            <str>SUNNY ISLES BEACH</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Acqualina Resort and Spa on the Beach;R;Y</str>
+            <str>Sunny Isles Beach;N;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">25.933900000000001,-80.146699999999996</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/17875-collins-ave-1705-north-miami-beach-fl-33160/id-200006561908/?listing_status=for_rent
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>25.940876,-80.120506</str>
+            </arr>
+            <str name="latlng_combo_str_11">dhx58f6h8cu</str>
+            <str name="latlng_combo_str_10">dhx58f6h8c</str>
+            <str name="latlng_combo_str_9">dhx58f6h8</str>
+            <str name="latlng_combo_str_8">dhx58f6h</str>
+            <str name="latlng_combo_str_7">dhx58f6</str>
+            <str name="latlng_combo_str_6">dhx58f</str>
+            <str name="latlng_combo_str_5">dhx58</str>
+            <str name="latlng_combo_str_4">dhx5</str>
+            <str name="latlng_combo_str_3">dhx</str>
+            <str name="latlng_combo_str_2">dh</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 17875 Collins Ave 1705 Sunny Isles, FL 33160 US and has been listed on Homes.com since 25 October 2017 and is currently priced at $13,500. This property was built in 2006. 17875 Collins Ave 1705 is within the school district(s) Miami-dade County School District with nearby schools including Norman S Edlecup/sunny Isles Beach K-8 School, Highland Oaks Middle School, and Alonzo And Tracy Mourning Senior High School. Similar properties nearby are <a href="/property/17875-collins-ave-4102-north-miami-beach-fl-33160/id-200000456549/?listing_status=for_rent">17875 Collins Ave 4102</a>, <a href="/property/17875-collins-ave-2702-north-miami-beach-fl-33160/id-200000456598/">17875 Collins Ave 2702</a>, <a href="/property/17875-collins-ave-502-north-miami-beach-fl-33160/id-200005697318/">17875 Collins Ave 502</a>, <a href="/property/17875-collins-ave-3102-north-miami-beach-fl-33160/id-200000456600/?listing_status=for_rent">17875 Collins Ave 3102</a>, <a href="/property/10295-collins-ave-1905-miami-beach-fl-33154/id-200000245351/">10295 Collins Ave 1905</a>, <a href="/property/17875-collins-ave-3202-north-miami-beach-fl-33160/id-200008038462/">17875 Collins Ave 3202</a>, <a href="/property/17875-collins-ave-1905-north-miami-beach-fl-33160/id-200006562067/?listing_status=for_rent">17875 Collins Ave 1905</a>, <a href="/property/17875-collins-ave-4205-north-miami-beach-fl-33160/id-200004375039/">17875 Collins Ave 4205</a>, and <a href="/property/17875-collins-ave-4405-north-miami-beach-fl-33160/id-200008592127/">17875 Collins Ave 4405</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;33008</str>
+            <str>zip;33169</str>
+            <str>zip;33168</str>
+            <str>zip;33154</str>
+            <str>zip;33269</str>
+            <str>zip;33161</str>
+            <str>zip;33162</str>
+            <str>zip;33022</str>
+            <str>zip;33179</str>
+            <str>zip;33153</str>
+            <str>zip;33141</str>
+            <str>zip;33163</str>
+            <str>zip;33181</str>
+            <str>zip;33020</str>
+            <str>zip;33238</str>
+            <str>zip;33261</str>
+            <str>zip;33021</str>
+            <str>zip;33164</str>
+            <str>zip;33023</str>
+            <str>zip;33009</str>
+            <str>zip;33180</str>
+            <str>zip;33083</str>
+            <str>zip;33019</str>
+            <str>zip;33280</str>
+            </arr>
+            <long name="_version_">1627863125204140034</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:33.122Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000014486030</str>
+            <str>900000139935</str>
+            </arr>
+            <double name="lat">32.960844</double>
+            <str name="city">DEL MAR</str>
+            <str name="cbsa">41740</str>
+            <int name="half_baths">0</int>
+            <str name="listing_type">RESALE</str>
+            <str name="zip">92014</str>
+            <int name="year_built">1970</int>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="latlng_combo">32.960844,-117.266425</str>
+            <int name="supplier_id">875</int>
+            <double name="lng">-117.266425</double>
+            <str name="supplier_id_name">San Diego MLS</str>
+            <str name="address_mapped">1558 CAMINO DEL MAR 421;DEL MAR;CA;92014;US</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <arr name="headline_elements">
+            <str>square_footage;900 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Ocean Windows Condominiums</str>
+            </arr>
+            <str name="headline">900 SqFt House In Ocean Windows Condominiums</str>
+            <str name="acct_level">F</str>
+            <date name="supplier_update">2018-12-30T11:35:00Z</date>
+            <str name="mls_partnership">Y</str>
+            <long name="hdc_uuid">900000139935</long>
+            <str name="subdivision">DEL MAR</str>
+            <str name="state">CA</str>
+            <str name="lsid">71107</str>
+            <str name="county">SAN DIEGO</str>
+            <str name="acct_type">AGENT</str>
+            <str name="mls_number">170045551</str>
+            <int name="full_baths">2</int>
+            <int name="agent_id">21223426</int>
+            <date name="listing_date">2017-08-30T08:13:55Z</date>
+            <str name="sub_division">DEL MAR</str>
+            <float name="total_baths">2.0</float>
+            <int name="office_id">16228222</int>
+            <str name="country">US</str>
+            <str name="supplier_listing_id">170045551</str>
+            <str name="premier_flag">N</str>
+            <date name="last_update">2019-03-13T00:26:43Z</date>
+            <str name="propid">346452655</str>
+            <int name="square_footage">900</int>
+            <long name="sz_id">900000139935</long>
+            <int name="price">10000</int>
+            <str name="listing_status">FOR RENT</str>
+            <int name="beds">1</int>
+            <str name="address">1558 CAMINO DEL MAR #421</str>
+            <str name="homesconnect_id">150430240</str>
+            <str name="virtual_tour">Y</str>
+            <str name="virtual_tour_url">
+            http://www.propertypanorama.com/instaview/snd/170045551
+            </str>
+            <str name="parking">Y</str>
+            <str name="pool">Y</str>
+            <str name="natural_gas">Y</str>
+            <str name="garage">Y</str>
+            <arr name="features">
+            <str>Cooling;Central Forced Air</str>
+            <str>Equipment;Dishwasher</str>
+            <str>Equipment;Disposal</str>
+            <str>Equipment;Dryer</str>
+            <str>Equipment;Microwave</str>
+            <str>Equipment;Range/Oven</str>
+            <str>Equipment;Refrigerator</str>
+            <str>Equipment;Washer</str>
+            <str>Laundry;Electric</str>
+            <str>Laundry;Gas</str>
+            <str>Laundry Location;Closet Full Sized</str>
+            <str>Laundry Location;Laundry Room</str>
+            <str>Garage/Parking;Assigned</str>
+            <str>Occupant;Vacant</str>
+            <str>Pool;Above Ground</str>
+            <str>Parking;Assigned</str>
+            <str>Heating;Forced Air Unit</str>
+            <str>Heating Source;Natural Gas</str>
+            <str>Restrictions;CC&R's</str>
+            <str>Community;DEL MAR</str>
+            <str>Complex Features;BBQ</str>
+            <str>Complex Features;Beach Rights</str>
+            <str>Complex Features;Concierge</str>
+            <str>Complex Features;Exercise Room</str>
+            <str>Complex Features;Laundry Facilities</str>
+            <str>Complex Features;Tennis Courts</str>
+            <str>Contingency;None Known</str>
+            <str>Move In Requirements;Cashier Check/Money Order</str>
+            <str>Move In Requirements;Pet Deposit</str>
+            <str>Move In Requirements;Security Deposit</str>
+            <str>Sale Rent;For Rent</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Exterior Features;Barbeque Area;N</str>
+            <str>Appliances;Dryer;N</str>
+            <str>Appliances;Microwave;N</str>
+            <str>Heating Fuels;Gas;Y</str>
+            <str>Cooling;Central;N</str>
+            <str>Appliances;Dishwasher;N</str>
+            <str>Exterior Features;Sports Court;N</str>
+            <str>Appliances;Washer;N</str>
+            <str>Heating;Forced Air;Y</str>
+            <str>Appliances;Range / Oven;N</str>
+            <str>Assessed Fees;Deposit Fees;N</str>
+            <str>Appliances;Refrigerator;N</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <str name="appliances_ss">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="basement">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="pool_community">N</str>
+            <str name="bonus_room">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="fireplace">N</str>
+            <str name="hardwood_floors">N</str>
+            <arr name="features_ranked">
+            <str>Exterior Features;Barbeque Area;N</str>
+            <str>Appliances;Dryer;N</str>
+            <str>Appliances;Washer;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Barbeque Area</str>
+            <str>Dryer</str>
+            <str>Washer</str>
+            </arr>
+            <str name="apn">2993100505</str>
+            <str name="fips_code">06073</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;DEL MAR HILLS ACADEMY</str>
+            <str>P_hdcgrd;A+</str>
+            <str>P_pupteach;23.1</str>
+            <str>P_nces_schid;061074001190</str>
+            <str>P_sch_dist;1.29</str>
+            <str>
+            P_district;DEL MAR UNION ELEMENTARY SCHOOL DISTRICT
+            </str>
+            <str>P_nces_disid;0610740</str>
+            <str>P_assigned;N</str>
+            <str>M_sch_name;EARL WARREN MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;A</str>
+            <str>M_pupteach;26.48</str>
+            <str>M_nces_schid;063438005575</str>
+            <str>M_sch_dist;2.35</str>
+            <str>M_district;SAN DIEGUITO UNION HIGH SCHOOL DISTRICT</str>
+            <str>M_nces_disid;0634380</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;TORREY PINES HIGH SCHOOL</str>
+            <str>H_hdcgrd;A</str>
+            <str>H_pupteach;26.56</str>
+            <str>H_nces_schid;063438005579</str>
+            <str>H_sch_dist;2.41</str>
+            <str>H_district;SAN DIEGUITO UNION HIGH SCHOOL DISTRICT</str>
+            <str>H_nces_disid;0634380</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-7.eneighborhoods.com/x2/@v=-106746422@/71107/5/551/170045551/170045551_1.jpg
+            </str>
+            <str>
+            1;https://cdn-7.eneighborhoods.com/x2/@v=-107794998@/71107/5/551/170045551/170045551_2.jpg
+            </str>
+            <str>
+            2;https://cdn-7.eneighborhoods.com/x2/@v=-108843574@/71107/5/551/170045551/170045551_3.jpg
+            </str>
+            <str>
+            3;https://cdn-7.eneighborhoods.com/x2/@v=-101503542@/71107/5/551/170045551/170045551_4.jpg
+            </str>
+            <str>
+            4;https://cdn-7.eneighborhoods.com/x2/@v=-102552118@/71107/5/551/170045551/170045551_5.jpg
+            </str>
+            <str>
+            5;https://cdn-7.eneighborhoods.com/x2/@v=-103600694@/71107/5/551/170045551/170045551_6.jpg
+            </str>
+            <str>
+            6;https://cdn-7.eneighborhoods.com/x2/@v=-104649270@/71107/5/551/170045551/170045551_7.jpg
+            </str>
+            <str>
+            7;https://cdn-7.eneighborhoods.com/x2/@v=-114086454@/71107/5/551/170045551/170045551_8.jpg
+            </str>
+            <str>
+            8;https://cdn-7.eneighborhoods.com/x2/@v=-115135030@/71107/5/551/170045551/170045551_9.jpg
+            </str>
+            <str>
+            9;https://cdn-7.eneighborhoods.com/x2/@v=-1631788585@/71107/5/551/170045551/170045551_10.jpg
+            </str>
+            <str>
+            10;https://cdn-7.eneighborhoods.com/x2/@v=-1632837161@/71107/5/551/170045551/170045551_11.jpg
+            </str>
+            <str>
+            11;https://cdn-7.eneighborhoods.com/x2/@v=-1633885737@/71107/5/551/170045551/170045551_12.jpg
+            </str>
+            <str>
+            12;https://cdn-7.eneighborhoods.com/x2/@v=-1634934313@/71107/5/551/170045551/170045551_13.jpg
+            </str>
+            <str>
+            13;https://cdn-7.eneighborhoods.com/x2/@v=-1627594281@/71107/5/551/170045551/170045551_14.jpg
+            </str>
+            <str>
+            14;https://cdn-7.eneighborhoods.com/x2/@v=-1628642857@/71107/5/551/170045551/170045551_15.jpg
+            </str>
+            <str>
+            15;https://cdn-7.eneighborhoods.com/x2/@v=-1629691433@/71107/5/551/170045551/170045551_16.jpg
+            </str>
+            <str>
+            16;https://cdn-7.eneighborhoods.com/x2/@v=-1630740009@/71107/5/551/170045551/170045551_17.jpg
+            </str>
+            <str>
+            17;https://cdn-7.eneighborhoods.com/x2/@v=-1640177193@/71107/5/551/170045551/170045551_18.jpg
+            </str>
+            <str>
+            18;https://cdn-7.eneighborhoods.com/x2/@v=-1641225769@/71107/5/551/170045551/170045551_19.jpg
+            </str>
+            </arr>
+            <int name="image_count">19</int>
+            <str name="main_image">
+            https://cdn-7.eneighborhoods.com/x2/@v=-106746422@/71107/5/551/170045551/170045551_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">10</int>
+            <arr name="detail_attributes">
+            <str>dma_name;San-Diego-825</str>
+            <str>ld_agent_name;Myriam Huneke</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;6192469999</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Associated Brokers</str>
+            <str>ld_broker_phone;6192469999</str>
+            <str>agent_license_number;00347276</str>
+            </arr>
+            <str name="city_preferred">DEL MAR</str>
+            <arr name="places">
+            <str>DEL MAR</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>OCEAN WINDOWS CONDOMINIUMS</str>
+            <str>DEL MAR</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Ocean Windows Condominiums;R;Y</str>
+            <str>Del Mar;N;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">32.969700000000003,-117.2461</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/1558-camino-del-mar-421-del-mar-ca-92014/id-900000139935/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>32.960844,-117.266425</str>
+            </arr>
+            <str name="latlng_combo_str_11">9muee834y4x</str>
+            <str name="latlng_combo_str_10">9muee834y4</str>
+            <str name="latlng_combo_str_9">9muee834y</str>
+            <str name="latlng_combo_str_8">9muee834</str>
+            <str name="latlng_combo_str_7">9muee83</str>
+            <str name="latlng_combo_str_6">9muee8</str>
+            <str name="latlng_combo_str_5">9muee</str>
+            <str name="latlng_combo_str_4">9mue</str>
+            <str name="latlng_combo_str_3">9mu</str>
+            <str name="latlng_combo_str_2">9m</str>
+            <str name="latlng_combo_str_1">9</str>
+            <int name="sort_score">-999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 1558 Camino Del Mar #421 Del Mar, CA 92014 US and has been listed on Homes.com since 30 August 2017 and is currently priced at $10,000, approximately $11 per square foot. This property was built in 1970. 1558 Camino Del Mar #421 is within the school district(s) Del Mar Union Elementary School District and San Dieguito Union High School District with nearby schools including Del Mar Hills Academy, Earl Warren Middle School, and Torrey Pines High School. Similar properties nearby are <a href="/property/1558-camino-del-mar-421-del-mar-ca-92014/id-900000139935/">1558 Camino Del Mar 421</a>, <a href="/property/1552-camino-del-mar-619-del-mar-ca-92014/id-100004777435/">1552 Camino Del Mar 619</a>, <a href="/property/1558-camino-del-mar-419-del-mar-ca-92014/id-900000139936/">1558 Camino Del Mar 419</a>, <a href="/property/2004-de-mayo-rd-del-mar-ca-92014/id-100001907286/">2004 De Mayo Rd</a>, <a href="/property/564-amphitheatre-dr-del-mar-ca-92014/id-100004778703/">564 Amphitheatre Dr</a>, <a href="/property/1305-luneta-dr-del-mar-ca-92014/id-100001906007/">1305 Luneta Dr</a>, <a href="/property/1812-ocean-front-del-mar-ca-92014/id-100012209528/">1812 Ocean Front</a>, and <a href="/property/1939-sand-barr-ln-del-mar-ca-92014/id-100012210479/">1939 Sand Barr Ln</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;ESCONDIDO</str>
+            <str>city;NATIONAL CITY</str>
+            <str>zip;92197</str>
+            <str>zip;92126</str>
+            <str>zip;92128</str>
+            <str>city;POWAY</str>
+            <str>zip;92130</str>
+            <str>city;LEMON GROVE</str>
+            <str>zip;92192</str>
+            <str>zip;92161</str>
+            <str>zip;92172</str>
+            <str>city;BONITA</str>
+            <str>city;SAN MARCOS</str>
+            <str>city;OCEANSIDE</str>
+            <str>city;VALLEY CENTER</str>
+            <str>zip;92075</str>
+            <str>zip;92024</str>
+            <str>zip;92037</str>
+            <str>zip;92091</str>
+            <str>zip;92145</str>
+            <str>city;SOLANA BEACH</str>
+            <str>city;VISTA</str>
+            <str>city;LA MESA</str>
+            <str>city;RAMONA</str>
+            <str>zip;92191</str>
+            <str>city;SAN DIEGO</str>
+            <str>zip;92023</str>
+            <str>city;SANTEE</str>
+            <str>zip;92007</str>
+            <str>city;ENCINITAS</str>
+            <str>city;RANCHO SANTA FE</str>
+            <str>zip;92039</str>
+            <str>zip;92067</str>
+            <str>zip;92092</str>
+            <str>zip;92121</str>
+            <str>zip;92038</str>
+            <str>zip;92129</str>
+            <str>city;LAKESIDE</str>
+            <str>zip;92127</str>
+            <str>zip;92196</str>
+            <str>city;CARLSBAD</str>
+            <str>zip;92093</str>
+            <str>city;CORONADO</str>
+            <str>zip;92009</str>
+            <str>city;EL CAJON</str>
+            <str>city;BONSALL</str>
+            </arr>
+            <long name="_version_">1627863125509275648</long>
+            <date name="timestamp">2019-03-13T04:27:33.388Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>300013322380</str>
+            </arr>
+            <str name="county">PIMA</str>
+            <date name="supplier_update">2018-07-28T00:26:25Z</date>
+            <str name="property_type">RESIDENTIAL</str>
+            <int name="agent_id">1348389</int>
+            <str name="state">AZ</str>
+            <str name="listing_status">FOR RENT</str>
+            <int name="beds">2</int>
+            <str name="supplier_listing_id">21311287</str>
+            <int name="supplier_id">124</int>
+            <str name="country">US</str>
+            <str name="acct_type">AGENT</str>
+            <str name="cbsa">46060</str>
+            <int name="full_baths">2</int>
+            <float name="lot_size">0.13</float>
+            <float name="num_stories">0.0</float>
+            <int name="threeqtr_baths">0</int>
+            <str name="supplier_id_name">MLS of Southern Arizona (Formerly Tucson AOR)</str>
+            <str name="listing_type">RESALE</str>
+            <int name="year_built">1989</int>
+            <date name="last_update">2019-03-13T00:26:32Z</date>
+            <str name="latlng_combo">32.308376,-110.846559</str>
+            <long name="sz_id">300013322380</long>
+            <double name="lng">-110.846559</double>
+            <str name="propid">187984257</str>
+            <int name="half_baths">0</int>
+            <int name="price">1550</int>
+            <double name="street_view_direction">184.0</double>
+            <str name="sub_division">FAIRFIELD SUNRISE EAST (1-520)</str>
+            <str name="acct_level">F</str>
+            <arr name="headline_elements">
+            <str>home_condition;Updated</str>
+            <str>bedrooms;2-Bedroom</str>
+            <str>home_type;House</str>
+            <str>location_prep;With Mountain Views</str>
+            </arr>
+            <str name="headline">Updated 2-Bedroom House With Mountain Views</str>
+            <int name="square_footage">1495</int>
+            <float name="total_baths">2.0</float>
+            <int name="oneqtr_baths">0</int>
+            <str name="mls_number">21311287</str>
+            <str name="zip">85750</str>
+            <int name="office_id">2775872</int>
+            <date name="listing_date">2016-02-16T10:21:24Z</date>
+            <str name="subdivision">FAIRFIELD SUNRISE EAST (1-520)</str>
+            <str name="address_mapped">5566 N LARGO ARANCIO;TUCSON;AZ;85750;US</str>
+            <str name="street_view_latlng_combo">32.308798,-110.84704</str>
+            <str name="city">TUCSON</str>
+            <str name="lsid">132</str>
+            <long name="hdc_uuid">300013322380</long>
+            <str name="premier_flag">N</str>
+            <str name="caption">
+            CALL FOR SEASONAL RATES AND AVAILABILITY. This spacious townhome offers magnificent mountain views from almost every window! Perfect fully furnished corporate or vacation rental. Discounted summer rates! Split floor plan, 2BD/2BA + a den. Large patio with stunning mountain views. Located at the end of the cul-de-sac, 1 car garage and updated kitchen. Large master suite with duel sinks, separate tub & shower. All utilities, cable and Wifi Internet included in monthly rent.
+            </str>
+            <double name="lat">32.308376</double>
+            <str name="address">5566 N LARGO CIPRESSI</str>
+            <str name="homesconnect_id">150552178</str>
+            <arr name="custom_srp">
+            <str>davis-monthan-air-force-base</str>
+            </arr>
+            <arr name="arch_style">
+            <str>CONTEMPORARY</str>
+            </arr>
+            <arr name="view">
+            <str>MOUNTAIN</str>
+            <str>MOUNTAIN</str>
+            </arr>
+            <str name="pool_community">Y</str>
+            <str name="pool">Y</str>
+            <arr name="ext_finish">
+            <str>STUCCO</str>
+            <str>STUCCO</str>
+            </arr>
+            <arr name="features">
+            <str>Flooring;Carpet</str>
+            <str>Flooring;Ceramic Tile</str>
+            <str>Construction;Frame - Stucco</str>
+            <str>Roofing;Tile</str>
+            <str>Style;Contemporary</str>
+            <str>View;Mountain</str>
+            <str>Basement;No</str>
+            <str>Fencing;Block</str>
+            <str>Horse Property;No</str>
+            <str>Pool;Community</str>
+            <str>Spa;Community</str>
+            <str>Patio;Covered</str>
+            <str>Amenities;Tennis</str>
+            <str>Zoning;Pima County - CR4</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Roof;Tile;N</str>
+            <str>Exterior Features;Patio;N</str>
+            <str>Exterior Features;Hot Tub / Spa;N</str>
+            <str>View;Mountain;N</str>
+            <str>Flooring;Carpet;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Exterior Build;Stucco;N</str>
+            <str>Exterior Features;Tennis Court;N</str>
+            <str>Community;Pool;N</str>
+            </arr>
+            <str name="parking">Y</str>
+            <arr name="lot_type">
+            <str>CULDESAC</str>
+            </arr>
+            <str name="garage">Y</str>
+            <str name="hardwood_floors">N</str>
+            <str name="natural_gas">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="fireplace">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="bonus_room">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="basement">N</str>
+            <arr name="features_ranked">
+            <str>Exterior Features;Patio;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Exterior Features;Hot Tub / Spa;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Patio</str>
+            <str>Tile Flooring</str>
+            <str>Hot Tub</str>
+            </arr>
+            <str name="supplier_school_district">CATALINA FOOTHILLS</str>
+            <str name="supplier_school_elementary">VENTANA VISTA</str>
+            <str name="supplier_school_middle">ESPERERO CANYON</str>
+            <str name="supplier_school_high">CATALINA FTHLS</str>
+            <str name="apn">114155750</str>
+            <str name="fips_code">04019</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;VENTANA VISTA ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;A-</str>
+            <str>P_pupteach;17.22</str>
+            <str>P_nces_schid;040176001002</str>
+            <str>P_sch_dist;0.68</str>
+            <str>P_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>P_nces_disid;0401760</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;ESPERERO CANYON MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;A-</str>
+            <str>M_pupteach;18.51</str>
+            <str>M_nces_schid;040176001487</str>
+            <str>M_sch_dist;1.17</str>
+            <str>M_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>M_nces_disid;0401760</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;CATALINA FOOTHILLS HIGH SCHOOL</str>
+            <str>H_hdcgrd;A-</str>
+            <str>H_pupteach;20.53</str>
+            <str>H_nces_schid;040176000011</str>
+            <str>H_sch_dist;3.07</str>
+            <str>H_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>H_nces_disid;0401760</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-2.eneighborhoods.com/x2/@v=-1022676202@/132/2/287/21311287/21311287_1.jpg
+            </str>
+            <str>
+            1;https://cdn-2.eneighborhoods.com/x2/@v=-1019530474@/132/2/287/21311287/21311287_2.jpg
+            </str>
+            <str>
+            2;https://cdn-2.eneighborhoods.com/x2/@v=-1020579050@/132/2/287/21311287/21311287_3.jpg
+            </str>
+            <str>
+            3;https://cdn-2.eneighborhoods.com/x2/@v=-1017433322@/132/2/287/21311287/21311287_4.jpg
+            </str>
+            <str>
+            4;https://cdn-2.eneighborhoods.com/x2/@v=-1018481898@/132/2/287/21311287/21311287_5.jpg
+            </str>
+            <str>
+            5;https://cdn-2.eneighborhoods.com/x2/@v=-1015336170@/132/2/287/21311287/21311287_6.jpg
+            </str>
+            <str>
+            6;https://cdn-2.eneighborhoods.com/x2/@v=-1016384746@/132/2/287/21311287/21311287_7.jpg
+            </str>
+            <str>
+            7;https://cdn-2.eneighborhoods.com/x2/@v=-1013239018@/132/2/287/21311287/21311287_8.jpg
+            </str>
+            <str>
+            8;https://cdn-2.eneighborhoods.com/x2/@v=-1014287594@/132/2/287/21311287/21311287_9.jpg
+            </str>
+            <str>
+            9;https://cdn-2.eneighborhoods.com/x2/@v=835295173@/132/2/287/21311287/21311287_10.jpg
+            </str>
+            <str>
+            10;https://cdn-2.eneighborhoods.com/x2/@v=836343749@/132/2/287/21311287/21311287_11.jpg
+            </str>
+            <str>
+            11;https://cdn-2.eneighborhoods.com/x2/@v=837392325@/132/2/287/21311287/21311287_12.jpg
+            </str>
+            <str>
+            12;https://cdn-2.eneighborhoods.com/x2/@v=838440901@/132/2/287/21311287/21311287_13.jpg
+            </str>
+            <str>
+            13;https://cdn-2.eneighborhoods.com/x2/@v=831100869@/132/2/287/21311287/21311287_14.jpg
+            </str>
+            <str>
+            14;https://cdn-2.eneighborhoods.com/x2/@v=832149445@/132/2/287/21311287/21311287_15.jpg
+            </str>
+            <str>
+            15;https://cdn-2.eneighborhoods.com/x2/@v=833198021@/132/2/287/21311287/21311287_16.jpg
+            </str>
+            <str>
+            16;https://cdn-2.eneighborhoods.com/x2/@v=834246597@/132/2/287/21311287/21311287_17.jpg
+            </str>
+            <str>
+            17;https://cdn-2.eneighborhoods.com/x2/@v=826906565@/132/2/287/21311287/21311287_18.jpg
+            </str>
+            <str>
+            18;https://cdn-2.eneighborhoods.com/x2/@v=827955141@/132/2/287/21311287/21311287_19.jpg
+            </str>
+            <str>
+            19;https://cdn-2.eneighborhoods.com/x2/@v=852072389@/132/2/287/21311287/21311287_20.jpg
+            </str>
+            <str>
+            20;https://cdn-2.eneighborhoods.com/x2/@v=853120965@/132/2/287/21311287/21311287_21.jpg
+            </str>
+            </arr>
+            <int name="image_count">21</int>
+            <str name="main_image">
+            https://cdn-2.eneighborhoods.com/x2/@v=-1022676202@/132/2/287/21311287/21311287_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Tucson-Sierra-Vista-789</str>
+            <str>ld_agent_name;James Servoss</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;5206031549</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/6143354721
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Keller Williams Southern Arizona</str>
+            <str>ld_broker_phone;5206158400</str>
+            </arr>
+            <str name="city_preferred">TUCSON</str>
+            <arr name="places">
+            <str>TUCSON</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>SUNRISE PRESIDIO EAST</str>
+            <str>CATALINA FOOTHILLS</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Sunrise Presidio East;N;Y</str>
+            <str>Catalina Foothills;M;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">32.299100000000003,-110.8434</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/5566-n-largo-arancio-tucson-az-85750/id-300013322380/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>32.308376,-110.846559</str>
+            </arr>
+            <str name="latlng_combo_str_11">9t9pv9eczvy</str>
+            <str name="latlng_combo_str_10">9t9pv9eczv</str>
+            <str name="latlng_combo_str_9">9t9pv9ecz</str>
+            <str name="latlng_combo_str_8">9t9pv9ec</str>
+            <str name="latlng_combo_str_7">9t9pv9e</str>
+            <str name="latlng_combo_str_6">9t9pv9</str>
+            <str name="latlng_combo_str_5">9t9pv</str>
+            <str name="latlng_combo_str_4">9t9p</str>
+            <str name="latlng_combo_str_3">9t9</str>
+            <str name="latlng_combo_str_2">9t</str>
+            <str name="latlng_combo_str_1">9</str>
+            <int name="sort_score">-999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 5566 N Largo Cipressi Tucson, AZ 85750 US and has been listed on Homes.com since 16 February 2016 and is currently priced at $1,550, approximately $1 per square foot. This property was built in 1989. 5566 N Largo Cipressi is within the school district(s) Catalina Foothills Unified District with nearby schools including Ventana Vista Elementary School, Esperero Canyon Middle School, and Catalina Foothills High School. Similar properties nearby are <a href="/property/5051-n-sabino-canyon-rd-2165-tucson-az-85750/id-300020647842/">5051 N Sabino Canyon Rd 2165</a>, <a href="/property/7050-e-sunrise-dr-6106-tucson-az-85750/id-1000056659852/">7050 E Sunrise Dr 6106</a>, <a href="/property/6655-n-canyon-crest-dr-10260-tucson-az-85750/id-300013340640/">6655 N Canyon Crest Dr 10260</a>, <a href="/property/7255-e-snyder-rd-9204-tucson-az-85750/id-300013299764/">7255 E Snyder Rd 9204</a>, <a href="/property/7050-e-sunrise-dr-8204-tucson-az-85750/id-300021692429/">7050 E Sunrise Dr 8204</a>, <a href="/property/7050-e-sunrise-dr-13105-tucson-az-85750/id-300019984670/">7050 E Sunrise Dr 13105</a>, and <a href="/property/7050-e-sunrise-dr-18108-tucson-az-85750/id-300020182626/">7050 E Sunrise Dr 18108</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;85718</str>
+            <str>zip;85721</str>
+            <str>zip;85724</str>
+            <str>zip;85619</str>
+            <str>zip;85732</str>
+            <str>zip;85708</str>
+            <str>zip;85703</str>
+            <str>zip;85733</str>
+            <str>zip;85717</str>
+            <str>zip;85751</str>
+            <str>zip;85740</str>
+            <str>zip;85730</str>
+            <str>city;SAHUARITA</str>
+            <str>city;RILLITO</str>
+            <str>zip;85704</str>
+            <str>zip;85722</str>
+            <str>zip;85715</str>
+            <str>zip;85712</str>
+            <str>zip;85707</str>
+            <str>city;CATALINA</str>
+            <str>zip;85748</str>
+            <str>city;VAIL</str>
+            <str>zip;85728</str>
+            <str>city;GREEN VALLEY</str>
+            <str>zip;85749</str>
+            <str>zip;85731</str>
+            <str>zip;85716</str>
+            <str>zip;85641</str>
+            <str>zip;85710</str>
+            <str>zip;85738</str>
+            </arr>
+            <long name="_version_">1627863122773540864</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:30.807Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>100003177835</str>
+            </arr>
+            <str name="supplier_listing_id">IV18022967</str>
+            <str name="propid">378642501</str>
+            <int name="office_id">14490012</int>
+            <long name="sz_id">100003177835</long>
+            <str name="sub_division">252 - RIVERSIDE</str>
+            <str name="mls_partnership">Y</str>
+            <str name="address_mapped">2873 DENTON ST;RIVERSIDE;CA;92507;US</str>
+            <str name="latlng_combo">33.967951,-117.370494</str>
+            <int name="supplier_id">869</int>
+            <date name="listing_date">2019-02-01T07:58:22Z</date>
+            <str name="lsid">70124</str>
+            <str name="listing_type">RESALE</str>
+            <str name="listing_url">
+            https://www.homesnap.com/action?a=10&mls=52000&num=IV18022967
+            </str>
+            <date name="supplier_update">2019-02-26T18:28:26Z</date>
+            <int name="full_baths">1</int>
+            <str name="acct_level">F</str>
+            <int name="agent_id">11993324</int>
+            <str name="cbsa">40140</str>
+            <str name="supplier_id_name">California Regional MLS</str>
+            <int name="year_built">1920</int>
+            <str name="acct_type">AGENT</str>
+            <float name="total_baths">2.0</float>
+            <str name="country">US</str>
+            <str name="city">RIVERSIDE</str>
+            <long name="hdc_uuid">100003177835</long>
+            <date name="last_update">2019-03-13T00:26:47Z</date>
+            <str name="zip">92507</str>
+            <str name="subdivision">252 - RIVERSIDE</str>
+            <float name="lot_size">0.14</float>
+            <str name="mls_partnership_show_badge">Y</str>
+            <int name="square_footage">780</int>
+            <str name="property_type">RESIDENTIAL</str>
+            <double name="lat">33.967951</double>
+            <int name="beds">2</int>
+            <str name="county">RIVERSIDE</str>
+            <int name="price">1750</int>
+            <arr name="headline_elements">
+            <str>square_footage;780 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Eastside</str>
+            </arr>
+            <str name="headline">780 SqFt House In Eastside</str>
+            <str name="state">CA</str>
+            <str name="listing_status">FOR RENT</str>
+            <str name="premier_flag">N</str>
+            <double name="lng">-117.370494</double>
+            <int name="half_baths">1</int>
+            <str name="mls_number">IV18022967</str>
+            <float name="num_stories">1.0</float>
+            <str name="caption">
+            This home has been remodel a year ago: new floors, kitchen, paint, carpet etc, spacious back yard. Located near downtown riverside.We will be at and accepting application on the property today February 26, 2019 from 5pm to 7 pm.
+            </str>
+            <str name="address">2873 DENTON STREET</str>
+            <str name="homesconnect_id_parent">150141745</str>
+            <str name="parking">Y</str>
+            <str name="first_floor_master">Y</str>
+            <arr name="features">
+            <str>Cooling;None</str>
+            <str>Furnished;Unfurnished</str>
+            <str>Rooms;All Bedrooms Down</str>
+            <str>Laundry;In Kitchen</str>
+            <str>Fireplace;None</str>
+            <str>Common Walls;1 common wall</str>
+            <str>Levels;One</str>
+            <str>Property Subtype;Single Family Residence</str>
+            <str>View;None</str>
+            <str>Water Source;Public</str>
+            <str>Land Size Source;Assessor</str>
+            <str>Lot Features;Lawn</str>
+            <str>Pool Features;None</str>
+            <str>Parking;Driveway</str>
+            <str>Parking;Gated</str>
+            <str>Heating;None</str>
+            <str>Sewer;Unknown</str>
+            <str>Community Features;Sidewalks</str>
+            <str>Community Features;Street Lighting</str>
+            <str>Pet Fee;No</str>
+            <str>Pets Allowed;Yes</str>
+            <str>Zoning;R2</str>
+            <str>Cashiers Check For;Not Applicable</str>
+            <str>Credit Check Paid By;Tenant</str>
+            <str>Lease Terms;Month to Month</str>
+            <str>Rent Includes;None</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Cooling;None;N</str>
+            <str>View;None;N</str>
+            <str>Lease Term;Monthly;N</str>
+            <str>Heating;None;N</str>
+            </arr>
+            <str name="bonus_room">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="pool_community">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="garage">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="basement">N</str>
+            <str name="pool">N</str>
+            <str name="natural_gas">N</str>
+            <str name="fireplace">N</str>
+            <str name="apn">219113011</str>
+            <str name="fips_code">06065</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;MAGNOLIA ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;B-</str>
+            <str>P_pupteach;27.08</str>
+            <str>P_nces_schid;063315005151</str>
+            <str>P_sch_dist;1.29</str>
+            <str>P_district;RIVERSIDE UNIFIED SCHOOL DISTRICT</str>
+            <str>P_nces_disid;0633150</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;CENTRAL MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;C+</str>
+            <str>M_pupteach;22.85</str>
+            <str>M_nces_schid;063315005134</str>
+            <str>M_sch_dist;0.93</str>
+            <str>M_district;RIVERSIDE UNIFIED SCHOOL DISTRICT</str>
+            <str>M_nces_disid;0633150</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;POLY HIGH SCHOOL</str>
+            <str>H_hdcgrd;B-</str>
+            <str>H_pupteach;26.13</str>
+            <str>H_nces_schid;063315005156</str>
+            <str>H_sch_dist;1.08</str>
+            <str>H_district;RIVERSIDE UNIFIED SCHOOL DISTRICT</str>
+            <str>H_nces_disid;0633150</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-4.eneighborhoods.com/x2/@v=892582526@/124/9/967/IV18022967/IV18022967_0.jpg
+            </str>
+            </arr>
+            <int name="image_count">1</int>
+            <str name="main_image">
+            https://cdn-4.eneighborhoods.com/x2/@v=892582526@/124/9/967/IV18022967/IV18022967_0.jpg
+            </str>
+            <int name="image_count_acctmod">1</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>broker_pma_id;3052333</str>
+            <str>dma_name;Los-Angeles-803</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;9094819400</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;MONACO REALTY</str>
+            <str>ld_broker_name_linked;Y</str>
+            <str>ld_broker_phone;9094819400</str>
+            <str>ld_broker_smf;Y</str>
+            <str>ld_broker_view_listings;Y</str>
+            <str>ld_broker_view_website;Y</str>
+            <str>ld_broker_website_link;</str>
+            <str>agent_license_number;01855530</str>
+            </arr>
+            <str name="city_preferred">RIVERSIDE</str>
+            <arr name="places">
+            <str>RIVERSIDE</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>EASTSIDE</str>
+            <str>EAST RIVERSIDE</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Eastside;N;N</str>
+            <str>East Riverside;M;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">33.984099999999998,-117.32989999999999</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/2873-denton-st-riverside-ca-92507/id-100003177835/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>33.967951,-117.370494</str>
+            </arr>
+            <str name="latlng_combo_str_11">9qh91ptmtm0</str>
+            <str name="latlng_combo_str_10">9qh91ptmtm</str>
+            <str name="latlng_combo_str_9">9qh91ptmt</str>
+            <str name="latlng_combo_str_8">9qh91ptm</str>
+            <str name="latlng_combo_str_7">9qh91pt</str>
+            <str name="latlng_combo_str_6">9qh91p</str>
+            <str name="latlng_combo_str_5">9qh91</str>
+            <str name="latlng_combo_str_4">9qh9</str>
+            <str name="latlng_combo_str_3">9qh</str>
+            <str name="latlng_combo_str_2">9q</str>
+            <str name="latlng_combo_str_1">9</str>
+            <int name="sort_score">-7999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 2873 Denton Street Riverside, CA 92507 US and has been listed on Homes.com since 1 February 2019 and is currently priced at $1,750, approximately $2 per square foot. This property was built in 1920. 2873 Denton Street is within the school district(s) Riverside Unified School District with nearby schools including Magnolia Elementary School, Central Middle School, and Poly High School. Similar properties nearby are <a href="/property/2873-denton-st-riverside-ca-92507/id-100003177835/">2873 Denton St</a>, <a href="/property/1339-massachusetts-ave-104-riverside-ca-92507/id-100010358125/">1339 Massachusetts Ave 104</a>, and <a href="/property/4425-5th-st-riverside-ca-92501/id-100003122099/">4425 5th St</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;PERRIS</str>
+            <str>city;RANCHO CUCAMONGA</str>
+            <str>city;JURUPA VALLEY</str>
+            <str>city;REDLANDS</str>
+            <str>zip;92556</str>
+            <str>zip;92357</str>
+            <str>city;GRAND TERRACE</str>
+            <str>zip;92509</str>
+            <str>zip;92504</str>
+            <str>zip;92318</str>
+            <str>city;FONTANA</str>
+            <str>zip;92522</str>
+            <str>city;ONTARIO</str>
+            <str>zip;92324</str>
+            <str>zip;92373</str>
+            <str>zip;92517</str>
+            <str>zip;92506</str>
+            <str>zip;92521</str>
+            <str>city;SAN BERNARDINO</str>
+            <str>zip;92501</str>
+            <str>zip;92519</str>
+            <str>city;BLOOMINGTON</str>
+            <str>city;RIALTO</str>
+            <str>city;CALIMESA</str>
+            <str>city;LOMA LINDA</str>
+            <str>city;MARCH ARB</str>
+            <str>zip;92516</str>
+            <str>zip;92518</str>
+            <str>zip;92313</str>
+            <str>zip;92316</str>
+            <str>city;YUCAIPA</str>
+            <str>zip;92552</str>
+            <str>city;NORCO</str>
+            <str>zip;92553</str>
+            <str>city;NUEVO</str>
+            <str>zip;92403</str>
+            <str>zip;92354</str>
+            <str>zip;92508</str>
+            <str>city;COLTON</str>
+            <str>zip;92557</str>
+            <str>city;HIGHLAND</str>
+            <str>city;RIVERSIDE</str>
+            <str>city;CORONA</str>
+            <str>zip;92502</str>
+            <str>city;MORENO VALLEY</str>
+            <str>city;MENTONE</str>
+            <str>zip;92514</str>
+            <str>city;CHINO</str>
+            <str>zip;92350</str>
+            </arr>
+            <long name="_version_">1627863126410002432</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:34.282Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>400020906549</str>
+            </arr>
+            <str name="listing_status">FOR RENT</str>
+            <str name="latlng_combo">41.401426,-74.334256</str>
+            <str name="state">NY</str>
+            <int name="agent_id">27399076</int>
+            <str name="subdivision">GOSHEN VILLAGE</str>
+            <long name="sz_id">400020906549</long>
+            <str name="caption">
+            This recently renovated 4 large bedroom 2 bath home with newly finished hardwood floors has a large fenced in back yard and is located on quiet street in the village of Goshen. It is close to parks, public transportation to NYC. Only a short walk away you will find shops and restaurants. On the main floor you will find an eat in kitchen, large living room and large formal dining room as well as the forth bedroom and a large half bath. Outside the home is a private backyard with a cute shed as well as an enclosed deck and off street parking. 1st months rent, 1 moths security an one months rental fee are due at lease signing. Additional off street parking available.
+            </str>
+            <str name="county">ORANGE</str>
+            <date name="listing_date">2018-12-13T17:10:24Z</date>
+            <float name="total_baths">2.0</float>
+            <int name="price">2000</int>
+            <str name="cbsa">35620</str>
+            <int name="supplier_id">128</int>
+            <str name="listing_url">
+            http://151129881.homesconnect.com/listing/227120393-151129881/128%20Spring%20Street-Ne-10924/?RefCode=40001
+            </str>
+            <str name="sub_division">GOSHEN VILLAGE</str>
+            <str name="supplier_id_name">Hudson Gateway Multiple Listing Service</str>
+            <float name="lot_size">0.15</float>
+            <str name="propid">376503527</str>
+            <int name="year_built">1901</int>
+            <str name="address_mapped">128 SPRING ST;GOSHEN;NY;10924;US</str>
+            <str name="acct_level">P</str>
+            <str name="lsid">2446</str>
+            <int name="square_footage">1562</int>
+            <date name="last_update">2019-03-13T00:26:31Z</date>
+            <str name="property_type">RESIDENTIAL</str>
+            <int name="beds">4</int>
+            <date name="supplier_update">2018-12-13T16:05:18Z</date>
+            <str name="acct_type">OFFICE</str>
+            <double name="lng">-74.334256</double>
+            <arr name="headline_elements">
+            <str>square_footage;1562 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Goshen</str>
+            </arr>
+            <str name="headline">1562 SqFt House In Goshen</str>
+            <str name="mls_number">4855469</str>
+            <str name="mls_partnership">Y</str>
+            <str name="premier_flag">Y</str>
+            <int name="full_baths">1</int>
+            <str name="listing_type">RESALE</str>
+            <long name="hdc_uuid">400020906549</long>
+            <float name="num_stories">2.0</float>
+            <str name="city">GOSHEN</str>
+            <int name="office_id">8188962</int>
+            <str name="country">US</str>
+            <double name="lat">41.401426</double>
+            <int name="half_baths">1</int>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="zip">10924</str>
+            <str name="supplier_listing_id">4855469</str>
+            <str name="address">128 SPRING STREET</str>
+            <str name="homesconnect_id_parent">151129881</str>
+            <str name="homesconnect_id_mow">151125064</str>
+            <arr name="arch_style">
+            <str>COLONIAL</str>
+            </arr>
+            <arr name="ext_finish">
+            <str>WOOD</str>
+            <str>WOOD</str>
+            </arr>
+            <str name="basement">Y</str>
+            <str name="first_floor_master">Y</str>
+            <str name="parking">Y</str>
+            <str name="hardwood_floors">Y</str>
+            <arr name="lot_type">
+            <str>PRIVATE</str>
+            <str>LEVEL</str>
+            </arr>
+            <str name="natural_gas">Y</str>
+            <arr name="features">
+            <str>Air Conditioning;None</str>
+            <str>Attic;None</str>
+            <str>Age Description;Actual</str>
+            <str>Dwelling Type;Single Family</str>
+            <str>Property Type;Rental</str>
+            <str>Storage;Basement</str>
+            <str>Style;Colonial</str>
+            <str>Basement;Unfinished</str>
+            <str>Siding;Clap Board</str>
+            <str>Lot Description;Level</str>
+            <str>Parking;Driveway</str>
+            <str>Heating;Hot Water</str>
+            <str>Heating;Natural Gas</str>
+            <str>Heating;Radiator</str>
+            <str>Hot Water;Gas Stand Alone</str>
+            <str>Trash Removal;Private</str>
+            <str>Access Road;Public</str>
+            <str>Adult Community;N</str>
+            <str>Amenities;1st Fl Master Bedroom</str>
+            <str>Amenities;1st Floor Bedrm</str>
+            <str>Amenities;Close to Bus</str>
+            <str>Amenities;Close to Park</str>
+            <str>Amenities;Close to Railroad</str>
+            <str>Amenities;Close to School</str>
+            <str>Amenities;Close to Shops</str>
+            <str>Amenities;Deck</str>
+            <str>Amenities;Eat in Kitchen</str>
+            <str>Amenities;Fenced</str>
+            <str>Amenities;Fenced Yard</str>
+            <str>Amenities;Fencing</str>
+            <str>Amenities;Formal Dining Room</str>
+            <str>Amenities;Hardwood Floors As Seen</str>
+            <str>Amenities;Near Public Transportation</str>
+            <str>Amenities;Porch</str>
+            <str>Amenities;Privacy</str>
+            <str>Amenities;Storage</str>
+            <str>Water;Municipal</str>
+            <str>Water Access;N</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Exterior Features;Deck;N</str>
+            <str>Cooling;None;N</str>
+            <str>Heating;Radiant;N</str>
+            <str>Exterior Build;Wood;N</str>
+            <str>Flooring;Hardwood;N</str>
+            <str>Exterior Features;Fenced Yard;N</str>
+            <str>Exterior Features;Porch;N</str>
+            <str>Rooms;Dining Room;N</str>
+            <str>Interior Features;Basement;N</str>
+            <str>Other;Storage;N</str>
+            <str>Heating Fuels;Gas;Y</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <str name="pool">N</str>
+            <str name="garage">N</str>
+            <str name="bonus_room">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="pool_community">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="fireplace">N</str>
+            <arr name="features_ranked">
+            <str>Exterior Features;Porch;N</str>
+            <str>Flooring;Hardwood;N</str>
+            <str>Exterior Features;Deck;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Porch</str>
+            <str>Hardwood</str>
+            <str>Deck</str>
+            </arr>
+            <str name="supplier_school_district">GOSHEN</str>
+            <str name="supplier_school_elementary">GOSHEN INTERMEDIATE,SCOTCHTOWN AVENUE</str>
+            <str name="supplier_school_middle">C J HOOKER</str>
+            <str name="supplier_school_high">GOSHEN CENTRAL</str>
+            <str name="apn">33300111400000020162200000</str>
+            <str name="fips_code">36071</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;SCOTCHTOWN AVENUE SCHOOL</str>
+            <str>P_pupteach;15.97</str>
+            <str>P_nces_schid;361233000998</str>
+            <str>P_sch_dist;1.03</str>
+            <str>P_district;GOSHEN CENTRAL SCHOOL DISTRICT</str>
+            <str>P_nces_disid;3612330</str>
+            <str>P_assigned;N</str>
+            <str>M_sch_name;C. J. HOOKER MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;B</str>
+            <str>M_pupteach;14.26</str>
+            <str>M_nces_schid;361233000997</str>
+            <str>M_sch_dist;0.75</str>
+            <str>M_district;GOSHEN CENTRAL SCHOOL DISTRICT</str>
+            <str>M_nces_disid;3612330</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;GOSHEN CENTRAL HIGH SCHOOL</str>
+            <str>H_hdcgrd;B+</str>
+            <str>H_pupteach;13.6</str>
+            <str>H_nces_schid;361233000995</str>
+            <str>H_sch_dist;1.38</str>
+            <str>H_district;GOSHEN CENTRAL SCHOOL DISTRICT</str>
+            <str>H_nces_disid;3612330</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            <str>fronteastny</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-6.eneighborhoods.com/x2/@v=1762375016@/2446/4/469/4855469/4855469_1.jpg
+            </str>
+            <str>
+            1;https://cdn-6.eneighborhoods.com/x2/@v=1765520744@/2446/4/469/4855469/4855469_2.jpg
+            </str>
+            <str>
+            2;https://cdn-6.eneighborhoods.com/x2/@v=1764472168@/2446/4/469/4855469/4855469_3.jpg
+            </str>
+            <str>
+            3;https://cdn-6.eneighborhoods.com/x2/@v=1767617896@/2446/4/469/4855469/4855469_4.jpg
+            </str>
+            <str>
+            4;https://cdn-6.eneighborhoods.com/x2/@v=1766569320@/2446/4/469/4855469/4855469_5.jpg
+            </str>
+            <str>
+            5;https://cdn-6.eneighborhoods.com/x2/@v=1769715048@/2446/4/469/4855469/4855469_6.jpg
+            </str>
+            <str>
+            6;https://cdn-6.eneighborhoods.com/x2/@v=1768666472@/2446/4/469/4855469/4855469_7.jpg
+            </str>
+            </arr>
+            <int name="image_count">7</int>
+            <str name="main_image">
+            https://cdn-6.eneighborhoods.com/x2/@v=1762375016@/2446/4/469/4855469/4855469_1.jpg
+            </str>
+            <int name="image_count_acctmod">7</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>broker_pma_id;8022256</str>
+            <str>dma_name;NewYork-501</str>
+            <str>ld_agent_endorse;Y</str>
+            <str>ld_agent_name;Weichert Realtors </str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;8664424340</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_agent_view_website;Y</str>
+            <str>
+            ld_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7972908701
+            </str>
+            <str>ld_broker_name;Weichert Realtors</str>
+            <str>ld_broker_name_linked;Y</str>
+            <str>ld_broker_phone;8664424340</str>
+            <str>ld_broker_smf;Y</str>
+            <str>ld_broker_view_listings;Y</str>
+            <str>ld_broker_view_website;Y</str>
+            <str>ld_broker_website_link;http://www.weichert.com</str>
+            <str>
+            sr_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7972908701
+            </str>
+            <str>preferred_status;2</str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">GOSHEN</str>
+            <arr name="places">
+            <str>GOSHEN</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>GOSHEN</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Goshen;N;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">41.390599999999999,-74.340599999999995</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/128-spring-st-goshen-ny-10924/id-400020906549/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>41.401426,-74.334256</str>
+            </arr>
+            <str name="latlng_combo_str_11">dr75s2zky31</str>
+            <str name="latlng_combo_str_10">dr75s2zky3</str>
+            <str name="latlng_combo_str_9">dr75s2zky</str>
+            <str name="latlng_combo_str_8">dr75s2zk</str>
+            <str name="latlng_combo_str_7">dr75s2z</str>
+            <str name="latlng_combo_str_6">dr75s2</str>
+            <str name="latlng_combo_str_5">dr75s</str>
+            <str name="latlng_combo_str_4">dr75</str>
+            <str name="latlng_combo_str_3">dr7</str>
+            <str name="latlng_combo_str_2">dr</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-11999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 128 Spring Street Goshen, NY 10924 US and has been listed on Homes.com since 13 December 2018 and is currently priced at $2,000, approximately $1 per square foot. This property was built in 1901. 128 Spring Street is within the school district(s) Goshen Central School District with nearby schools including Scotchtown Avenue School, C. J. Hooker Middle School, and Goshen Central High School. Similar properties nearby are <a href="/property/128-spring-st-goshen-ny-10924/id-400020906549/">128 Spring St</a>, <a href="/property/7-evergreen-ln-goshen-ny-10924/id-400020908340/">7 Evergreen Ln</a>, <a href="/property/chester-ny-10918/id-400020894970/?listing_status=for_rent">3813 Whispering Hls</a>, <a href="/property/chester-ny-10918/id-400020894559/">1213 Whispering Hls</a>, and <a href="/property/25-fairways-dr-10-middletown-ny-10940/id-1000024715452/">25 Fairways Dr 10</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;10941</str>
+            <str>zip;10990</str>
+            <str>zip;10919</str>
+            <str>city;ROCK HILL</str>
+            <str>zip;12543</str>
+            <str>city;CHESTER</str>
+            <str>zip;10932</str>
+            <str>city;MAYBROOK</str>
+            <str>zip;10973</str>
+            <str>zip;10963</str>
+            <str>city;NEW WINDSOR</str>
+            <str>zip;12549</str>
+            <str>city;WARWICK</str>
+            <str>city;UNIONVILLE</str>
+            <str>city;WALDEN</str>
+            <str>county;ROCKLAND</str>
+            <str>city;WASHINGTONVILLE</str>
+            <str>city;WURTSBORO</str>
+            <str>zip;10950</str>
+            <str>zip;10981</str>
+            <str>city;GREENWOOD LAKE</str>
+            <str>city;SUSSEX</str>
+            <str>zip;10916</str>
+            <str>city;VAILS GATE</str>
+            <str>city;MIDDLETOWN</str>
+            <str>zip;07418</str>
+            <str>city;MONROE</str>
+            <str>zip;10958</str>
+            <str>zip;10940</str>
+            <str>city;WALKER VALLEY</str>
+            <str>zip;10949</str>
+            <str>city;BLOOMINGBURG</str>
+            <str>city;MONTGOMERY</str>
+            <str>city;MATAMORAS</str>
+            <str>zip;10915</str>
+            <str>zip;12771</str>
+            <str>zip;10921</str>
+            <str>zip;10998</str>
+            <str>zip;10912</str>
+            <str>city;FLORIDA</str>
+            <str>zip;10933</str>
+            <str>city;HIGHLAND LAKES</str>
+            <str>zip;10988</str>
+            <str>city;OTISVILLE</str>
+            <str>city;HARRIMAN</str>
+            <str>zip;10914</str>
+            <str>zip;10959</str>
+            <str>zip;10969</str>
+            <str>city;PINE BUSH</str>
+            <str>city;SALISBURY MILLS</str>
+            <str>zip;10918</str>
+            </arr>
+            <long name="_version_">1627863120513859584</long>
+            <date name="timestamp">2019-03-13T04:27:28.655Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000072008763</str>
+            </arr>
+            <str name="country">US</str>
+            <str name="city">TUCSON</str>
+            <str name="premier_flag">N</str>
+            <str name="cbsa">46060</str>
+            <long name="hdc_uuid">1000072008763</long>
+            <str name="zip">85750</str>
+            <str name="subdivision">VENTANA VISTA CONDOMINIUMS</str>
+            <int name="beds">2</int>
+            <str name="supplier_listing_id">21817692</str>
+            <arr name="headline_elements">
+            <str>home_condition;Updated</str>
+            <str>bedrooms;2-Bedroom</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Ventana Vista Condominiums</str>
+            </arr>
+            <str name="headline">
+            Updated 2-Bedroom House In Ventana Vista Condominiums
+            </str>
+            <str name="state">AZ</str>
+            <int name="supplier_id">124</int>
+            <str name="caption">
+            Located within the desirable community of Ventana Vista Condominiums. This fully furnished 2BD/2BA condo offers privacy, beautiful furnishings, 2 patios, updated kitchen with stainless steel appliances and much more! Located on the 2nd floor. Washer and dryer included. Amazing resort-like amenities include a heated pool, 2 spas, fitness center and clubhouse. Call today for seasonal rates! 520-395-7202.
+            </str>
+            <str name="acct_type">AGENT</str>
+            <int name="half_baths">0</int>
+            <str name="latlng_combo">32.299017,-110.825905</str>
+            <int name="full_baths">2</int>
+            <str name="mls_number">21817692</str>
+            <str name="county">PIMA</str>
+            <date name="last_update">2019-03-13T00:26:39Z</date>
+            <int name="oneqtr_baths">0</int>
+            <long name="sz_id">1000072008763</long>
+            <str name="propid">366775162</str>
+            <int name="agent_id">1348389</int>
+            <int name="square_footage">1164</int>
+            <date name="supplier_update">2018-07-28T00:26:22Z</date>
+            <double name="lng">-110.825905</double>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="sub_division">VENTANA VISTA CONDOMINIUMS</str>
+            <float name="num_stories">0.0</float>
+            <int name="price">1400</int>
+            <str name="listing_status">FOR RENT</str>
+            <int name="year_built">1986</int>
+            <str name="listing_type">RESALE</str>
+            <int name="threeqtr_baths">0</int>
+            <float name="total_baths">2.0</float>
+            <str name="supplier_id_name">MLS of Southern Arizona (Formerly Tucson AOR)</str>
+            <double name="lat">32.299017</double>
+            <str name="acct_level">F</str>
+            <int name="office_id">2775872</int>
+            <str name="lsid">132</str>
+            <date name="listing_date">2018-06-26T18:50:58Z</date>
+            <str name="address">5051 N SABINO CANYON ROAD #2211</str>
+            <str name="homesconnect_id">150552178</str>
+            <arr name="custom_srp">
+            <str>davis-monthan-air-force-base</str>
+            </arr>
+            <arr name="arch_style">
+            <str>CONTEMPORARY</str>
+            </arr>
+            <arr name="ext_finish">
+            <str>STUCCO</str>
+            <str>STUCCO</str>
+            </arr>
+            <arr name="view">
+            <str>COUNTRY</str>
+            </arr>
+            <str name="pool">Y</str>
+            <str name="pool_community">Y</str>
+            <arr name="features">
+            <str>Flooring;Carpet</str>
+            <str>Flooring;Ceramic Tile</str>
+            <str>Construction;Frame - Stucco</str>
+            <str>Roofing;Built-Up</str>
+            <str>Style;Contemporary</str>
+            <str>View;Rural</str>
+            <str>Basement;No</str>
+            <str>Fencing;Wrought Iron</str>
+            <str>Horse Property;No</str>
+            <str>Pool;Community</str>
+            <str>Spa;Community</str>
+            <str>Patio;Balcony</str>
+            <str>Patio;Patio</str>
+            <str>Amenities;Exercise Facilities</str>
+            <str>Amenities;Gated Community</str>
+            <str>Amenities;Lighted</str>
+            <str>Amenities;Pool</str>
+            <str>Amenities;Spa</str>
+            <str>Amenities;Tennis</str>
+            <str>Zoning;Pima County - CR5</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Exterior Build;Stucco;N</str>
+            <str>Exterior Features;Hot Tub / Spa;N</str>
+            <str>Other;Fitness Center;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Community;Pool;N</str>
+            <str>Exterior Features;Tennis Court;N</str>
+            <str>Exterior Features;Pool - In Ground;N</str>
+            <str>Exterior Features;Patio;N</str>
+            <str>Flooring;Carpet;N</str>
+            </arr>
+            <str name="appliances_ss">Y</str>
+            <str name="parking">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="natural_gas">N</str>
+            <str name="bonus_room">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="garage">N</str>
+            <str name="basement">N</str>
+            <str name="fireplace">N</str>
+            <arr name="features_ranked">
+            <str>Exterior Features;Patio;N</str>
+            <str>Flooring;Tile;N</str>
+            <str>Exterior Features;Pool - In Ground;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Patio</str>
+            <str>Tile Flooring</str>
+            <str>In Ground Pool</str>
+            </arr>
+            <str name="supplier_school_district">CATALINA FOOTHILLS</str>
+            <str name="supplier_school_elementary">CANYON VIEW</str>
+            <str name="supplier_school_middle">ESPERERO CANYON</str>
+            <str name="supplier_school_high">CATALINA FTHLS</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;CANYON VIEW ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;A</str>
+            <str>P_pupteach;16.71</str>
+            <str>P_nces_schid;040176001358</str>
+            <str>P_sch_dist;0.88</str>
+            <str>P_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>P_nces_disid;0401760</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;ESPERERO CANYON MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;A-</str>
+            <str>M_pupteach;18.51</str>
+            <str>M_nces_schid;040176001487</str>
+            <str>M_sch_dist;0.92</str>
+            <str>M_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>M_nces_disid;0401760</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;CATALINA FOOTHILLS HIGH SCHOOL</str>
+            <str>H_hdcgrd;A-</str>
+            <str>H_pupteach;20.53</str>
+            <str>H_nces_schid;040176000011</str>
+            <str>H_sch_dist;4.29</str>
+            <str>H_district;CATALINA FOOTHILLS UNIFIED DISTRICT</str>
+            <str>H_nces_disid;0401760</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-2.eneighborhoods.com/x2/@v=-1812202527@/132/6/692/21817692/21817692_1.jpg
+            </str>
+            <str>
+            1;https://cdn-2.eneighborhoods.com/x2/@v=-1815348255@/132/6/692/21817692/21817692_2.jpg
+            </str>
+            <str>
+            2;https://cdn-2.eneighborhoods.com/x2/@v=-1814299679@/132/6/692/21817692/21817692_3.jpg
+            </str>
+            <str>
+            3;https://cdn-2.eneighborhoods.com/x2/@v=-1817445407@/132/6/692/21817692/21817692_4.jpg
+            </str>
+            <str>
+            4;https://cdn-2.eneighborhoods.com/x2/@v=-1816396831@/132/6/692/21817692/21817692_5.jpg
+            </str>
+            <str>
+            5;https://cdn-2.eneighborhoods.com/x2/@v=-1819542559@/132/6/692/21817692/21817692_6.jpg
+            </str>
+            <str>
+            6;https://cdn-2.eneighborhoods.com/x2/@v=-1818493983@/132/6/692/21817692/21817692_7.jpg
+            </str>
+            <str>
+            7;https://cdn-2.eneighborhoods.com/x2/@v=-1821639711@/132/6/692/21817692/21817692_8.jpg
+            </str>
+            <str>
+            8;https://cdn-2.eneighborhoods.com/x2/@v=-1820591135@/132/6/692/21817692/21817692_9.jpg
+            </str>
+            <str>
+            9;https://cdn-2.eneighborhoods.com/x2/@v=1047546995@/132/6/692/21817692/21817692_10.jpg
+            </str>
+            <str>
+            10;https://cdn-2.eneighborhoods.com/x2/@v=1046498419@/132/6/692/21817692/21817692_11.jpg
+            </str>
+            <str>
+            11;https://cdn-2.eneighborhoods.com/x2/@v=1045449843@/132/6/692/21817692/21817692_12.jpg
+            </str>
+            <str>
+            12;https://cdn-2.eneighborhoods.com/x2/@v=1044401267@/132/6/692/21817692/21817692_13.jpg
+            </str>
+            <str>
+            13;https://cdn-2.eneighborhoods.com/x2/@v=1043352691@/132/6/692/21817692/21817692_14.jpg
+            </str>
+            <str>
+            14;https://cdn-2.eneighborhoods.com/x2/@v=1042304115@/132/6/692/21817692/21817692_15.jpg
+            </str>
+            <str>
+            15;https://cdn-2.eneighborhoods.com/x2/@v=1041255539@/132/6/692/21817692/21817692_16.jpg
+            </str>
+            <str>
+            16;https://cdn-2.eneighborhoods.com/x2/@v=1040206963@/132/6/692/21817692/21817692_17.jpg
+            </str>
+            </arr>
+            <int name="image_count">17</int>
+            <str name="main_image">
+            https://cdn-2.eneighborhoods.com/x2/@v=-1812202527@/132/6/692/21817692/21817692_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">13</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Tucson-Sierra-Vista-789</str>
+            <str>ld_agent_name;James Servoss</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;5206031549</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/6143354721
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Keller Williams Southern Arizona</str>
+            <str>ld_broker_phone;5206158400</str>
+            </arr>
+            <str name="city_preferred">TUCSON</str>
+            <arr name="places">
+            <str>TUCSON</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>VENTANA VISTA CONDOMINIUMS</str>
+            <str>CATALINA FOOTHILLS</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Ventana Vista Condominiums;R;Y</str>
+            <str>Catalina Foothills;M;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">32.299100000000003,-110.8434</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/5051-n-sabino-canyon-road-2211-tucson-az-85750/id-1000072008763/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>32.299017,-110.825905</str>
+            </arr>
+            <str name="latlng_combo_str_11">9t9pwpg53jp</str>
+            <str name="latlng_combo_str_10">9t9pwpg53j</str>
+            <str name="latlng_combo_str_9">9t9pwpg53</str>
+            <str name="latlng_combo_str_8">9t9pwpg5</str>
+            <str name="latlng_combo_str_7">9t9pwpg</str>
+            <str name="latlng_combo_str_6">9t9pwp</str>
+            <str name="latlng_combo_str_5">9t9pw</str>
+            <str name="latlng_combo_str_4">9t9p</str>
+            <str name="latlng_combo_str_3">9t9</str>
+            <str name="latlng_combo_str_2">9t</str>
+            <str name="latlng_combo_str_1">9</str>
+            <int name="sort_score">-999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 5051 N Sabino Canyon Road #2211 Tucson, AZ 85750 US and has been listed on Homes.com since 26 June 2018 and is currently priced at $1,400, approximately $1 per square foot. This property was built in 1986. 5051 N Sabino Canyon Road #2211 is within the school district(s) Catalina Foothills Unified District with nearby schools including Canyon View Elementary School, Esperero Canyon Middle School, and Catalina Foothills High School. Similar properties nearby are <a href="/property/7050-e-sunrise-dr-8204-tucson-az-85750/id-300021692429/">7050 E Sunrise Dr 8204</a>, <a href="/property/7050-e-sunrise-dr-13105-tucson-az-85750/id-300019984670/">7050 E Sunrise Dr 13105</a>, <a href="/property/7050-e-sunrise-dr-18108-tucson-az-85750/id-300020182626/">7050 E Sunrise Dr 18108</a>, <a href="/property/5051-n-sabino-canyon-rd-1235-tucson-az-85750/id-300013324570/">5051 N Sabino Canyon Rd 1235</a>, <a href="/property/7212-e-crystal-mist-dr-tucson-az-85750/id-300013333729/">7212 E Crystal Mist Dr</a>, <a href="/property/5051-n-sabino-canyon-rd-2111-tucson-az-85750/id-300013345459/">5051 N Sabino Canyon Rd 2111</a>, and <a href="/property/5051-n-sabino-canyon-rd-2147-tucson-az-85750/id-300020647131/">5051 N Sabino Canyon Rd 2147</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;85712</str>
+            <str>zip;85738</str>
+            <str>zip;85749</str>
+            <str>zip;85751</str>
+            <str>zip;85730</str>
+            <str>zip;85732</str>
+            <str>zip;85728</str>
+            <str>zip;85704</str>
+            <str>zip;85708</str>
+            <str>zip;85721</str>
+            <str>city;RILLITO</str>
+            <str>city;VAIL</str>
+            <str>zip;85707</str>
+            <str>zip;85717</str>
+            <str>zip;85641</str>
+            <str>zip;85710</str>
+            <str>zip;85724</str>
+            <str>zip;85733</str>
+            <str>city;CATALINA</str>
+            <str>zip;85715</str>
+            <str>city;GREEN VALLEY</str>
+            <str>zip;85718</str>
+            <str>zip;85731</str>
+            <str>zip;85619</str>
+            <str>zip;85748</str>
+            <str>zip;85740</str>
+            <str>zip;85722</str>
+            <str>zip;85703</str>
+            <str>city;SAHUARITA</str>
+            <str>zip;85716</str>
+            </arr>
+            <long name="_version_">1627863119193702400</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:27.400Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>500013353782</str>
+            </arr>
+            <str name="city">GREELEY</str>
+            <str name="supplier_id_name">Rentlinx</str>
+            <str name="lsid">79123</str>
+            <str name="caption">
+            College Housing- 5 bedrooms - Remarks: HEAT/GAS PAID!!! FACTOR @ $45 each per month savings for the Gas on average!Great location! Great price! Great neighbors! Have a great time!This house is in great condition and very close to campus. Nice bedrooms and a solid basement that doesn't feel like a college basement with low ceilings. This house has a separate dining room, a rare find in most college houses! Nice laundry room! 2 baths! Great Kitchen Lots of parking.(RLNE3845387)
+            </str>
+            <int name="price">1500</int>
+            <str name="mls_number">3845387_5792670</str>
+            <int name="beds">4</int>
+            <arr name="headline_elements">
+            <str>bedrooms;4-Bedroom</str>
+            <str>home_type;House</str>
+            <str>location_prep;In University District</str>
+            </arr>
+            <str name="headline">4-Bedroom House In University District</str>
+            <str name="acct_type">AGENT</str>
+            <str name="country">US</str>
+            <str name="latlng_combo">40.403554,-104.693369</str>
+            <int name="agent_id">40005430</int>
+            <str name="premier_flag">N</str>
+            <int name="half_baths">0</int>
+            <int name="supplier_id">782</int>
+            <str name="supplier_listing_id">3845387_5792670</str>
+            <int name="office_id">23044022</int>
+            <str name="state">CO</str>
+            <str name="listing_type">RESALE</str>
+            <str name="address_mapped">2115 9TH AVE;GREELEY;CO;80631;US</str>
+            <str name="zip">80631</str>
+            <long name="sz_id">500013353782</long>
+            <str name="listing_url">
+            https://www.showmetherent.com/2115-9Th-Avenue-Greeley-CO-80631
+            </str>
+            <str name="property_type">RESIDENTIAL</str>
+            <date name="listing_date">2019-01-27T18:10:02Z</date>
+            <str name="cbsa">24540</str>
+            <str name="propid">378405488</str>
+            <str name="county">WELD</str>
+            <int name="full_baths">2</int>
+            <long name="hdc_uuid">500013353782</long>
+            <str name="acct_level">F</str>
+            <date name="last_update">2019-03-13T00:25:24Z</date>
+            <str name="listing_status">FOR RENT</str>
+            <double name="lat">40.403554</double>
+            <double name="lng">-104.693369</double>
+            <float name="total_baths">2.0</float>
+            <str name="address">2115 9TH AVENUE</str>
+            <str name="lead_routing_email">3845387-1020@showmetherent.com</str>
+            <arr name="features">
+            <str>Is Open To Lease;true</str>
+            </arr>
+            <str name="basement">Y</str>
+            <str name="parking">Y</str>
+            <str name="energy_efficient">Y</str>
+            <str name="pool">N</str>
+            <str name="pool_community">N</str>
+            <str name="natural_gas">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="bonus_room">N</str>
+            <str name="fireplace">N</str>
+            <str name="garage">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="apn">R3508686</str>
+            <str name="fips_code">08123</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;JACKSON ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;C</str>
+            <str>P_pupteach;17.15</str>
+            <str>P_nces_schid;080441001291</str>
+            <str>P_sch_dist;1.07</str>
+            <str>P_district;WELD COUNTY SCHOOL DISTRICT 6</str>
+            <str>P_nces_disid;0804410</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;BRENTWOOD MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;C-</str>
+            <str>M_pupteach;17.83</str>
+            <str>M_nces_schid;080441000634</str>
+            <str>M_sch_dist;1.56</str>
+            <str>M_district;WELD COUNTY SCHOOL DISTRICT 6</str>
+            <str>M_nces_disid;0804410</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;GREELEY CENTRAL HIGH SCHOOL</str>
+            <str>H_hdcgrd;B</str>
+            <str>H_pupteach;20.57</str>
+            <str>H_nces_schid;080441000641</str>
+            <str>H_sch_dist;0.94</str>
+            <str>H_district;WELD COUNTY SCHOOL DISTRICT 6</str>
+            <str>H_nces_disid;0804410</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <int name="image_count">0</int>
+            <int name="image_count_acctmod">0</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Denver-751</str>
+            <str>ld_agent_name;LLC Investments</str>
+            <str>ld_agent_phone;9703307427</str>
+            <str>ld_broker_name;Woody Investments, LLC</str>
+            <str>ld_broker_phone;9703307427</str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">GREELEY</str>
+            <arr name="places">
+            <str>GREELEY</str>
+            <str>GARDEN CITY</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>UNIVERSITY DISTRICT</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>University District;M;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">40.447499999999998,-104.6861</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/2115-9th-ave-greeley-co-80631/id-500013353782/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>40.403554,-104.693369</str>
+            </arr>
+            <str name="latlng_combo_str_11">9xjtcehxg8m</str>
+            <str name="latlng_combo_str_10">9xjtcehxg8</str>
+            <str name="latlng_combo_str_9">9xjtcehxg</str>
+            <str name="latlng_combo_str_8">9xjtcehx</str>
+            <str name="latlng_combo_str_7">9xjtceh</str>
+            <str name="latlng_combo_str_6">9xjtce</str>
+            <str name="latlng_combo_str_5">9xjtc</str>
+            <str name="latlng_combo_str_4">9xjt</str>
+            <str name="latlng_combo_str_3">9xj</str>
+            <str name="latlng_combo_str_2">9x</str>
+            <str name="latlng_combo_str_1">9</str>
+            <int name="sort_score">2000</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 2115 9th Avenue Greeley, CO 80631 US and has been listed on Homes.com since 27 January 2019 and is currently priced at $1,500. 2115 9th Avenue is within the school district(s) Weld County School District 6 with nearby schools including Jackson Elementary School, Brentwood Middle School, and Greeley Central High School. Similar properties nearby are <a href="/property/1829-31st-st-greeley-co-80631/id-500013355626/">1829 31st St</a>, <a href="/property/2539-10th-avenue-ct-greeley-co-80631/id-500013353974/">2539 10th Avenue Ct</a>, <a href="/property/825-12th-st-greeley-co-80631/id-500024269882/">825 12th St</a>, <a href="/property/1532-9th-ave-greeley-co-80631/id-500013351705/">1532 9th Ave</a>, <a href="/property/717-16th-st-greeley-co-80631/id-500013351687/">717 16th St</a>, <a href="/property/2115-9th-ave-greeley-co-80631/id-500013353782/">2115 9th Ave</a>, <a href="/property/1610-8th-ave-greeley-co-80631/id-500013351781/">1610 8th Ave</a>, <a href="/property/1007-23rd-street-rd-greeley-co-80631/id-500013353873/">1007 23rd Street Rd</a>, <a href="/property/2042-6th-ave-greeley-co-80631/id-500013353505/">2042 6th Ave</a>, and <a href="/property/1229-12th-st-greeley-co-80631/id-500013349720/">1229 12th St</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;LA SALLE</str>
+            <str>zip;80610</str>
+            <str>city;NUNN</str>
+            <str>zip;80539</str>
+            <str>zip;80622</str>
+            <str>zip;80643</str>
+            <str>city;EVANS</str>
+            <str>zip;80534</str>
+            <str>zip;80651</str>
+            <str>city;BERTHOUD</str>
+            <str>zip;80632</str>
+            <str>city;PIERCE</str>
+            <str>city;FIRESTONE</str>
+            <str>zip;80550</str>
+            <str>city;JOHNSTOWN</str>
+            <str>zip;80624</str>
+            <str>city;KERSEY</str>
+            <str>zip;80623</str>
+            <str>city;LOVELAND</str>
+            <str>city;WELLINGTON</str>
+            <str>city;MEAD</str>
+            <str>zip;80551</str>
+            <str>zip;80646</str>
+            <str>city;WINDSOR</str>
+            <str>zip;80644</str>
+            <str>zip;80650</str>
+            <str>zip;80547</str>
+            <str>zip;80620</str>
+            <str>zip;80639</str>
+            <str>zip;80634</str>
+            <str>city;EATON</str>
+            <str>zip;80648</str>
+            <str>city;PLATTEVILLE</str>
+            <str>city;GILCREST</str>
+            <str>zip;80638</str>
+            <str>city;FORT COLLINS</str>
+            <str>zip;80615</str>
+            <str>zip;80633</str>
+            <str>zip;80645</str>
+            <str>zip;80546</str>
+            <str>city;AULT</str>
+            <str>city;SEVERANCE</str>
+            <str>city;MILLIKEN</str>
+            <str>city;TIMNATH</str>
+            <str>city;HUDSON</str>
+            <str>zip;80543</str>
+            </arr>
+            <long name="_version_">1627863015201177600</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:25:48.225Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000075794130</str>
+            </arr>
+            <str name="country">US</str>
+            <arr name="headline_elements">
+            <str>square_footage;2187 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Opelika</str>
+            </arr>
+            <str name="headline">2187 SqFt House In Opelika</str>
+            <double name="lat">32.665543</double>
+            <int name="office_id">25410781</int>
+            <str name="caption">
+            North Opelika - 305 Hillcrest Ct - Spacious one story, 3 bedroom 2 bath home. Storage shed, greenhouse, 2 carports and Koi pond. House has hardwood floors, and tile. Living room, dining room, breakfast room, and den. Large screened in porch overlooking private backyard. New paint throughout.(RLNE4200070)
+            </str>
+            <str name="acct_level">F</str>
+            <str name="county">LEE</str>
+            <str name="listing_status">FOR RENT</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="premier_flag">N</str>
+            <str name="listing_type">RESALE</str>
+            <int name="price">1400</int>
+            <int name="half_baths">0</int>
+            <float name="total_baths">2.0</float>
+            <long name="hdc_uuid">1000075794130</long>
+            <int name="square_footage">2187</int>
+            <str name="mls_number">4200070_6344573</str>
+            <str name="acct_type">AGENT</str>
+            <str name="lsid">79123</str>
+            <str name="propid">378405785</str>
+            <double name="lng">-85.376653</double>
+            <date name="listing_date">2019-01-27T18:10:34Z</date>
+            <date name="last_update">2019-03-13T00:25:24Z</date>
+            <str name="city">OPELIKA</str>
+            <str name="zip">36832</str>
+            <int name="agent_id">43533377</int>
+            <str name="supplier_id_name">Rentlinx</str>
+            <long name="sz_id">1000075794130</long>
+            <str name="listing_url">
+            https://www.showmetherent.com/305-Hillcrest-Court-Opelika-AL-36832
+            </str>
+            <str name="cbsa">12220</str>
+            <str name="state">AL</str>
+            <int name="full_baths">2</int>
+            <int name="supplier_id">782</int>
+            <int name="year_built">1967</int>
+            <str name="latlng_combo">32.665543,-85.376653</str>
+            <int name="beds">3</int>
+            <str name="supplier_listing_id">4200070_6344573</str>
+            <str name="address">305 HILLCREST COURT</str>
+            <str name="lead_routing_email">4200070-1020@showmetherent.com</str>
+            <arr name="features">
+            <str>Amenities;Large Dogs Allowed</str>
+            <str>Amenities;Small Dogs Allowed</str>
+            <str>Pets;Cats Allowed</str>
+            <str>Is Open To Lease;true</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Other;Pets Allowed;N</str>
+            </arr>
+            <str name="parking">Y</str>
+            <arr name="lot_type">
+            <str>PRIVATE</str>
+            </arr>
+            <str name="hardwood_floors">Y</str>
+            <str name="energy_efficient">N</str>
+            <str name="pool_community">N</str>
+            <str name="bonus_room">N</str>
+            <str name="garage">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="pool">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="basement">N</str>
+            <str name="fireplace">N</str>
+            <str name="natural_gas">N</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;MORRIS AVENUE INTERMEDIATE SCHOOL</str>
+            <str>P_hdcgrd;B-</str>
+            <str>P_pupteach;15.99</str>
+            <str>P_nces_schid;010258001566</str>
+            <str>P_sch_dist;1.10</str>
+            <str>P_district;OPELIKA CITY SCHOOLS</str>
+            <str>P_nces_disid;0102580</str>
+            <str>P_assigned;N</str>
+            <str>M_sch_name;OPELIKA HIGH SCHOOL</str>
+            <str>M_hdcgrd;C+</str>
+            <str>M_pupteach;14.85</str>
+            <str>M_nces_schid;010258001070</str>
+            <str>M_sch_dist;0.44</str>
+            <str>M_district;OPELIKA CITY SCHOOLS</str>
+            <str>M_nces_disid;0102580</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;OPELIKA HIGH SCHOOL</str>
+            <str>H_hdcgrd;C+</str>
+            <str>H_pupteach;14.85</str>
+            <str>H_nces_schid;010258001070</str>
+            <str>H_sch_dist;0.44</str>
+            <str>H_district;OPELIKA CITY SCHOOLS</str>
+            <str>H_nces_disid;0102580</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-3.eneighborhoods.com/x2/@v=2107303893@/79123/5/573/4200070_6344573/4200070_6344573_0.jpg
+            </str>
+            <str>
+            1;https://cdn-3.eneighborhoods.com/x2/@v=2106255317@/79123/5/573/4200070_6344573/4200070_6344573_1.jpg
+            </str>
+            <str>
+            2;https://cdn-3.eneighborhoods.com/x2/@v=2109401045@/79123/5/573/4200070_6344573/4200070_6344573_2.jpg
+            </str>
+            <str>
+            3;https://cdn-3.eneighborhoods.com/x2/@v=2108352469@/79123/5/573/4200070_6344573/4200070_6344573_3.jpg
+            </str>
+            <str>
+            4;https://cdn-3.eneighborhoods.com/x2/@v=2111498197@/79123/5/573/4200070_6344573/4200070_6344573_4.jpg
+            </str>
+            <str>
+            5;https://cdn-3.eneighborhoods.com/x2/@v=2110449621@/79123/5/573/4200070_6344573/4200070_6344573_5.jpg
+            </str>
+            <str>
+            6;https://cdn-3.eneighborhoods.com/x2/@v=2113595349@/79123/5/573/4200070_6344573/4200070_6344573_6.jpg
+            </str>
+            <str>
+            7;https://cdn-3.eneighborhoods.com/x2/@v=2112546773@/79123/5/573/4200070_6344573/4200070_6344573_7.jpg
+            </str>
+            <str>
+            8;https://cdn-3.eneighborhoods.com/x2/@v=2098915285@/79123/5/573/4200070_6344573/4200070_6344573_8.jpg
+            </str>
+            <str>
+            9;https://cdn-3.eneighborhoods.com/x2/@v=2097866709@/79123/5/573/4200070_6344573/4200070_6344573_9.jpg
+            </str>
+            <str>
+            10;https://cdn-3.eneighborhoods.com/x2/@v=-765695711@/79123/5/573/4200070_6344573/4200070_6344573_10.jpg
+            </str>
+            <str>
+            11;https://cdn-3.eneighborhoods.com/x2/@v=-766744287@/79123/5/573/4200070_6344573/4200070_6344573_11.jpg
+            </str>
+            <str>
+            12;https://cdn-3.eneighborhoods.com/x2/@v=-763598559@/79123/5/573/4200070_6344573/4200070_6344573_12.jpg
+            </str>
+            <str>
+            13;https://cdn-3.eneighborhoods.com/x2/@v=-764647135@/79123/5/573/4200070_6344573/4200070_6344573_13.jpg
+            </str>
+            <str>
+            14;https://cdn-3.eneighborhoods.com/x2/@v=-769890015@/79123/5/573/4200070_6344573/4200070_6344573_14.jpg
+            </str>
+            <str>
+            15;https://cdn-3.eneighborhoods.com/x2/@v=-770938591@/79123/5/573/4200070_6344573/4200070_6344573_15.jpg
+            </str>
+            </arr>
+            <int name="image_count">16</int>
+            <str name="main_image">
+            https://cdn-3.eneighborhoods.com/x2/@v=2107303893@/79123/5/573/4200070_6344573/4200070_6344573_0.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Columbus-GA-522</str>
+            <str>ld_agent_name;LLC Management</str>
+            <str>ld_agent_phone;3348873606</str>
+            <str>ld_broker_name;360 Management, LLC</str>
+            <str>ld_broker_phone;3348873606</str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">AUBURN</str>
+            <arr name="places">
+            <str>OPELIKA</str>
+            <str>AUBURN</str>
+            </arr>
+            <str name="latlng_combo_zip">32.596699999999998,-85.513099999999994</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/305-hillcrest-court-opelika-al-36832/id-1000075794130/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>32.665543,-85.376653</str>
+            </arr>
+            <str name="latlng_combo_str_11">djg3c4wdef9</str>
+            <str name="latlng_combo_str_10">djg3c4wdef</str>
+            <str name="latlng_combo_str_9">djg3c4wde</str>
+            <str name="latlng_combo_str_8">djg3c4wd</str>
+            <str name="latlng_combo_str_7">djg3c4w</str>
+            <str name="latlng_combo_str_6">djg3c4</str>
+            <str name="latlng_combo_str_5">djg3c</str>
+            <str name="latlng_combo_str_4">djg3</str>
+            <str name="latlng_combo_str_3">djg</str>
+            <str name="latlng_combo_str_2">dj</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-7999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 305 Hillcrest Court Opelika, AL 36832 US and has been listed on Homes.com since 27 January 2019 and is currently priced at $1,400, approximately $1 per square foot. This property was built in 1967. 305 Hillcrest Court is within the school district(s) Opelika City Schools with nearby schools including Morris Avenue Intermediate School and Opelika High School. Similar properties nearby are <a href="/property/2703-hughston-ln-opelika-al-36801/id-700021653586/">2703 Hughston Ln</a>, <a href="/property/829-s-railroad-ave-203-opelika-al-36801/id-700012614338/">829 S Railroad Ave 203</a>, and <a href="/property/3115-northgate-dr-opelika-al-36801/id-700012604037/">3115 Northgate Dr</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;36852</str>
+            <str>city;TUSKEGEE</str>
+            <str>city;LOACHAPOKA</str>
+            <str>city;LANETT</str>
+            <str>zip;36088</str>
+            <str>zip;36879</str>
+            <str>city;CUSSETA</str>
+            <str>city;WEST POINT</str>
+            <str>zip;36866</str>
+            <str>zip;36849</str>
+            <str>city;VALLEY</str>
+            <str>zip;36831</str>
+            <str>zip;36087</str>
+            <str>city;CAMP HILL</str>
+            <str>county;RUSSELL</str>
+            <str>zip;36803</str>
+            <str>zip;36861</str>
+            <str>city;NOTASULGA</str>
+            <str>county;MACON</str>
+            <str>zip;36802</str>
+            <str>zip;36045</str>
+            <str>zip;36862</str>
+            <str>city;AUBURN</str>
+            <str>zip;36039</str>
+            <str>zip;36830</str>
+            <str>zip;36083</str>
+            <str>zip;36850</str>
+            <str>zip;36853</str>
+            <str>zip;36865</str>
+            <str>city;FIVE POINTS</str>
+            <str>county;CHAMBERS</str>
+            <str>city;WAVERLY</str>
+            <str>zip;36804</str>
+            <str>city;PHENIX CITY</str>
+            <str>zip;36023</str>
+            <str>zip;36801</str>
+            <str>zip;36078</str>
+            </arr>
+            <long name="_version_">1627863015701348352</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:25:48.663Z</date>
+        </doc>
+    </result>
+</response>

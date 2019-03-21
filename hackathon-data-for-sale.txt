@@ -1,0 +1,2699 @@
+<response>
+    <lst name="responseHeader">
+        <bool name="zkConnected">true</bool>
+        <int name="status">0</int>
+        <int name="QTime">9</int>
+        <lst name="params">
+            <str name="q">state:VA</str>
+            <str name="city:norfolk"/>
+            <str name="listing_status:for sale"/>
+        </lst>
+    </lst>
+    <result name="response" numFound="60382" start="0" maxScore="3.86503">
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>400033176502</str>
+            </arr>
+            <int name="half_baths">0</int>
+            <int name="office_id">16791486</int>
+            <date name="listing_date">2018-10-18T00:26:16Z</date>
+            <double name="lat">37.471795</double>
+            <str name="zip">24526</str>
+            <float name="total_baths">1.0</float>
+            <str name="acct_level">P</str>
+            <str name="propid">373547408</str>
+            <str name="sub_division">BEDFORD COUNTY</str>
+            <int name="supplier_id">3443</int>
+            <str name="lsid">2609</str>
+            <str name="supplier_listing_id">853285</str>
+            <date name="supplier_update">2018-12-17T21:50:15Z</date>
+            <str name="state">VA</str>
+            <str name="cbsa">31340</str>
+            <str name="county">BEDFORD</str>
+            <str name="listing_type">RESALE</str>
+            <str name="subdivision">BEDFORD COUNTY</str>
+            <str name="mls_number">853285</str>
+            <str name="premier_flag">Y</str>
+            <str name="caption">
+            3 Bedroom 1 Bath fixer upper. One level, country living. Wood stove heat, spring pumped water. Sold as is /where is. Medicaid sale, must sell for assessed value. Wood stove does not convey. Stove in kitchen conveys, but it is as is.
+            </str>
+            <str name="latlng_combo">37.471795,-79.392535</str>
+            <str name="country">US</str>
+            <str name="acct_type">OFFICE</str>
+            <int name="square_footage">897</int>
+            <long name="sz_id">400033176502</long>
+            <float name="lot_size">1.4</float>
+            <int name="agent_id">44676504</int>
+            <str name="listing_status">FOR SALE</str>
+            <int name="price">47500</int>
+            <str name="supplier_id_name">Roanoke Valley Association of REALTORS Inc</str>
+            <int name="year_built">1949</int>
+            <double name="lng">-79.392535</double>
+            <str name="city">BIG ISLAND</str>
+            <int name="full_baths">1</int>
+            <arr name="headline_elements">
+            <str>square_footage;897 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Big Island</str>
+            </arr>
+            <str name="headline">897 SqFt House In Big Island</str>
+            <int name="beds">3</int>
+            <date name="last_update">2019-03-13T00:26:44Z</date>
+            <long name="hdc_uuid">400033176502</long>
+            <str name="listing_url">
+            http://151368500.homesconnect.com/listing/221897721-151368500/2161%20Sweet%20Hollow%20RD-Vi-24526/?RefCode=40001
+            </str>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="address_mapped">2161 SWEET HOLLOW RD;BIG ISLAND;VA;24526;US</str>
+            <str name="address">2161 SWEET HOLLOW RD</str>
+            <str name="homesconnect_id_parent">151368500</str>
+            <arr name="features">
+            <str>Fees;0</str>
+            <str>Zoning;AP</str>
+            </arr>
+            <str name="pool">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="fireplace">N</str>
+            <str name="basement">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="garage">N</str>
+            <str name="bonus_room">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="parking">N</str>
+            <str name="pool_community">N</str>
+            <str name="natural_gas">N</str>
+            <str name="tax_amount">485</str>
+            <str name="supplier_school_elementary">BIG ISLAND</str>
+            <str name="supplier_school_middle">LIBERTY</str>
+            <str name="supplier_school_high">LIBERTY</str>
+            <str name="apn">4201300</str>
+            <str name="fips_code">51019</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;BIG ISLAND ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;B+</str>
+            <str>P_pupteach;14.04</str>
+            <str>P_nces_schid;510036000145</str>
+            <str>P_sch_dist;4.31</str>
+            <str>P_district;BEDFORD COUNTY PUBLIC SCHOOLS</str>
+            <str>P_nces_disid;5100360</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;BEDFORD MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;B+</str>
+            <str>M_pupteach;15.18</str>
+            <str>M_nces_schid;510036000143</str>
+            <str>M_sch_dist;11.56</str>
+            <str>M_district;BEDFORD COUNTY PUBLIC SCHOOLS</str>
+            <str>M_nces_disid;5100360</str>
+            <str>M_assigned;N</str>
+            <str>H_sch_name;LIBERTY HIGH SCHOOL</str>
+            <str>H_hdcgrd;B+</str>
+            <str>H_pupteach;12.69</str>
+            <str>H_nces_schid;510036000151</str>
+            <str>H_sch_dist;8.96</str>
+            <str>H_district;BEDFORD COUNTY PUBLIC SCHOOLS</str>
+            <str>H_nces_disid;5100360</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-9.eneighborhoods.com/x2/@v=1149811851@/2609/2/285/853285/853285_1.jpg
+            </str>
+            <str>
+            1;https://cdn-9.eneighborhoods.com/x2/@v=1152957579@/2609/2/285/853285/853285_2.jpg
+            </str>
+            <str>
+            2;https://cdn-9.eneighborhoods.com/x2/@v=1151909003@/2609/2/285/853285/853285_3.jpg
+            </str>
+            <str>
+            3;https://cdn-9.eneighborhoods.com/x2/@v=1155054731@/2609/2/285/853285/853285_4.jpg
+            </str>
+            <str>
+            4;https://cdn-9.eneighborhoods.com/x2/@v=1154006155@/2609/2/285/853285/853285_5.jpg
+            </str>
+            <str>
+            5;https://cdn-9.eneighborhoods.com/x2/@v=1157151883@/2609/2/285/853285/853285_6.jpg
+            </str>
+            <str>
+            6;https://cdn-9.eneighborhoods.com/x2/@v=1156103307@/2609/2/285/853285/853285_7.jpg
+            </str>
+            <str>
+            7;https://cdn-9.eneighborhoods.com/x2/@v=1142471819@/2609/2/285/853285/853285_8.jpg
+            </str>
+            <str>
+            8;https://cdn-9.eneighborhoods.com/x2/@v=1141423243@/2609/2/285/853285/853285_9.jpg
+            </str>
+            <str>
+            9;https://cdn-9.eneighborhoods.com/x2/@v=1356424740@/2609/2/285/853285/853285_10.jpg
+            </str>
+            </arr>
+            <int name="image_count">10</int>
+            <str name="main_image">
+            https://cdn-9.eneighborhoods.com/x2/@v=1149811851@/2609/2/285/853285/853285_1.jpg
+            </str>
+            <int name="image_count_acctmod">10</int>
+            <int name="premier_snipe">16</int>
+            <arr name="detail_attributes">
+            <str>broker_call_tracking;4344737055</str>
+            <str>broker_pma_id;10217428</str>
+            <str>dma_name;Roanoke-Lynchburg-573</str>
+            <str>ld_agent_endorse;Y</str>
+            <str>ld_agent_name;Century 21 All-Service - Bedford </str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;4342392121</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/7745190566
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_agent_view_website;Y</str>
+            <str>
+            ld_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7745190575
+            </str>
+            <str>ld_broker_name;Century 21 All-Service - Bedford</str>
+            <str>ld_broker_name_linked;Y</str>
+            <str>ld_broker_phone;4342392121</str>
+            <str>ld_broker_smf;Y</str>
+            <str>ld_broker_view_listings;Y</str>
+            <str>ld_broker_view_website;Y</str>
+            <str>
+            ld_broker_website_link;http://www.c21all-service.com
+            </str>
+            <str>
+            sr_broker_logo;https://cdn.homes.com/cgi-bin/readimage/7745190575
+            </str>
+            <str>preferred_status;2</str>
+            <str>exclusive_access;Y</str>
+            </arr>
+            <str name="city_preferred">BIG ISLAND</str>
+            <arr name="places">
+            <str>BIG ISLAND</str>
+            </arr>
+            <str name="latlng_combo_zip">37.546599999999998,-79.404600000000002</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/2161-sweet-hollow-rd-big-island-va-24526/id-400033176502/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>37.471795,-79.392535</str>
+            </arr>
+            <str name="latlng_combo_str_11">dnxt1ms15bg</str>
+            <str name="latlng_combo_str_10">dnxt1ms15b</str>
+            <str name="latlng_combo_str_9">dnxt1ms15</str>
+            <str name="latlng_combo_str_8">dnxt1ms1</str>
+            <str name="latlng_combo_str_7">dnxt1ms</str>
+            <str name="latlng_combo_str_6">dnxt1m</str>
+            <str name="latlng_combo_str_5">dnxt1</str>
+            <str name="latlng_combo_str_4">dnxt</str>
+            <str name="latlng_combo_str_3">dnx</str>
+            <str name="latlng_combo_str_2">dn</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10074999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 2161 Sweet Hollow Rd Big Island, VA 24526 US and has been listed on Homes.com since 18 October 2018 and is currently priced at $47,500, approximately $53 per square foot. This property was built in 1949. 2161 Sweet Hollow Rd is within the school district(s) Bedford County Public Schools with nearby schools including Big Island Elementary School, Bedford Middle School, and Liberty High School. Similar properties nearby are <a href="/property/2161-sweet-hollow-rd-big-island-va-24526/id-400033176502/">2161 Sweet Hollow Rd</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;24555</str>
+            <str>county;BOTETOURT</str>
+            <str>zip;24595</str>
+            <str>zip;24570</str>
+            <str>zip;24505</str>
+            <str>zip;24578</str>
+            <str>zip;24523</str>
+            <str>zip;24502</str>
+            <str>zip;24174</str>
+            <str>zip;24521</str>
+            <str>zip;24515</str>
+            <str>zip;24574</str>
+            <str>zip;24514</str>
+            <str>city;GLASGOW</str>
+            <str>zip;24450</str>
+            <str>city;CONCORD</str>
+            <str>city;LYNCHBURG</str>
+            <str>county;CAMPBELL</str>
+            <str>city;MADISON HEIGHTS</str>
+            <str>city;FOREST</str>
+            <str>zip;24501</str>
+            <str>zip;24122</str>
+            <str>city;BUENA VISTA</str>
+            <str>city;MONTVALE</str>
+            <str>zip;24416</str>
+            <str>county;LYNCHBURG</str>
+            <str>zip;24506</str>
+            <str>city;AMHERST</str>
+            <str>zip;24572</str>
+            <str>city;RUSTBURG</str>
+            <str>city;BUCHANAN</str>
+            <str>zip;24513</str>
+            <str>zip;24536</str>
+            <str>zip;24066</str>
+            <str>county;ROANOKE</str>
+            <str>zip;24556</str>
+            <str>zip;24579</str>
+            <str>city;LEXINGTON</str>
+            <str>zip;24503</str>
+            <str>city;BEDFORD</str>
+            <str>county;ROANOKE CITY</str>
+            <str>zip;24551</str>
+            </arr>
+            <long name="_version_">1627863125031124992</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:32.961Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>400027893272</str>
+            </arr>
+            <int name="agent_id">38469841</int>
+            <int name="price">2000000</int>
+            <arr name="headline_elements">
+            <str>home_type;Lot</str>
+            <str>location_prep;In Leesburg</str>
+            </arr>
+            <str name="headline">Lot In Leesburg</str>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="acct_type">AGENT</str>
+            <str name="mls_number">1000193838</str>
+            <str name="state">VA</str>
+            <str name="city">LEESBURG</str>
+            <str name="caption">
+            Fabulous rolling hills with tremendous location off of Dry Mill Road (near Dry Mill Winery). Working horse farm with operational barns and rings to ride inside or outside. Stone house needs love to return it to its original splendor. Panoramic views overlooking distant developments.
+            </str>
+            <str name="mls_status">PENDING</str>
+            <str name="listing_status">FOR SALE</str>
+            <double name="lat">39.11796</double>
+            <str name="address_mapped">40252 THOMAS MILL RD;LEESBURG;VA;20175;US</str>
+            <str name="premier_flag">N</str>
+            <str name="property_type">LOTS/LAND</str>
+            <date name="supplier_update">2018-10-29T11:16:55Z</date>
+            <str name="country">US</str>
+            <int name="square_footage">2820</int>
+            <str name="county">LOUDOUN</str>
+            <long name="sz_id">400027893272</long>
+            <str name="supplier_listing_id">1000193838</str>
+            <str name="zip">20175</str>
+            <int name="supplier_id">898</int>
+            <date name="last_update">2019-03-13T00:26:33Z</date>
+            <str name="cbsa">47900</str>
+            <int name="office_id">22808216</int>
+            <str name="latlng_combo">39.11796,-77.61409</str>
+            <str name="supplier_id_name">Bright MLS</str>
+            <str name="propid">358911741</str>
+            <date name="listing_date">2018-02-26T10:36:22Z</date>
+            <str name="listing_type">RESALE</str>
+            <str name="lsid">90230</str>
+            <str name="acct_level">F</str>
+            <double name="lng">-77.61409</double>
+            <float name="lot_size">71.89</float>
+            <long name="hdc_uuid">400027893272</long>
+            <str name="mls_partnership">Y</str>
+            <str name="address">40252 THOMAS MILL RD</str>
+            <str name="parking">Y</str>
+            <arr name="features">
+            <str>Cooling;Window Unit(s)</str>
+            <str>Fireplace Y/N;No</str>
+            <str>Current Use;Other</str>
+            <str>Current Use;Residential</str>
+            <str>New Construction;No</str>
+            <str>Waterfront;No</str>
+            <str>Parking;Public</str>
+            <str>Water Access;No</str>
+            </arr>
+            <int name="delta_price">-1000000</int>
+            <date name="delta_price_timestamp">2018-09-20T10:43:32Z</date>
+            <arr name="price_history">
+            <str>-1000000|2018-09-20T10:43:32Z</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Amenities;Waterfront;N</str>
+            <str>Cooling;Wall / Window;N</str>
+            </arr>
+            <str name="energy_efficient">N</str>
+            <str name="fireplace">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="natural_gas">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="pool_community">N</str>
+            <str name="pool">N</str>
+            <str name="garage">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="bonus_room">N</str>
+            <str name="basement">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="tax_amount">11703</str>
+            <str name="supplier_school_district">LOUDOUN COUNTY PUBLIC</str>
+            <str name="supplier_school_elementary">CATOCTIN</str>
+            <str name="supplier_school_high">LOUDOUN COUNTY</str>
+            <str name="apn">310463273000</str>
+            <str name="fips_code">51107</str>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-0.eneighborhoods.com/x2/@v=-1415410333@/230/8/838/1000193838/1000193838_0.jpg
+            </str>
+            <str>
+            1;https://cdn-0.eneighborhoods.com/x2/@v=-1414361757@/230/8/838/1000193838/1000193838_1.jpg
+            </str>
+            <str>
+            2;https://cdn-0.eneighborhoods.com/x2/@v=-1417507485@/230/8/838/1000193838/1000193838_2.jpg
+            </str>
+            <str>
+            3;https://cdn-0.eneighborhoods.com/x2/@v=-1416458909@/230/8/838/1000193838/1000193838_3.jpg
+            </str>
+            <str>
+            4;https://cdn-0.eneighborhoods.com/x2/@v=-1411216029@/230/8/838/1000193838/1000193838_4.jpg
+            </str>
+            <str>
+            5;https://cdn-0.eneighborhoods.com/x2/@v=-1410167453@/230/8/838/1000193838/1000193838_5.jpg
+            </str>
+            <str>
+            6;https://cdn-0.eneighborhoods.com/x2/@v=-1413313181@/230/8/838/1000193838/1000193838_6.jpg
+            </str>
+            <str>
+            7;https://cdn-0.eneighborhoods.com/x2/@v=-1412264605@/230/8/838/1000193838/1000193838_7.jpg
+            </str>
+            <str>
+            8;https://cdn-0.eneighborhoods.com/x2/@v=-1423798941@/230/8/838/1000193838/1000193838_8.jpg
+            </str>
+            <str>
+            9;https://cdn-0.eneighborhoods.com/x2/@v=-1422750365@/230/8/838/1000193838/1000193838_9.jpg
+            </str>
+            <str>
+            10;https://cdn-0.eneighborhoods.com/x2/@v=-1217181884@/230/8/838/1000193838/1000193838_10.jpg
+            </str>
+            <str>
+            11;https://cdn-0.eneighborhoods.com/x2/@v=-1218230460@/230/8/838/1000193838/1000193838_11.jpg
+            </str>
+            <str>
+            12;https://cdn-0.eneighborhoods.com/x2/@v=-1219279036@/230/8/838/1000193838/1000193838_12.jpg
+            </str>
+            <str>
+            13;https://cdn-0.eneighborhoods.com/x2/@v=-1220327612@/230/8/838/1000193838/1000193838_13.jpg
+            </str>
+            <str>
+            14;https://cdn-0.eneighborhoods.com/x2/@v=-1221376188@/230/8/838/1000193838/1000193838_14.jpg
+            </str>
+            <str>
+            15;https://cdn-0.eneighborhoods.com/x2/@v=-1222424764@/230/8/838/1000193838/1000193838_15.jpg
+            </str>
+            <str>
+            16;https://cdn-0.eneighborhoods.com/x2/@v=-1223473340@/230/8/838/1000193838/1000193838_16.jpg
+            </str>
+            <str>
+            17;https://cdn-0.eneighborhoods.com/x2/@v=-1224521916@/230/8/838/1000193838/1000193838_17.jpg
+            </str>
+            <str>
+            18;https://cdn-0.eneighborhoods.com/x2/@v=-1208793276@/230/8/838/1000193838/1000193838_18.jpg
+            </str>
+            <str>
+            19;https://cdn-0.eneighborhoods.com/x2/@v=-1209841852@/230/8/838/1000193838/1000193838_19.jpg
+            </str>
+            <str>
+            20;https://cdn-0.eneighborhoods.com/x2/@v=-1267513532@/230/8/838/1000193838/1000193838_20.jpg
+            </str>
+            <str>
+            21;https://cdn-0.eneighborhoods.com/x2/@v=-1268562108@/230/8/838/1000193838/1000193838_21.jpg
+            </str>
+            <str>
+            22;https://cdn-0.eneighborhoods.com/x2/@v=-1269610684@/230/8/838/1000193838/1000193838_22.jpg
+            </str>
+            <str>
+            23;https://cdn-0.eneighborhoods.com/x2/@v=-1270659260@/230/8/838/1000193838/1000193838_23.jpg
+            </str>
+            <str>
+            24;https://cdn-0.eneighborhoods.com/x2/@v=-1271707836@/230/8/838/1000193838/1000193838_24.jpg
+            </str>
+            <str>
+            25;https://cdn-0.eneighborhoods.com/x2/@v=-1272756412@/230/8/838/1000193838/1000193838_25.jpg
+            </str>
+            <str>
+            26;https://cdn-0.eneighborhoods.com/x2/@v=-1273804988@/230/8/838/1000193838/1000193838_26.jpg
+            </str>
+            <str>
+            27;https://cdn-0.eneighborhoods.com/x2/@v=-1274853564@/230/8/838/1000193838/1000193838_27.jpg
+            </str>
+            <str>
+            28;https://cdn-0.eneighborhoods.com/x2/@v=-1259124924@/230/8/838/1000193838/1000193838_28.jpg
+            </str>
+            <str>
+            29;https://cdn-0.eneighborhoods.com/x2/@v=-1260173500@/230/8/838/1000193838/1000193838_29.jpg
+            </str>
+            </arr>
+            <int name="image_count">30</int>
+            <str name="main_image">
+            https://cdn-0.eneighborhoods.com/x2/@v=-1415410333@/230/8/838/1000193838/1000193838_0.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">16</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Washingto-DC-Hagerstown-511</str>
+            <str>ld_agent_name;Paul Herrick</str>
+            <str>ld_agent_phone;7036791700</str>
+            <str>ld_broker_name;Keller Williams Realty</str>
+            </arr>
+            <str name="city_preferred">LEESBURG</str>
+            <arr name="places">
+            <str>LEESBURG</str>
+            </arr>
+            <str name="latlng_combo_zip">39.066699999999997,-77.599699999999999</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/40252-thomas-mill-rd-leesburg-va-20175/id-400027893272/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>39.11796,-77.61409</str>
+            </arr>
+            <str name="latlng_combo_str_11">dqby9c5nss7</str>
+            <str name="latlng_combo_str_10">dqby9c5nss</str>
+            <str name="latlng_combo_str_9">dqby9c5ns</str>
+            <str name="latlng_combo_str_8">dqby9c5n</str>
+            <str name="latlng_combo_str_7">dqby9c5</str>
+            <str name="latlng_combo_str_6">dqby9c</str>
+            <str name="latlng_combo_str_5">dqby9</str>
+            <str name="latlng_combo_str_4">dqby</str>
+            <str name="latlng_combo_str_3">dqb</str>
+            <str name="latlng_combo_str_2">dq</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10079999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 40252 Thomas Mill Rd Leesburg, VA 20175 US and has been listed on Homes.com since 26 February 2018 and is currently priced at $2,000,000, approximately $709 per square foot. Similar properties nearby are <a href="/property/40568-hidden-hills-ln-paeonian-springs-va-20129/id-400027877202/">40568 Hidden Hills Ln</a>, <a href="/property/38821-ridge-ct-hamilton-va-20158/id-400027934275/">38821 Ridge Ct</a>, <a href="/property/16730-whirlaway-ct-leesburg-va-20176/id-400027875815/">16730 Whirlaway Ct</a>, <a href="/property/18195-dry-mill-rd-leesburg-va-20175/id-400034947191/">18195 Dry Mill Rd</a>, <a href="/property/leesburg-va-20175/id-400027915898/">17726 Tobermory Pl</a>, and <a href="/property/40252-thomas-mill-rd-leesburg-va-20175/id-400027893272/">40252 Thomas Mill Rd</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;20101</str>
+            <str>county;MONTGOMERY</str>
+            <str>city;ADAMSTOWN</str>
+            <str>city;THE PLAINS</str>
+            <str>county;CLARKE</str>
+            <str>county;FAIRFAX</str>
+            <str>zip;20103</str>
+            <str>city;LOVETTSVILLE</str>
+            <str>city;MARSHALL</str>
+            <str>city;HAMILTON</str>
+            <str>zip;20158</str>
+            <str>zip;20135</str>
+            <str>city;GERMANTOWN</str>
+            <str>county;MANASSAS PARK</str>
+            <str>zip;20176</str>
+            <str>zip;20131</str>
+            <str>zip;20177</str>
+            <str>zip;20142</str>
+            <str>city;ROUND HILL</str>
+            <str>zip;20148</str>
+            <str>zip;20160</str>
+            <str>city;MIDDLEBURG</str>
+            <str>zip;20197</str>
+            <str>zip;20178</str>
+            <str>zip;20147</str>
+            <str>city;BARNESVILLE</str>
+            <str>city;POOLESVILLE</str>
+            <str>zip;20169</str>
+            <str>city;ASHBURN</str>
+            <str>zip;20132</str>
+            <str>city;HERNDON</str>
+            <str>county;MANASSAS PARK CITY</str>
+            <str>zip;20104</str>
+            <str>city;PURCELLVILLE</str>
+            <str>zip;20149</str>
+            <str>zip;20141</str>
+            <str>city;BERRYVILLE</str>
+            <str>county;JEFFERSON</str>
+            <str>city;POINT OF ROCKS</str>
+            <str>zip;20118</str>
+            <str>city;RESTON</str>
+            <str>zip;20102</str>
+            <str>zip;20105</str>
+            <str>zip;20134</str>
+            <str>zip;20117</str>
+            <str>zip;20129</str>
+            <str>zip;20159</str>
+            </arr>
+            <long name="_version_">1627863119674998784</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T04:27:27.858Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000074683681</str>
+            </arr>
+            <int name="year_built">2019</int>
+            <str name="propid">371340439</str>
+            <str name="caption">
+            AWESOME 6 BEDROOM 3 FULL BATH CRAFTSMAN STYLE HOME. OPEN FLOOR PLAN, KITCHEN LOTS OF CABINETS, OPEN TO FAMILY ROOM WITH HUGH CENTER ISLAND. ONE BEDROOM DOWNSTAIRS WITH FULL BATH. MASTER BATH HAS SEP. DOUBLE SHOWER & JACUZZI.QUARTZ COUNTER TOPS AND LVP FLOORING ON THE FIRST LEVEL. HARDWOOD STAIRCASE WITH ROD IRON SPINDLE.CUL-DE-SAC LOT. COMPLETION IN 45 DAYS OR BETTER.
+            </str>
+            <float name="num_stories">2.0</float>
+            <date name="last_update">2019-03-13T00:25:55Z</date>
+            <int name="full_baths">3</int>
+            <str name="acct_type">AGENT</str>
+            <long name="hdc_uuid">1000074683681</long>
+            <str name="mls_number">10216693</str>
+            <str name="supplier_listing_id">10216693</str>
+            <str name="zip">23322</str>
+            <int name="beds">6</int>
+            <double name="lat">36.690387</double>
+            <arr name="headline_elements">
+            <str>square_footage;3200 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Great Bridge</str>
+            </arr>
+            <str name="headline">3200 SqFt House In Great Bridge</str>
+            <int name="office_id">4082878</int>
+            <str name="lsid">2611</str>
+            <str name="state">VA</str>
+            <str name="acct_level">F</str>
+            <float name="lot_size">0.26</float>
+            <str name="sub_division">ALL OTHERS AREA 32</str>
+            <date name="supplier_update">2019-01-06T13:02:14Z</date>
+            <date name="listing_date">2018-09-09T19:02:38Z</date>
+            <float name="total_baths">3.0</float>
+            <str name="city">CHESAPEAKE</str>
+            <str name="subdivision">ALL OTHERS AREA 32</str>
+            <str name="country">US</str>
+            <long name="sz_id">1000074683681</long>
+            <int name="square_footage">3200</int>
+            <str name="listing_type">RESALE</str>
+            <str name="premier_flag">N</str>
+            <str name="latlng_combo">36.690387,-76.250304</str>
+            <int name="price">460500</int>
+            <str name="supplier_id_name">Real Estate Information Network, Inc.</str>
+            <double name="lng">-76.250304</double>
+            <int name="agent_id">6040656</int>
+            <str name="cbsa">47260</str>
+            <str name="mls_status">PENDING</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <int name="supplier_id">43</int>
+            <str name="listing_status">FOR SALE</str>
+            <str name="county">CHESAPEAKE CITY</str>
+            <str name="address">1009 MIMI CT</str>
+            <str name="homesconnect_id">150523683</str>
+            <str name="garage">Y</str>
+            <str name="walk_in_closet">Y</str>
+            <arr name="ext_finish">
+            <str>STONE</str>
+            <str>VINYL</str>
+            <str>VINYL</str>
+            <str>STONE</str>
+            </arr>
+            <str name="natural_gas">Y</str>
+            <str name="parking">Y</str>
+            <str name="fireplace">Y</str>
+            <arr name="lot_type">
+            <str>CULDESAC</str>
+            </arr>
+            <arr name="features">
+            <str>Cooling;CENTRAL AIR</str>
+            <str>Disclosures;Exempt from Disclosure/Disclaimer</str>
+            <str>Disclosures;Occupancy Permit</str>
+            <str>Disclosures;Related to Seller</str>
+            <str>Equipment;Cable Hookup</str>
+            <str>Equipment;CEILING FAN</str>
+            <str>Equipment;JETTED TUB</str>
+            <str>Flooring;Carpet</str>
+            <str>Flooring;Ceramic</str>
+            <str>Flooring;Laminate</str>
+            <str>Interior Features;Fireplace Gas-natural</str>
+            <str>Interior Features;PULL DOWN ATTIC STAIRS</str>
+            <str>Interior Features;WALK-IN CLOSET</str>
+            <str>Water Heater;Gas</str>
+            <str>Appliances;DISHWASHER</str>
+            <str>Appliances;DISPOSAL</str>
+            <str>Appliances;DRYER HOOKUP</str>
+            <str>Appliances;GAS RANGE</str>
+            <str>Appliances;MICROWAVE</str>
+            <str>Appliances;WASHER HOOKUP</str>
+            <str>Garage;Yes</str>
+            <str>New Construction;Yes</str>
+            <str>Property Sub Type;Detached</str>
+            <str>Roof;Asphalt Shingle</str>
+            <str>Style;Transitional</str>
+            <str>Foundation;Slab</str>
+            <str>Exterior Features;CUL-DE-SAC</str>
+            <str>Exterior Features;PATIO</str>
+            <str>Fence;No</str>
+            <str>Siding;Stone</str>
+            <str>Siding;Vinyl</str>
+            <str>Waterfront;No</str>
+            <str>Pool;No Pool</str>
+            <str>Parking;Garage Att 2 Car</str>
+            <str>Heating;NAT GAS</str>
+            <str>Sewer;City/County</str>
+            <str>Water;City/County</str>
+            <str>Zoning;R10S</str>
+            <str>Contingency Type;Non Contingent</str>
+            <str>Listing Type;Standard Agency ER</str>
+            <str>Ownership Type;Simple</str>
+            <str>Possession;SETTLE</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Appliances;Range / Oven - Gas;Y</str>
+            <str>Parking;Garage - Attached;N</str>
+            <str>Interior Features;Ceiling Fan;Y</str>
+            <str>Appliances;Water Heater - Gas;Y</str>
+            <str>Flooring;Laminate;N</str>
+            <str>Appliances;Dishwasher;N</str>
+            <str>Appliances;Microwave;N</str>
+            <str>Exterior Build;Vinyl;N</str>
+            <str>Cooling;Central;N</str>
+            <str>Exterior Features;Patio;N</str>
+            <str>Flooring;Carpet;N</str>
+            <str>Heating Fuels;Gas;Y</str>
+            <str>Rooms;Walk In Closet;N</str>
+            <str>Amenities;Waterfront;N</str>
+            <str>Exterior Build;Stone;N</str>
+            <str>Interior Features;Jetted Bath Tub;N</str>
+            <str>Roof;Asphalt;N</str>
+            <str>Flooring;Ceramic Tile;N</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <str name="hardwood_floors">Y</str>
+            <arr name="arch_style">
+            <str>CRAFTSMAN</str>
+            </arr>
+            <str name="appliances_ss">N</str>
+            <str name="bonus_room">N</str>
+            <str name="pool">N</str>
+            <str name="pool_community">N</str>
+            <str name="basement">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="energy_efficient">N</str>
+            <arr name="features_ranked">
+            <str>Appliances;Range / Oven - Gas;Y</str>
+            <str>Rooms;Walk In Closet;N</str>
+            <str>Appliances;Water Heater - Gas;Y</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Gas Range / Oven</str>
+            <str>Walk In Closet</str>
+            <str>Gas Water Heater</str>
+            </arr>
+            <str name="tax_amount">1313</str>
+            <str name="supplier_school_elementary">GREAT BRIDGE PRIMARY</str>
+            <str name="supplier_school_middle">GREAT BRIDGE</str>
+            <str name="supplier_school_high">GREAT BRIDGE</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;GREAT BRIDGE INTERMEDIATE SCHOOL</str>
+            <str>P_hdcgrd;A</str>
+            <str>P_pupteach;19.35</str>
+            <str>P_nces_schid;510081000456</str>
+            <str>P_sch_dist;0.68</str>
+            <str>P_district;CHESAPEAKE CITY PUBLIC SCHOOLS</str>
+            <str>P_nces_disid;5100810</str>
+            <str>P_assigned;N</str>
+            <str>M_sch_name;GREAT BRIDGE MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;A+</str>
+            <str>M_pupteach;16.26</str>
+            <str>M_nces_schid;510081000296</str>
+            <str>M_sch_dist;1.49</str>
+            <str>M_district;CHESAPEAKE CITY PUBLIC SCHOOLS</str>
+            <str>M_nces_disid;5100810</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;GREAT BRIDGE HIGH SCHOOL</str>
+            <str>H_hdcgrd;A</str>
+            <str>H_pupteach;14.72</str>
+            <str>H_nces_schid;510081002031</str>
+            <str>H_sch_dist;0.55</str>
+            <str>H_district;CHESAPEAKE CITY PUBLIC SCHOOLS</str>
+            <str>H_nces_disid;5100810</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-1.eneighborhoods.com/x2/@v=-1323918891@/2611/6/693/10216693/10216693_1.jpg
+            </str>
+            <str>
+            1;https://cdn-1.eneighborhoods.com/x2/@v=-1322870315@/2611/6/693/10216693/10216693_2.jpg
+            </str>
+            <str>
+            2;https://cdn-1.eneighborhoods.com/x2/@v=-1321821739@/2611/6/693/10216693/10216693_3.jpg
+            </str>
+            <str>
+            3;https://cdn-1.eneighborhoods.com/x2/@v=-1320773163@/2611/6/693/10216693/10216693_4.jpg
+            </str>
+            <str>
+            4;https://cdn-1.eneighborhoods.com/x2/@v=-1319724587@/2611/6/693/10216693/10216693_5.jpg
+            </str>
+            <str>
+            5;https://cdn-1.eneighborhoods.com/x2/@v=-1318676011@/2611/6/693/10216693/10216693_6.jpg
+            </str>
+            <str>
+            6;https://cdn-1.eneighborhoods.com/x2/@v=-1317627435@/2611/6/693/10216693/10216693_7.jpg
+            </str>
+            <str>
+            7;https://cdn-1.eneighborhoods.com/x2/@v=-1316578859@/2611/6/693/10216693/10216693_8.jpg
+            </str>
+            <str>
+            8;https://cdn-1.eneighborhoods.com/x2/@v=-1315530283@/2611/6/693/10216693/10216693_9.jpg
+            </str>
+            <str>
+            9;https://cdn-1.eneighborhoods.com/x2/@v=88615128@/2611/6/693/10216693/10216693_10.jpg
+            </str>
+            <str>
+            10;https://cdn-1.eneighborhoods.com/x2/@v=89663704@/2611/6/693/10216693/10216693_11.jpg
+            </str>
+            <str>
+            11;https://cdn-1.eneighborhoods.com/x2/@v=90712280@/2611/6/693/10216693/10216693_12.jpg
+            </str>
+            <str>
+            12;https://cdn-1.eneighborhoods.com/x2/@v=91760856@/2611/6/693/10216693/10216693_13.jpg
+            </str>
+            <str>
+            13;https://cdn-1.eneighborhoods.com/x2/@v=84420824@/2611/6/693/10216693/10216693_14.jpg
+            </str>
+            <str>
+            14;https://cdn-1.eneighborhoods.com/x2/@v=85469400@/2611/6/693/10216693/10216693_15.jpg
+            </str>
+            <str>
+            15;https://cdn-1.eneighborhoods.com/x2/@v=86517976@/2611/6/693/10216693/10216693_16.jpg
+            </str>
+            <str>
+            16;https://cdn-1.eneighborhoods.com/x2/@v=87566552@/2611/6/693/10216693/10216693_17.jpg
+            </str>
+            <str>
+            17;https://cdn-1.eneighborhoods.com/x2/@v=97003736@/2611/6/693/10216693/10216693_18.jpg
+            </str>
+            <str>
+            18;https://cdn-1.eneighborhoods.com/x2/@v=98052312@/2611/6/693/10216693/10216693_19.jpg
+            </str>
+            <str>
+            19;https://cdn-1.eneighborhoods.com/x2/@v=105392344@/2611/6/693/10216693/10216693_20.jpg
+            </str>
+            <str>
+            20;https://cdn-1.eneighborhoods.com/x2/@v=106440920@/2611/6/693/10216693/10216693_21.jpg
+            </str>
+            <str>
+            21;https://cdn-1.eneighborhoods.com/x2/@v=107489496@/2611/6/693/10216693/10216693_22.jpg
+            </str>
+            <str>
+            22;https://cdn-1.eneighborhoods.com/x2/@v=108538072@/2611/6/693/10216693/10216693_23.jpg
+            </str>
+            <str>
+            23;https://cdn-1.eneighborhoods.com/x2/@v=106307121@/2611/6/693/10216693/10216693_24.jpg
+            </str>
+            </arr>
+            <int name="image_count">24</int>
+            <str name="main_image">
+            https://cdn-1.eneighborhoods.com/x2/@v=-1323918891@/2611/6/693/10216693/10216693_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Norfolk-Portsmouth-Newport-News-544</str>
+            <str>ld_agent_name;Mimi Kopassis</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;7574340336</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;MK Realty Group</str>
+            <str>ld_broker_phone;7574340336</str>
+            </arr>
+            <str name="city_preferred">CHESAPEAKE</str>
+            <arr name="places">
+            <str>CHESAPEAKE</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>GREAT BRIDGE</str>
+            <str>PLEASANT GROVE</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Great Bridge;N;N</str>
+            <str>Pleasant Grove;M;N</str>
+            </arr>
+            <str name="latlng_combo_zip">36.622700000000002,-76.2654</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/1009-mimi-ct-chesapeake-va-23322/id-1000074683681/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>36.690387,-76.250304</str>
+            </arr>
+            <str name="latlng_combo_str_11">dq9b8zk0zpu</str>
+            <str name="latlng_combo_str_10">dq9b8zk0zp</str>
+            <str name="latlng_combo_str_9">dq9b8zk0z</str>
+            <str name="latlng_combo_str_8">dq9b8zk0</str>
+            <str name="latlng_combo_str_7">dq9b8zk</str>
+            <str name="latlng_combo_str_6">dq9b8z</str>
+            <str name="latlng_combo_str_5">dq9b8</str>
+            <str name="latlng_combo_str_4">dq9b</str>
+            <str name="latlng_combo_str_3">dq9</str>
+            <str name="latlng_combo_str_2">dq</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10089999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 1009 Mimi Ct Chesapeake, VA 23322 US and has been listed on Homes.com since 9 September 2018 and is currently priced at $460,500, approximately $144 per square foot. This property was built in 2019. 1009 Mimi Ct is within the school district(s) Chesapeake City Public Schools with nearby schools including Great Bridge Intermediate School, Great Bridge Middle School, and Great Bridge High School. Similar properties nearby are <a href="/property/713-denham-arch-chesapeake-va-23322/id-400028389557/">713 Denham Arch</a>, <a href="/property/1328-waters-rd-chesapeake-va-23322/id-1000042520093/">1328 Waters Rd</a>, <a href="/property/800-catrina-ln-chesapeake-va-23322/id-400028421773/">800 Catrina Ln</a>, <a href="/property/1000-seagull-ct-chesapeake-va-23322/id-400028412636/">1000 Seagull Ct</a>, <a href="/property/820-saint-kitts-way-chesapeake-va-23322/id-400028411461/">820 Saint Kitts Way</a>, <a href="/property/1016-sullivan-ln-chesapeake-va-23322/id-400028418988/">1016 Sullivan Ln</a>, <a href="/property/904-bells-creek-ct-chesapeake-va-23322/id-400031933239/">904 Bells Creek Ct</a>, and <a href="/property/1108-edinburgh-pkwy-chesapeake-va-23322/id-1000022091046/">1108 Edinburgh Pkwy</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;23514</str>
+            <str>zip;23320</str>
+            <str>zip;27907</str>
+            <str>zip;27956</str>
+            <str>zip;23701</str>
+            <str>zip;23467</str>
+            <str>zip;27929</str>
+            <str>zip;23456</str>
+            <str>city;ELIZABETH CITY</str>
+            <str>zip;27958</str>
+            <str>county;NORFOLK</str>
+            <str>zip;27926</str>
+            <str>zip;27921</str>
+            <str>zip;23465</str>
+            <str>zip;23328</str>
+            <str>city;PORTSMOUTH</str>
+            <str>zip;23463</str>
+            <str>city;SUNBURY</str>
+            <str>county;PORTSMOUTH</str>
+            <str>city;NORFOLK</str>
+            <str>city;SOUTH MILLS</str>
+            <str>county;VIRGINIA BEACH</str>
+            <str>city;CAMDEN</str>
+            <str>zip;27917</str>
+            <str>zip;23326</str>
+            <str>zip;27950</str>
+            <str>zip;27909</str>
+            <str>zip;23457</str>
+            <str>zip;23327</str>
+            <str>zip;27976</str>
+            <str>zip;23323</str>
+            <str>zip;23709</str>
+            <str>city;SUFFOLK</str>
+            <str>zip;27973</str>
+            <str>city;HAMPTON</str>
+            <str>zip;27906</str>
+            <str>zip;23523</str>
+            <str>city;VIRGINIA BEACH</str>
+            <str>city;CHESAPEAKE</str>
+            <str>city;CARROLLTON</str>
+            <str>zip;27979</str>
+            <str>city;MOYOCK</str>
+            <str>county;SUFFOLK</str>
+            </arr>
+            <long name="_version_">1627863051886657536</long>
+            <date name="timestamp">2019-03-13T04:26:23.211Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000042591864</str>
+            </arr>
+            <str name="mls_partnership">Y</str>
+            <long name="sz_id">1000042591864</long>
+            <date name="last_update">2019-03-13T01:35:41Z</date>
+            <str name="listing_type">RESALE</str>
+            <int name="price">51950</int>
+            <str name="state">VA</str>
+            <str name="listing_status">FOR SALE</str>
+            <long name="hdc_uuid">1000042591864</long>
+            <str name="mls_number">1831385</str>
+            <str name="supplier_id_name">Central Virginia Regional MLS</str>
+            <arr name="headline_elements">
+            <str>home_type;Lot</str>
+            <str>location_prep;In Henrico</str>
+            </arr>
+            <str name="headline">Lot In Henrico</str>
+            <int name="agent_id">44591482</int>
+            <float name="lot_size">5.0</float>
+            <date name="supplier_update">2019-01-21T14:36:16Z</date>
+            <str name="lsid">90150</str>
+            <str name="cbsa">40060</str>
+            <str name="country">US</str>
+            <str name="property_type">LOTS/LAND</str>
+            <str name="premier_flag">N</str>
+            <str name="zip">23231</str>
+            <str name="subdivision">HENRICO</str>
+            <str name="city">RICHMOND</str>
+            <str name="acct_type">AGENT</str>
+            <str name="latlng_combo">37.472803,-77.297567</str>
+            <str name="county">HENRICO</str>
+            <double name="lat">37.472803</double>
+            <int name="office_id">27334602</int>
+            <str name="caption">
+            4.999 acres on Charles city rd. plat online; irregular shaped lot, priced way below assessment for quick sale.
+            </str>
+            <int name="supplier_id">3509</int>
+            <str name="sub_division">HENRICO</str>
+            <double name="lng">-77.297567</double>
+            <str name="supplier_listing_id">1831385</str>
+            <date name="listing_date">2018-08-31T14:34:50Z</date>
+            <str name="acct_level">F</str>
+            <str name="propid">370806627</str>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="address">4193 CHARLES CITY RD</str>
+            <arr name="features">
+            <str>Disclosures;No Form</str>
+            <str>Lead Base Paint Discl;No Form</str>
+            <str>Telephone Service;No Service</str>
+            <str>Property Subtype;Residential Land</str>
+            <str>Property Type;Lots/Land</str>
+            <str>Waterfront;No</str>
+            <str>Electric;At Street</str>
+            <str>Natural Gas;No Gas</str>
+            <str>Sewer;No Sewer</str>
+            <str>Sewer;Septic Needed</str>
+            <str>Post Office;Henrico</str>
+            <str>Zoning;A1</str>
+            <str>Assessments;Unknown</str>
+            <str>HOA;N</str>
+            <str>Listing Type;Exclusive Right</str>
+            <str>Owner Agent;N</str>
+            <str>Ownership;Individuals</str>
+            <str>Possession;At Closing</str>
+            </arr>
+            <int name="delta_price">-4550</int>
+            <date name="delta_price_timestamp">2019-01-21T17:21:47Z</date>
+            <arr name="price_history">
+            <str>-4550|2019-01-21T17:21:47Z</str>
+            </arr>
+            <str name="walk_in_closet">N</str>
+            <str name="fireplace">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="basement">N</str>
+            <str name="pool_community">N</str>
+            <str name="natural_gas">N</str>
+            <str name="pool">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="parking">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="bonus_room">N</str>
+            <str name="garage">N</str>
+            <str name="tax_amount">600</str>
+            <str name="tax_year">2018</str>
+            <str name="supplier_school_elementary">WARD</str>
+            <str name="supplier_school_middle">ELKO</str>
+            <str name="supplier_school_high">VARINA</str>
+            <str name="apn">8316978298</str>
+            <str name="fips_code">51087</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;WARD ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;B-</str>
+            <str>P_pupteach;17.32</str>
+            <str>P_nces_schid;510189001128</str>
+            <str>P_sch_dist;1.53</str>
+            <str>P_district;HENRICO COUNTY PUBLIC SCHOOLS</str>
+            <str>P_nces_disid;5101890</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;ELKO MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;C+</str>
+            <str>M_pupteach;14.81</str>
+            <str>M_nces_schid;510189002757</str>
+            <str>M_sch_dist;4.16</str>
+            <str>M_district;HENRICO COUNTY PUBLIC SCHOOLS</str>
+            <str>M_nces_disid;5101890</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;VARINA HIGH SCHOOL</str>
+            <str>H_hdcgrd;B-</str>
+            <str>H_pupteach;15.68</str>
+            <str>H_nces_schid;510189000835</str>
+            <str>H_sch_dist;4.49</str>
+            <str>H_district;HENRICO COUNTY PUBLIC SCHOOLS</str>
+            <str>H_nces_disid;5101890</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-0.eneighborhoods.com/x2/@v=451167776@/90150/3/385/1831385/1831385_1.jpg
+            </str>
+            </arr>
+            <int name="image_count">1</int>
+            <str name="main_image">
+            https://cdn-0.eneighborhoods.com/x2/@v=451167776@/90150/3/385/1831385/1831385_1.jpg
+            </str>
+            <int name="image_count_acctmod">1</int>
+            <int name="premier_snipe">16</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Richmond-Petersburg-556</str>
+            <str>ld_agent_name;Sandra Seelmann</str>
+            <str>ld_agent_phone;8043349580</str>
+            <str>ld_broker_name;Varina & Seelmann Realty</str>
+            <str>ld_broker_phone;8047951366</str>
+            </arr>
+            <str name="city_preferred">HENRICO</str>
+            <arr name="places">
+            <str>RICHMOND</str>
+            <str>HENRICO</str>
+            </arr>
+            <str name="latlng_combo_zip">37.445799999999998,-77.323700000000002</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/4193-charles-city-rd-richmond-va-23231/id-1000042591864/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>37.472803,-77.297567</str>
+            </arr>
+            <str name="latlng_combo_str_11">dq9j1j9wuhu</str>
+            <str name="latlng_combo_str_10">dq9j1j9wuh</str>
+            <str name="latlng_combo_str_9">dq9j1j9wu</str>
+            <str name="latlng_combo_str_8">dq9j1j9w</str>
+            <str name="latlng_combo_str_7">dq9j1j9</str>
+            <str name="latlng_combo_str_6">dq9j1j</str>
+            <str name="latlng_combo_str_5">dq9j1</str>
+            <str name="latlng_combo_str_4">dq9j</str>
+            <str name="latlng_combo_str_3">dq9</str>
+            <str name="latlng_combo_str_2">dq</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10034999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 4193 Charles City Rd Richmond, VA 23231 US and has been listed on Homes.com since 31 August 2018 and is currently priced at $51,950. 4193 Charles City Rd is within the school district(s) Henrico County Public Schools with nearby schools including Ward Elementary School, Elko Middle School, and Varina High School.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;23297</str>
+            <str>city;HANOVER</str>
+            <str>zip;23220</str>
+            <str>county;HOPEWELL CITY</str>
+            <str>city;FORT LEE</str>
+            <str>zip;23831</str>
+            <str>zip;23219</str>
+            <str>county;PETERSBURG CITY</str>
+            <str>zip;23289</str>
+            <str>city;GLEN ALLEN</str>
+            <str>county;KING WILLIAM</str>
+            <str>county;NEW KENT</str>
+            <str>zip;23274</str>
+            <str>zip;23278</str>
+            <str>city;PETERSBURG</str>
+            <str>zip;23140</str>
+            <str>zip;23241</str>
+            <str>zip;23223</str>
+            <str>zip;23150</str>
+            <str>county;HANOVER</str>
+            <str>county;CHARLES CITY</str>
+            <str>zip;23293</str>
+            <str>zip;23075</str>
+            <str>zip;23842</str>
+            <str>county;RICHMOND</str>
+            <str>zip;23141</str>
+            <str>county;CHESTERFIELD</str>
+            <str>city;CHESTER</str>
+            <str>county;RICHMOND CITY</str>
+            <str>city;PRINCE GEORGE</str>
+            <str>zip;23218</str>
+            <str>zip;23298</str>
+            <str>zip;23284</str>
+            <str>zip;23836</str>
+            <str>zip;23292</str>
+            <str>zip;23249</str>
+            <str>zip;23290</str>
+            <str>county;HOPEWELL</str>
+            <str>city;SANDSTON</str>
+            <str>city;MECHANICSVILLE</str>
+            <str>city;ASHLAND</str>
+            <str>county;COLONIAL HEIGHTS</str>
+            <str>city;HOPEWELL</str>
+            <str>city;COLONIAL HEIGHTS</str>
+            <str>zip;23250</str>
+            <str>zip;23291</str>
+            <str>city;POWHATAN</str>
+            <str>county;PETERSBURG</str>
+            <str>zip;23237</str>
+            <str>zip;23875</str>
+            <str>zip;23030</str>
+            </arr>
+            <long name="_version_">1627867420251127809</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T05:35:49.185Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000065928512</str>
+            </arr>
+            <str name="cbsa">25500</str>
+            <date name="supplier_update">2018-11-02T10:01:49Z</date>
+            <str name="propid">370819451</str>
+            <str name="mls_number">566663</str>
+            <long name="hdc_uuid">1000065928512</long>
+            <str name="country">US</str>
+            <int name="supplier_id">3425</int>
+            <str name="listing_type">RESALE</str>
+            <str name="county">ROCKINGHAM</str>
+            <int name="office_id">10660217</int>
+            <str name="listing_status">FOR SALE</str>
+            <str name="acct_type">AGENT</str>
+            <int name="price">64900</int>
+            <str name="caption">
+            Beautiful home site! Some of the best western views in Timberville! Very nice almost level lot in a great established neighborhood. Tap fees for water and sewer are paid. This lot is ready for your dream house!
+            </str>
+            <date name="listing_date">2018-08-31T16:25:38Z</date>
+            <str name="lsid">101</str>
+            <str name="latlng_combo">38.644793,-78.771994</str>
+            <date name="last_update">2019-03-13T01:35:47Z</date>
+            <str name="sub_division">ROCKINGHAM</str>
+            <double name="lng">-78.771994</double>
+            <str name="listing_url">
+            http://151245383.homesconnect.com/listing/217181350-151245383/396%20N%20MAIN%20ST-Vi-22853/?RefCode=40001
+            </str>
+            <str name="supplier_listing_id">566663</str>
+            <str name="acct_level">F</str>
+            <str name="premier_flag">N</str>
+            <double name="lat">38.644793</double>
+            <arr name="headline_elements">
+            <str>home_type;Lot</str>
+            <str>location_prep;In Timberville</str>
+            </arr>
+            <str name="headline">Lot In Timberville</str>
+            <str name="zip">22853</str>
+            <str name="state">VA</str>
+            <str name="supplier_id_name">Charlottesville Area Association of REALTORS</str>
+            <long name="sz_id">1000065928512</long>
+            <str name="subdivision">ROCKINGHAM</str>
+            <str name="property_type">LOTS/LAND</str>
+            <int name="agent_id">33539228</int>
+            <str name="city">TIMBERVILLE</str>
+            <str name="address">396 N MAIN ST</str>
+            <str name="homesconnect_id">151245383</str>
+            <arr name="features">
+            <str>Green Features;No</str>
+            <str>Over 55 Community;No</str>
+            <str>Fencing;No</str>
+            <str>Best Use;Residential</str>
+            <str>Septic;Public Sewer</str>
+            <str>Middle School;J. Frank Hillyard</str>
+            <str>Water;Public Water</str>
+            <str>Zoning;R-2 Medium Density Residential</str>
+            <str>HOA;No</str>
+            <str>Services;Exclusive Right to Sell</str>
+            <str>Historical District;No</str>
+            </arr>
+            <arr name="lot_type">
+            <str>LEVEL</str>
+            </arr>
+            <str name="walk_in_closet">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="parking">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="basement">N</str>
+            <str name="bonus_room">N</str>
+            <str name="pool_community">N</str>
+            <str name="garage">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="natural_gas">N</str>
+            <str name="fireplace">N</str>
+            <str name="pool">N</str>
+            <str name="supplier_school_elementary">PLAINS</str>
+            <str name="supplier_school_high">BROADWAY</str>
+            <arr name="images">
+            <str>
+            0;https://cdn-1.eneighborhoods.com/x2/@v=-1234821266@/101/6/663/566663/566663_1.jpg
+            </str>
+            <str>
+            1;https://cdn-1.eneighborhoods.com/x2/@v=-1235869842@/101/6/663/566663/566663_2.jpg
+            </str>
+            <str>
+            2;https://cdn-1.eneighborhoods.com/x2/@v=-1236918418@/101/6/663/566663/566663_3.jpg
+            </str>
+            <str>
+            3;https://cdn-1.eneighborhoods.com/x2/@v=-1237966994@/101/6/663/566663/566663_4.jpg
+            </str>
+            <str>
+            4;https://cdn-1.eneighborhoods.com/x2/@v=-1239015570@/101/6/663/566663/566663_5.jpg
+            </str>
+            <str>
+            5;https://cdn-1.eneighborhoods.com/x2/@v=-1240064146@/101/6/663/566663/566663_6.jpg
+            </str>
+            <str>
+            6;https://cdn-1.eneighborhoods.com/x2/@v=-1241112722@/101/6/663/566663/566663_7.jpg
+            </str>
+            </arr>
+            <int name="image_count">7</int>
+            <str name="main_image">
+            https://cdn-1.eneighborhoods.com/x2/@v=-1234821266@/101/6/663/566663/566663_1.jpg
+            </str>
+            <int name="image_count_acctmod">7</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>agent_call_tracking;5409084519</str>
+            <str>ld_agent_name;Isaac Hull</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;5404350047</str>
+            <str>
+            ld_agent_photo;https://cdn.homes.com/cgi-bin/readimage/7749053810
+            </str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Valley Realty Associates</str>
+            <str>ld_broker_phone;5402365800</str>
+            </arr>
+            <str name="city_preferred">TIMBERVILLE</str>
+            <arr name="places">
+            <str>TIMBERVILLE</str>
+            </arr>
+            <str name="latlng_combo_zip">38.659999999999997,-78.769300000000001</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/396-n-main-st-timberville-va-22853/id-1000065928512/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>38.644793,-78.771994</str>
+            </arr>
+            <str name="latlng_combo_str_11">dnzgz7pfpx8</str>
+            <str name="latlng_combo_str_10">dnzgz7pfpx</str>
+            <str name="latlng_combo_str_9">dnzgz7pfp</str>
+            <str name="latlng_combo_str_8">dnzgz7pf</str>
+            <str name="latlng_combo_str_7">dnzgz7p</str>
+            <str name="latlng_combo_str_6">dnzgz7</str>
+            <str name="latlng_combo_str_5">dnzgz</str>
+            <str name="latlng_combo_str_4">dnzg</str>
+            <str name="latlng_combo_str_3">dnz</str>
+            <str name="latlng_combo_str_2">dn</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10039999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 396 N Main St Timberville, VA 22853 US and has been listed on Homes.com since 31 August 2018 and is currently priced at $64,900.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;NEW MARKET</str>
+            <str>zip;22807</str>
+            <str>city;EDINBURG</str>
+            <str>zip;22835</str>
+            <str>city;MOUNT CRAWFORD</str>
+            <str>zip;22815</str>
+            <str>zip;22803</str>
+            <str>zip;22832</str>
+            <str>zip;22833</str>
+            <str>city;BROADWAY</str>
+            <str>zip;22845</str>
+            <str>city;HARRISONBURG</str>
+            <str>zip;22844</str>
+            <str>city;SHENANDOAH</str>
+            <str>city;BASYE</str>
+            <str>city;ELKTON</str>
+            <str>city;BRIDGEWATER</str>
+            <str>city;MOUNT JACKSON</str>
+            <str>zip;22820</str>
+            <str>zip;22831</str>
+            <str>city;LURAY</str>
+            <str>zip;22802</str>
+            <str>zip;22830</str>
+            <str>city;DAYTON</str>
+            <str>zip;22842</str>
+            <str>zip;22811</str>
+            <str>zip;22851</str>
+            <str>zip;26838</str>
+            <str>county;PAGE</str>
+            <str>zip;22850</str>
+            <str>zip;26812</str>
+            <str>zip;22824</str>
+            <str>zip;22847</str>
+            <str>zip;22849</str>
+            <str>zip;22810</str>
+            <str>city;WOODSTOCK</str>
+            <str>zip;22834</str>
+            <str>county;HARRISONBURG</str>
+            </arr>
+            <long name="_version_">1627867441855987712</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T05:36:09.793Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000029671220</str>
+            </arr>
+            <int name="agent_id">44591308</int>
+            <str name="cbsa">40060</str>
+            <int name="office_id">27343921</int>
+            <arr name="headline_elements">
+            <str>home_type;Lot</str>
+            <str>location_prep;In Hanover</str>
+            </arr>
+            <str name="headline">Lot In Hanover</str>
+            <str name="caption">
+            Pretty rolling wooded lot off Farrington Road. Next to The Federal Club golf course. Comcast hi speed 'Blast' internet & cable TV. Close in, between Glen Allen and Ashland. Very private and quiet. Just 10 minutes from Wyndham/Twin Hickory, Innsbrook & Short Pump. One mile west of Stanleys Store then right/north on Farrington about half a mile. Not tied to any builder. 5 lots available.
+            </str>
+            <str name="state">VA</str>
+            <long name="sz_id">1000029671220</long>
+            <long name="hdc_uuid">1000029671220</long>
+            <str name="subdivision">FARRINGTON FOREST</str>
+            <str name="mls_number">1831467</str>
+            <str name="sub_division">FARRINGTON FOREST</str>
+            <str name="supplier_listing_id">1831467</str>
+            <date name="last_update">2019-03-13T01:35:55Z</date>
+            <str name="country">US</str>
+            <str name="acct_level">F</str>
+            <str name="premier_flag">N</str>
+            <str name="property_type">LOTS/LAND</str>
+            <str name="supplier_id_name">Central Virginia Regional MLS</str>
+            <int name="price">165000</int>
+            <str name="listing_status">FOR SALE</str>
+            <str name="acct_type">AGENT</str>
+            <date name="supplier_update">2018-09-05T19:11:58Z</date>
+            <str name="lsid">90150</str>
+            <str name="county">HANOVER</str>
+            <int name="supplier_id">3509</int>
+            <float name="lot_size">5.96</float>
+            <str name="mls_partnership">Y</str>
+            <str name="listing_type">RESALE</str>
+            <str name="zip">23005</str>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="propid">370856265</str>
+            <date name="listing_date">2018-09-01T04:55:32Z</date>
+            <str name="city">HANOVER</str>
+            <str name="address">6 FARRINGTON PLACE LN</str>
+            <arr name="lot_type">
+            <str>PRIVATE</str>
+            </arr>
+            <arr name="features">
+            <str>Disclosures;Not Required</str>
+            <str>Lead Base Paint Discl;Not Required</str>
+            <str>Telephone Service;Cable</str>
+            <str>Telephone Service;Satellite</str>
+            <str>Telephone Service;Telephone</str>
+            <str>Telephone Service;Underground</str>
+            <str>Property Subtype;Building Lot</str>
+            <str>Property Type;Lots/Land</str>
+            <str>Lot Description;Buildable</str>
+            <str>Lot Description;Timber-Mixed</str>
+            <str>Soil;Loam</str>
+            <str>Soil;Mixed</str>
+            <str>Waterfront;No</str>
+            <str>Electric;At Street</str>
+            <str>Fees;400</str>
+            <str>Fees;0</str>
+            <str>Fees;0</str>
+            <str>Natural Gas;No Gas</str>
+            <str>Sewer;Septic Needed</str>
+            <str>Restrictions;Subdiv Restr</str>
+            <str>Possible Use;Single Family</str>
+            <str>Post Office;Ashland</str>
+            <str>Road Type;Private</str>
+            <str>Zoning;AR-6</str>
+            <str>Membership;Y</str>
+            <str>Sale Terms;Owner Financing</str>
+            <str>Sale Terms;Owner May Finance</str>
+            <str>Assessments;No</str>
+            <str>Assoc/Maint Fee Per;Yearly</str>
+            <str>HOA;Y</str>
+            <str>Listing Type;Exclusive Agency</str>
+            <str>Listing Type;Y</str>
+            <str>Owner Agent;Y</str>
+            <str>Ownership;Other</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Assessed Fees;HOA Fee;N</str>
+            </arr>
+            <str name="bonus_room">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="basement">N</str>
+            <str name="natural_gas">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="parking">N</str>
+            <str name="fireplace">N</str>
+            <str name="pool">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="pool_community">N</str>
+            <str name="garage">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="appliances_ss">N</str>
+            <float name="hoa_dues_monthly">33.33</float>
+            <str name="tax_amount">96</str>
+            <str name="tax_year">2017</str>
+            <str name="supplier_school_elementary">SOUTH ANNA</str>
+            <str name="supplier_school_middle">LIBERTY</str>
+            <str name="supplier_school_high">PATRICK HENRY</str>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-0.eneighborhoods.com/x2/@v=982691122@/90150/4/467/1831467/1831467_1.jpg
+            </str>
+            </arr>
+            <int name="image_count">1</int>
+            <str name="main_image">
+            https://cdn-0.eneighborhoods.com/x2/@v=982691122@/90150/4/467/1831467/1831467_1.jpg
+            </str>
+            <int name="image_count_acctmod">1</int>
+            <int name="premier_snipe">16</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Richmond-Petersburg-556</str>
+            <str>ld_agent_name;Chris Gilman</str>
+            <str>ld_agent_phone;8046908322</str>
+            <str>ld_broker_name;Gilman & Bateman</str>
+            <str>ld_broker_phone;8047989108</str>
+            </arr>
+            <str name="city_preferred">ASHLAND</str>
+            <arr name="places">
+            <str>HANOVER</str>
+            <str>ASHLAND</str>
+            </arr>
+            <str name="latlng_combo_zip">37.753399999999999,-77.495000000000005</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/6-farrington-place-ln-hanover-va-23005/id-1000029671220/
+            </str>
+            <int name="sort_score">-10014999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 6 Farrington Place Ln Hanover, VA 23005 US and has been listed on Homes.com since 1 September 2018 and is currently priced at $165,000.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>county;HENRICO</str>
+            <str>zip;23230</str>
+            <str>zip;23279</str>
+            <str>zip;23255</str>
+            <str>zip;22546</str>
+            <str>county;RICHMOND</str>
+            <str>zip;23058</str>
+            <str>zip;23009</str>
+            <str>county;KING WILLIAM</str>
+            <str>zip;22514</str>
+            <str>county;CAROLINE</str>
+            <str>zip;23069</str>
+            <str>zip;23273</str>
+            <str>zip;23162</str>
+            <str>zip;23228</str>
+            <str>zip;23288</str>
+            <str>county;RICHMOND CITY</str>
+            <str>zip;23233</str>
+            <str>zip;23192</str>
+            <str>zip;23059</str>
+            <str>zip;23116</str>
+            <str>zip;23060</str>
+            <str>zip;23106</str>
+            <str>zip;23282</str>
+            <str>zip;22501</str>
+            <str>zip;23173</str>
+            <str>zip;23229</str>
+            <str>zip;23227</str>
+            <str>county;GOOCHLAND</str>
+            <str>zip;23047</str>
+            <str>zip;23146</str>
+            <str>zip;23222</str>
+            <str>zip;23242</str>
+            </arr>
+            <long name="_version_">1627867450178535424</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T05:36:17.749Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000074596395</str>
+            </arr>
+            <date name="listing_date">2018-08-31T23:02:28Z</date>
+            <str name="county">SUFFOLK CITY</str>
+            <str name="state">VA</str>
+            <int name="price">309990</int>
+            <str name="listing_type">RESALE</str>
+            <str name="caption">The Florence. SOLD. TBB.</str>
+            <str name="acct_level">F</str>
+            <str name="sub_division">PATRIOTS WALKE</str>
+            <str name="listing_status">FOR SALE</str>
+            <double name="lng">-76.539358</double>
+            <str name="zip">23434</str>
+            <long name="hdc_uuid">1000074596395</long>
+            <str name="subdivision">PATRIOTS WALKE</str>
+            <str name="supplier_listing_id">10215451</str>
+            <int name="agent_id">24000896</int>
+            <str name="supplier_id_name">Real Estate Information Network, Inc.</str>
+            <str name="premier_flag">N</str>
+            <int name="beds">4</int>
+            <float name="num_stories">2.0</float>
+            <long name="sz_id">1000074596395</long>
+            <int name="office_id">274304</int>
+            <str name="mls_number">10215451</str>
+            <date name="supplier_update">2018-11-08T14:52:59Z</date>
+            <arr name="headline_elements">
+            <str>square_footage;2112 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Cypress</str>
+            </arr>
+            <str name="headline">2112 SqFt House In Cypress</str>
+            <str name="lsid">2611</str>
+            <float name="total_baths">3.0</float>
+            <int name="half_baths">1</int>
+            <str name="country">US</str>
+            <str name="cbsa">47260</str>
+            <date name="last_update">2019-03-13T01:35:57Z</date>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="acct_type">AGENT</str>
+            <int name="full_baths">2</int>
+            <str name="propid">370839643</str>
+            <str name="latlng_combo">36.751743,-76.539358</str>
+            <int name="supplier_id">43</int>
+            <str name="mls_status">PENDING</str>
+            <str name="listing_url">
+            http://150448479.homesconnect.com/listing/217221822-150448479/252%20Patriot's%20Walke%20DR-Vi-23434/?RefCode=40001
+            </str>
+            <str name="city">SUFFOLK</str>
+            <int name="square_footage">2143</int>
+            <double name="lat">36.751743</double>
+            <int name="year_built">2018</int>
+            <str name="address">252 PATRIOT'S WALKE DR</str>
+            <str name="homesconnect_id_mow">150448477</str>
+            <str name="homesconnect_id_parent">150448479</str>
+            <str name="virtual_tour_url">
+            http://www.blackstreamcreative.com/builders/tour.aspx?tn=9536
+            </str>
+            <str name="virtual_tour">Y</str>
+            <str name="parking">Y</str>
+            <arr name="lot_type">
+            <str>WOODED</str>
+            </arr>
+            <arr name="ext_finish">
+            <str>WOOD</str>
+            <str>STONE</str>
+            <str>VINYL</str>
+            <str>VINYL</str>
+            <str>STONE</str>
+            </arr>
+            <arr name="view">
+            <str>WOODED</str>
+            </arr>
+            <str name="garage">Y</str>
+            <arr name="arch_style">
+            <str>TRADITIONAL</str>
+            </arr>
+            <str name="energy_efficient">Y</str>
+            <str name="walk_in_closet">Y</str>
+            <str name="natural_gas">Y</str>
+            <str name="hardwood_floors">Y</str>
+            <arr name="features">
+            <str>Cooling;CENTRAL AIR</str>
+            <str>Disclosures;Exempt from Disclosure/Disclaimer</str>
+            <str>Disclosures;Prop Owners Assoc</str>
+            <str>Equipment;Cable Hookup</str>
+            <str>Equipment;CEILING FAN</str>
+            <str>Flooring;Carpet</str>
+            <str>Flooring;Ceramic</str>
+            <str>Flooring;Wood</str>
+            <str>Interior Features;SCUTTLE ACCESS</str>
+            <str>Interior Features;WALK-IN CLOSET</str>
+            <str>Water Heater;Gas</str>
+            <str>Appliances;DISHWASHER</str>
+            <str>Appliances;DRYER HOOKUP</str>
+            <str>Appliances;Energy Star Appliance(s)</str>
+            <str>Appliances;MICROWAVE</str>
+            <str>Appliances;RANGE</str>
+            <str>Appliances;WASHER HOOKUP</str>
+            <str>Garage;Yes</str>
+            <str>Green Certification;Energy Audit</str>
+            <str>Green Certification;Home Energy Rating</str>
+            <str>Green Certification;Other Certification</str>
+            <str>New Construction;Yes</str>
+            <str>Property Sub Type;Detached</str>
+            <str>Roof;Asphalt Shingle</str>
+            <str>Style;Traditional</str>
+            <str>Style;Transitional</str>
+            <str>View;WOODED</str>
+            <str>Foundation;Slab</str>
+            <str>Exterior Features;WOODED</str>
+            <str>Fence;No</str>
+            <str>Siding;Stone</str>
+            <str>Siding;Vinyl</str>
+            <str>Waterfront;No</str>
+            <str>Pool;No Pool</str>
+            <str>Parking;2 Space</str>
+            <str>Parking;Covered</str>
+            <str>Parking;Driveway Spc</str>
+            <str>Parking;Garage Att 2 Car</str>
+            <str>Parking;Off Street</str>
+            <str>Energy Efficient;Insulation-Spray Foam</str>
+            <str>Energy Efficient;Other/See Remarks</str>
+            <str>Energy Efficient;Water Heater-Tankless</str>
+            <str>Heating;NAT GAS</str>
+            <str>Sewer;City/County</str>
+            <str>Sustainable Material;Advanced Framing</str>
+            <str>Sustainable Material;Engineered Wood Products</str>
+            <str>Community Features;Other</str>
+            <str>Community Features;Playgrounds</str>
+            <str>Water;City/County</str>
+            <str>Contingency Type;Non Contingent</str>
+            <str>Listing Type;Standard Agency ER</str>
+            <str>Miscellaneous;Warranty Plan</str>
+            <str>Ownership Type;Simple</str>
+            <str>Possession;CLOSING</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Appliances;Dishwasher;N</str>
+            <str>Amenities;Tankless Hot Water;N</str>
+            <str>Cooling;Central;N</str>
+            <str>Assessed Fees;HOA Fee;N</str>
+            <str>Amenities;Waterfront;N</str>
+            <str>Appliances;Range / Oven;N</str>
+            <str>Flooring;Carpet;N</str>
+            <str>Flooring;Hardwood;N</str>
+            <str>Appliances;Water Heater - Gas;Y</str>
+            <str>Exterior Build;Vinyl;N</str>
+            <str>Heating Fuels;Gas;Y</str>
+            <str>Interior Features;Ceiling Fan;Y</str>
+            <str>Roof;Asphalt;N</str>
+            <str>Rooms;Walk In Closet;N</str>
+            <str>Flooring;Ceramic Tile;N</str>
+            <str>Exterior Build;Stone;N</str>
+            <str>Other;Energy Star Certification;N</str>
+            <str>Appliances;Microwave;N</str>
+            <str>Parking;Garage - Attached;N</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <str name="pool_community">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="basement">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="fireplace">N</str>
+            <str name="pool">N</str>
+            <str name="bonus_room">N</str>
+            <arr name="features_ranked">
+            <str>Flooring;Hardwood;N</str>
+            <str>Rooms;Walk In Closet;N</str>
+            <str>Appliances;Water Heater - Gas;Y</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Hardwood</str>
+            <str>Walk In Closet</str>
+            <str>Gas Water Heater</str>
+            </arr>
+            <str name="tax_amount">3640</str>
+            <str name="supplier_school_elementary">MACK BENN JR.</str>
+            <str name="supplier_school_middle">JOHN F. KENNEDY</str>
+            <str name="supplier_school_high">KINGS FORK</str>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-1.eneighborhoods.com/x2/@v=-1858703111@/2611/4/451/10215451/10215451_1.jpg
+            </str>
+            <str>
+            1;https://cdn-1.eneighborhoods.com/x2/@v=-1861848839@/2611/4/451/10215451/10215451_2.jpg
+            </str>
+            <str>
+            2;https://cdn-1.eneighborhoods.com/x2/@v=-1860800263@/2611/4/451/10215451/10215451_3.jpg
+            </str>
+            <str>
+            3;https://cdn-1.eneighborhoods.com/x2/@v=-1855557383@/2611/4/451/10215451/10215451_4.jpg
+            </str>
+            <str>
+            4;https://cdn-1.eneighborhoods.com/x2/@v=-1854508807@/2611/4/451/10215451/10215451_5.jpg
+            </str>
+            <str>
+            5;https://cdn-1.eneighborhoods.com/x2/@v=-1857654535@/2611/4/451/10215451/10215451_6.jpg
+            </str>
+            <str>
+            6;https://cdn-1.eneighborhoods.com/x2/@v=-1856605959@/2611/4/451/10215451/10215451_7.jpg
+            </str>
+            <str>
+            7;https://cdn-1.eneighborhoods.com/x2/@v=-1851363079@/2611/4/451/10215451/10215451_8.jpg
+            </str>
+            <str>
+            8;https://cdn-1.eneighborhoods.com/x2/@v=-1850314503@/2611/4/451/10215451/10215451_9.jpg
+            </str>
+            <str>
+            9;https://cdn-1.eneighborhoods.com/x2/@v=122224856@/2611/4/451/10215451/10215451_10.jpg
+            </str>
+            <str>
+            10;https://cdn-1.eneighborhoods.com/x2/@v=123273432@/2611/4/451/10215451/10215451_11.jpg
+            </str>
+            <str>
+            11;https://cdn-1.eneighborhoods.com/x2/@v=124322008@/2611/4/451/10215451/10215451_12.jpg
+            </str>
+            <str>
+            12;https://cdn-1.eneighborhoods.com/x2/@v=125370584@/2611/4/451/10215451/10215451_13.jpg
+            </str>
+            <str>
+            13;https://cdn-1.eneighborhoods.com/x2/@v=118030552@/2611/4/451/10215451/10215451_14.jpg
+            </str>
+            <str>
+            14;https://cdn-1.eneighborhoods.com/x2/@v=119079128@/2611/4/451/10215451/10215451_15.jpg
+            </str>
+            </arr>
+            <int name="image_count">15</int>
+            <str name="main_image">
+            https://cdn-1.eneighborhoods.com/x2/@v=-1858703111@/2611/4/451/10215451/10215451_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">10</int>
+            <arr name="detail_attributes">
+            <str>broker_pma_id;5519581</str>
+            <str>dma_name;Norfolk-Portsmouth-Newport-News-544</str>
+            <str>ld_agent_name;Rose & Womble Realty Company </str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;7575471234</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>
+            ld_broker_logo;https://cdn.homes.com/cgi-bin/readimage/5788978462
+            </str>
+            <str>ld_broker_name;Rose & Womble Realty Company</str>
+            <str>ld_broker_name_linked;Y</str>
+            <str>ld_broker_phone;7575471234</str>
+            <str>ld_broker_smf;Y</str>
+            <str>ld_broker_view_listings;Y</str>
+            <str>ld_broker_view_website;Y</str>
+            <str>ld_broker_website_link;</str>
+            </arr>
+            <str name="city_preferred">SUFFOLK</str>
+            <arr name="places">
+            <str>SUFFOLK</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>CYPRESS</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Cypress;M;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">36.700299999999999,-76.5916</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/252-patriots-walke-dr-suffolk-va-23434/id-1000074596395/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>36.751743,-76.539358</str>
+            </arr>
+            <str name="latlng_combo_str_11">dq99463wrtq</str>
+            <str name="latlng_combo_str_10">dq99463wrt</str>
+            <str name="latlng_combo_str_9">dq99463wr</str>
+            <str name="latlng_combo_str_8">dq99463w</str>
+            <str name="latlng_combo_str_7">dq99463</str>
+            <str name="latlng_combo_str_6">dq9946</str>
+            <str name="latlng_combo_str_5">dq994</str>
+            <str name="latlng_combo_str_4">dq99</str>
+            <str name="latlng_combo_str_3">dq9</str>
+            <str name="latlng_combo_str_2">dq</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10064999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 252 Patriot's Walke Dr Suffolk, VA 23434 US and has been listed on Homes.com since 31 August 2018 and is currently priced at $309,990, approximately $145 per square foot. This property was built in 2018. Similar properties nearby are <a href="/property/2010-redgate-dr-suffolk-va-23434/id-400033210476/">2010 Redgate Dr</a>, <a href="/property/suffolk-va-23434/id-400033016947/">3118 Stone Creek Dr</a>, <a href="/property/102-patriots-walke-dr-suffolk-va-23434/id-1000072920019/">102 Patriots Walke Dr</a>, and <a href="/property/5004-middlecoff-ln-suffolk-va-23434/id-400028804787/">5004 Middlecoff Ln</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;23433</str>
+            <str>zip;27938</str>
+            <str>city;IVOR</str>
+            <str>zip;27979</str>
+            <str>zip;23487</str>
+            <str>zip;23851</str>
+            <str>city;CARROLLTON</str>
+            <str>city;SMITHFIELD</str>
+            <str>zip;23707</str>
+            <str>zip;23397</str>
+            <str>zip;27926</str>
+            <str>city;CHESAPEAKE</str>
+            <str>zip;23315</str>
+            <str>zip;23438</str>
+            <str>city;GATESVILLE</str>
+            <str>zip;23435</str>
+            <str>zip;23704</str>
+            <str>zip;23701</str>
+            <str>zip;23323</str>
+            <str>county;ISLE OF WIGHT</str>
+            <str>zip;23437</str>
+            <str>county;NORFOLK</str>
+            <str>city;NORFOLK</str>
+            <str>county;PORTSMOUTH</str>
+            <str>city;PORTSMOUTH</str>
+            <str>zip;23324</str>
+            <str>zip;23439</str>
+            <str>city;COURTLAND</str>
+            <str>zip;23708</str>
+            <str>zip;23432</str>
+            <str>zip;23321</str>
+            <str>city;CARRSVILLE</str>
+            <str>city;SOUTH MILLS</str>
+            <str>city;FRANKLIN</str>
+            <str>zip;27937</str>
+            <str>zip;23709</str>
+            <str>zip;23703</str>
+            <str>city;WINDSOR</str>
+            <str>zip;23898</str>
+            <str>zip;23314</str>
+            <str>city;SUNBURY</str>
+            <str>zip;27976</str>
+            <str>county;CHESAPEAKE</str>
+            <str>city;SEDLEY</str>
+            </arr>
+            <long name="_version_">1627867451276394496</long>
+            <date name="timestamp">2019-03-13T05:36:18.780Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000075461953</str>
+            </arr>
+            <str name="county">LOUDOUN</str>
+            <date name="supplier_update">2018-12-19T08:36:11Z</date>
+            <str name="state">VA</str>
+            <date name="last_update">2019-03-13T01:09:02Z</date>
+            <str name="subdivision">NONE HOA</str>
+            <int name="square_footage">0</int>
+            <int name="agent_id">45490460</int>
+            <int name="office_id">22809334</int>
+            <str name="propid">376702436</str>
+            <str name="listing_type">RESALE</str>
+            <str name="supplier_id_name">Bright MLS</str>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="mls_number">VALO232612</str>
+            <str name="country">US</str>
+            <str name="mls_partnership">Y</str>
+            <str name="zip">20117</str>
+            <str name="lsid">90230</str>
+            <arr name="headline_elements">
+            <str>stories;1-Story</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Middleburg</str>
+            </arr>
+            <str name="headline">1-Story House In Middleburg</str>
+            <str name="sub_division">NONE HOA</str>
+            <str name="premier_flag">N</str>
+            <int name="price">1095</int>
+            <str name="cbsa">47900</str>
+            <str name="supplier_listing_id">VALO232612</str>
+            <int name="beds">2</int>
+            <float name="total_baths">1.0</float>
+            <str name="mls_partnership_show_badge">Y</str>
+            <int name="supplier_id">898</int>
+            <int name="full_baths">1</int>
+            <str name="acct_type">AGENT</str>
+            <str name="listing_status">FOR RENT</str>
+            <long name="hdc_uuid">1000075461953</long>
+            <str name="city">MIDDLEBURG</str>
+            <long name="sz_id">1000075461953</long>
+            <date name="listing_date">2018-12-18T17:43:41Z</date>
+            <str name="acct_level">F</str>
+            <float name="num_stories">1.0</float>
+            <str name="address">218 MAPLE ST</str>
+            <str name="first_floor_master">Y</str>
+            <arr name="features">
+            <str>Cooling;Heat Pump(s)</str>
+            <str>New Construction;No</str>
+            <str>Waterfront;No</str>
+            <str>Heating;Forced Air</str>
+            <str>Water Access;No</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Heating;Forced Air;Y</str>
+            <str>Amenities;Waterfront;N</str>
+            </arr>
+            <str name="appliances_ss">N</str>
+            <str name="natural_gas">N</str>
+            <str name="fireplace">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="pool">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="parking">N</str>
+            <str name="pool_community">N</str>
+            <str name="garage">N</str>
+            <str name="bonus_room">N</str>
+            <str name="basement">N</str>
+            <str name="supplier_school_district">LOUDOUN COUNTY PUBLIC</str>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn-0.eneighborhoods.com/x2/@v=-1187555564@/230/6/612/VALO232612/VALO232612_0.jpg
+            </str>
+            </arr>
+            <int name="image_count">1</int>
+            <str name="main_image">
+            https://cdn-0.eneighborhoods.com/x2/@v=-1187555564@/230/6/612/VALO232612/VALO232612_0.jpg
+            </str>
+            <int name="image_count_acctmod">1</int>
+            <int name="premier_snipe">1</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Washingto-DC-Hagerstown-511</str>
+            <str>ld_agent_name;Kim E Early</str>
+            <str>
+            ld_broker_name;Austin Realty Management & Investment
+            </str>
+            </arr>
+            <str name="city_preferred">MIDDLEBURG</str>
+            <arr name="places">
+            <str>MIDDLEBURG</str>
+            </arr>
+            <str name="latlng_combo_zip">39.003799999999998,-77.723600000000005</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/218-maple-st-middleburg-va-20117/id-1000075461953/
+            </str>
+            <int name="sort_score">-6999</int>
+            <str name="local_connect_yn">N</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 218 Maple St Middleburg, VA 20117 US and has been listed on Homes.com since 18 December 2018 and is currently priced at $1,095.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>city;BOYCE</str>
+            <str>city;FLINT HILL</str>
+            <str>county;MANASSAS PARK</str>
+            <str>city;HAYMARKET</str>
+            <str>zip;20116</str>
+            <str>city;RESTON</str>
+            <str>zip;20140</str>
+            <str>zip;20198</str>
+            <str>city;ASHBURN</str>
+            <str>zip;20177</str>
+            <str>zip;20118</str>
+            <str>county;CLARKE</str>
+            <str>zip;20105</str>
+            <str>city;BERRYVILLE</str>
+            <str>city;THE PLAINS</str>
+            <str>zip;20134</str>
+            <str>county;MANASSAS PARK CITY</str>
+            <str>city;HAMILTON</str>
+            <str>zip;20144</str>
+            <str>zip;20142</str>
+            <str>zip;20135</str>
+            <str>zip;20141</str>
+            <str>city;CATLETT</str>
+            <str>zip;20169</str>
+            <str>county;MONTGOMERY</str>
+            <str>city;GAINESVILLE</str>
+            <str>zip;20159</str>
+            <str>city;PURCELLVILLE</str>
+            <str>zip;20158</str>
+            <str>city;CHESTER GAP</str>
+            <str>zip;20185</str>
+            <str>city;MARSHALL</str>
+            <str>zip;20160</str>
+            <str>city;LEESBURG</str>
+            <str>city;ROUND HILL</str>
+            <str>zip;20131</str>
+            <str>city;CHANTILLY</str>
+            <str>zip;20178</str>
+            <str>zip;20130</str>
+            <str>zip;20184</str>
+            <str>county;FAIRFAX</str>
+            <str>zip;20175</str>
+            <str>zip;20132</str>
+            <str>zip;22643</str>
+            <str>zip;20137</str>
+            <str>city;CHARLES TOWN</str>
+            <str>county;JEFFERSON</str>
+            <str>zip;20148</str>
+            <str>city;MANASSAS</str>
+            <str>city;WARRENTON</str>
+            </arr>
+            <long name="_version_">1627865771861344257</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T05:09:37.074Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>1000075302905</str>
+            </arr>
+            <str name="subdivision">PRINCE EDWARD</str>
+            <str name="supplier_id_name">Central Virginia Regional MLS</str>
+            <str name="zip">23966</str>
+            <str name="state">VA</str>
+            <date name="listing_date">2018-11-15T06:41:36Z</date>
+            <str name="sub_division">PRINCE EDWARD</str>
+            <int name="price">99000</int>
+            <str name="propid">375188473</str>
+            <int name="office_id">27334467</int>
+            <str name="listing_type">RESALE</str>
+            <long name="sz_id">1000075302905</long>
+            <str name="acct_level">F</str>
+            <str name="country">US</str>
+            <str name="county">PRINCE EDWARD</str>
+            <str name="listing_status">FOR SALE</str>
+            <str name="lsid">90150</str>
+            <str name="premier_flag">N</str>
+            <str name="mls_partnership_show_badge">Y</str>
+            <str name="acct_type">AGENT</str>
+            <str name="mls_number">1838621</str>
+            <int name="agent_id">26762386</int>
+            <long name="hdc_uuid">1000075302905</long>
+            <str name="caption">
+            Welcome to lot 5 Clearwater Lane! This stunning 2.62 acre property is located in Prince Edward County. The parcel is completely wooded perfect for your private oasis. This property is located just a quick walk from the Sandy Reservoir via the community common area and is a prime location to build a home or weekend getaway! Dont let this gorgeous property get away come tour it today!
+            </str>
+            <str name="mls_partnership">Y</str>
+            <date name="supplier_update">2018-11-21T04:07:29Z</date>
+            <str name="city">PRINCE EDWARD</str>
+            <date name="last_update">2019-03-13T01:09:08Z</date>
+            <int name="supplier_id">3509</int>
+            <float name="lot_size">2.62</float>
+            <str name="supplier_listing_id">1838621</str>
+            <arr name="headline_elements">
+            <str>home_type;Lot</str>
+            <str>location_prep;In Prince Edward</str>
+            </arr>
+            <str name="headline">Lot In Prince Edward</str>
+            <str name="listing_url">
+            http://151098516.homesconnect.com/listing/225264130-151098516/05%20Clearwater%20Ln-Vi-23966/?RefCode=40001
+            </str>
+            <str name="property_type">LOTS/LAND</str>
+            <str name="address">05 CLEARWATER LN</str>
+            <str name="homesconnect_id">151098516</str>
+            <str name="virtual_tour">Y</str>
+            <str name="virtual_tour_url">
+            http://www.propertiesinmotion.com/property-tours/129645861
+            </str>
+            <arr name="view">
+            <str>WATER</str>
+            </arr>
+            <arr name="lot_type">
+            <str>WATERFRONT</str>
+            </arr>
+            <arr name="features">
+            <str>Disclosures;Not Required</str>
+            <str>Telephone Service;Satellite</str>
+            <str>Property Subtype;Residential Land</str>
+            <str>Property Type;Lots/Land</str>
+            <str>Lot Description;Additional Parcel Available</str>
+            <str>Lot Description;Buildable</str>
+            <str>Lot Description;Rolling</str>
+            <str>Lot Description;Unimproved</str>
+            <str>Soil;Mixed</str>
+            <str>Waterfront;Yes</str>
+            <str>Electric;At Street</str>
+            <str>Natural Gas;No Gas</str>
+            <str>Sewer;Septic Needed</str>
+            <str>Restrictions;No Mobile Homes</str>
+            <str>Amenities;Common Area</str>
+            <str>Possible Use;Farm</str>
+            <str>Possible Use;Hunting</str>
+            <str>Possible Use;Investment</str>
+            <str>Post Office;Farmville</str>
+            <str>Road Type;County</str>
+            <str>Water Type;Lake</str>
+            <str>Zoning;a-2</str>
+            <str>Documents;Perc Test</str>
+            <str>Documents;Soil Study</str>
+            <str>Assessments;Unknown</str>
+            <str>HOA;N</str>
+            <str>Listing Type;Exclusive Right</str>
+            <str>Owner Agent;N</str>
+            <str>Ownership;Corporate</str>
+            <str>Possession;At Closing</str>
+            </arr>
+            <str name="fireplace">N</str>
+            <str name="parking">N</str>
+            <str name="walk_in_closet">N</str>
+            <str name="bonus_room">N</str>
+            <str name="pool">N</str>
+            <str name="garage">N</str>
+            <str name="basement">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="natural_gas">N</str>
+            <str name="first_floor_master">N</str>
+            <str name="pool_community">N</str>
+            <str name="hardwood_floors">N</str>
+            <str name="tax_amount">357</str>
+            <str name="tax_year">2017</str>
+            <str name="supplier_school_elementary">PRINCE EDWARD</str>
+            <str name="supplier_school_middle">PRINCE EDWARD</str>
+            <str name="supplier_school_high">PRINCE EDWARD</str>
+            <arr name="images">
+            <str>
+            0;https://cdn-0.eneighborhoods.com/x2/@v=1527774666@/90150/6/621/1838621/1838621_1.jpg
+            </str>
+            <str>
+            1;https://cdn-0.eneighborhoods.com/x2/@v=1530920394@/90150/6/621/1838621/1838621_2.jpg
+            </str>
+            <str>
+            2;https://cdn-0.eneighborhoods.com/x2/@v=1529871818@/90150/6/621/1838621/1838621_3.jpg
+            </str>
+            <str>
+            3;https://cdn-0.eneighborhoods.com/x2/@v=1533017546@/90150/6/621/1838621/1838621_4.jpg
+            </str>
+            <str>
+            4;https://cdn-0.eneighborhoods.com/x2/@v=1531968970@/90150/6/621/1838621/1838621_5.jpg
+            </str>
+            <str>
+            5;https://cdn-0.eneighborhoods.com/x2/@v=1535114698@/90150/6/621/1838621/1838621_6.jpg
+            </str>
+            <str>
+            6;https://cdn-0.eneighborhoods.com/x2/@v=1534066122@/90150/6/621/1838621/1838621_7.jpg
+            </str>
+            <str>
+            7;https://cdn-0.eneighborhoods.com/x2/@v=1537211850@/90150/6/621/1838621/1838621_8.jpg
+            </str>
+            <str>
+            8;https://cdn-0.eneighborhoods.com/x2/@v=1536163274@/90150/6/621/1838621/1838621_9.jpg
+            </str>
+            <str>
+            9;https://cdn-0.eneighborhoods.com/x2/@v=-1595257584@/90150/6/621/1838621/1838621_10.jpg
+            </str>
+            <str>
+            10;https://cdn-0.eneighborhoods.com/x2/@v=-1594209008@/90150/6/621/1838621/1838621_11.jpg
+            </str>
+            <str>
+            11;https://cdn-0.eneighborhoods.com/x2/@v=-1597354736@/90150/6/621/1838621/1838621_12.jpg
+            </str>
+            <str>
+            12;https://cdn-0.eneighborhoods.com/x2/@v=-1596306160@/90150/6/621/1838621/1838621_13.jpg
+            </str>
+            <str>
+            13;https://cdn-0.eneighborhoods.com/x2/@v=-1599451888@/90150/6/621/1838621/1838621_14.jpg
+            </str>
+            <str>
+            14;https://cdn-0.eneighborhoods.com/x2/@v=-1598403312@/90150/6/621/1838621/1838621_15.jpg
+            </str>
+            <str>
+            15;https://cdn-0.eneighborhoods.com/x2/@v=-1601549040@/90150/6/621/1838621/1838621_16.jpg
+            </str>
+            <str>
+            16;https://cdn-0.eneighborhoods.com/x2/@v=-1600500464@/90150/6/621/1838621/1838621_17.jpg
+            </str>
+            <str>
+            17;https://cdn-0.eneighborhoods.com/x2/@v=-1603646192@/90150/6/621/1838621/1838621_18.jpg
+            </str>
+            <str>
+            18;https://cdn-0.eneighborhoods.com/x2/@v=-1602597616@/90150/6/621/1838621/1838621_19.jpg
+            </str>
+            <str>
+            19;https://cdn-0.eneighborhoods.com/x2/@v=-1544925936@/90150/6/621/1838621/1838621_20.jpg
+            </str>
+            <str>
+            20;https://cdn-0.eneighborhoods.com/x2/@v=-1543877360@/90150/6/621/1838621/1838621_21.jpg
+            </str>
+            <str>
+            21;https://cdn-0.eneighborhoods.com/x2/@v=-1547023088@/90150/6/621/1838621/1838621_22.jpg
+            </str>
+            <str>
+            22;https://cdn-0.eneighborhoods.com/x2/@v=-1545974512@/90150/6/621/1838621/1838621_23.jpg
+            </str>
+            <str>
+            23;https://cdn-0.eneighborhoods.com/x2/@v=-1549120240@/90150/6/621/1838621/1838621_24.jpg
+            </str>
+            <str>
+            24;https://cdn-0.eneighborhoods.com/x2/@v=-1548071664@/90150/6/621/1838621/1838621_25.jpg
+            </str>
+            <str>
+            25;https://cdn-0.eneighborhoods.com/x2/@v=-1551217392@/90150/6/621/1838621/1838621_26.jpg
+            </str>
+            <str>
+            26;https://cdn-0.eneighborhoods.com/x2/@v=-1550168816@/90150/6/621/1838621/1838621_27.jpg
+            </str>
+            <str>
+            27;https://cdn-0.eneighborhoods.com/x2/@v=-1553314544@/90150/6/621/1838621/1838621_28.jpg
+            </str>
+            <str>
+            28;https://cdn-0.eneighborhoods.com/x2/@v=-1552265968@/90150/6/621/1838621/1838621_29.jpg
+            </str>
+            <str>
+            29;https://cdn-0.eneighborhoods.com/x2/@v=-1561703152@/90150/6/621/1838621/1838621_30.jpg
+            </str>
+            <str>
+            30;https://cdn-0.eneighborhoods.com/x2/@v=-1560654576@/90150/6/621/1838621/1838621_31.jpg
+            </str>
+            <str>
+            31;https://cdn-0.eneighborhoods.com/x2/@v=-1563800304@/90150/6/621/1838621/1838621_32.jpg
+            </str>
+            <str>
+            32;https://cdn-0.eneighborhoods.com/x2/@v=-1562751728@/90150/6/621/1838621/1838621_33.jpg
+            </str>
+            <str>
+            33;https://cdn-0.eneighborhoods.com/x2/@v=-1565897456@/90150/6/621/1838621/1838621_34.jpg
+            </str>
+            <str>
+            34;https://cdn-0.eneighborhoods.com/x2/@v=-1564848880@/90150/6/621/1838621/1838621_35.jpg
+            </str>
+            <str>
+            35;https://cdn-0.eneighborhoods.com/x2/@v=-1567994608@/90150/6/621/1838621/1838621_36.jpg
+            </str>
+            <str>
+            36;https://cdn-0.eneighborhoods.com/x2/@v=-1566946032@/90150/6/621/1838621/1838621_37.jpg
+            </str>
+            <str>
+            37;https://cdn-0.eneighborhoods.com/x2/@v=-1570091760@/90150/6/621/1838621/1838621_38.jpg
+            </str>
+            <str>
+            38;https://cdn-0.eneighborhoods.com/x2/@v=-1569043184@/90150/6/621/1838621/1838621_39.jpg
+            </str>
+            <str>
+            39;https://cdn-0.eneighborhoods.com/x2/@v=-1511371504@/90150/6/621/1838621/1838621_40.jpg
+            </str>
+            <str>
+            40;https://cdn-0.eneighborhoods.com/x2/@v=-1510322928@/90150/6/621/1838621/1838621_41.jpg
+            </str>
+            <str>
+            41;https://cdn-0.eneighborhoods.com/x2/@v=-1513468656@/90150/6/621/1838621/1838621_42.jpg
+            </str>
+            <str>
+            42;https://cdn-0.eneighborhoods.com/x2/@v=-1512420080@/90150/6/621/1838621/1838621_43.jpg
+            </str>
+            <str>
+            43;https://cdn-0.eneighborhoods.com/x2/@v=-1515565808@/90150/6/621/1838621/1838621_44.jpg
+            </str>
+            <str>
+            44;https://cdn-0.eneighborhoods.com/x2/@v=-1514517232@/90150/6/621/1838621/1838621_45.jpg
+            </str>
+            <str>
+            45;https://cdn-0.eneighborhoods.com/x2/@v=-1517662960@/90150/6/621/1838621/1838621_46.jpg
+            </str>
+            </arr>
+            <int name="image_count">46</int>
+            <str name="main_image">
+            https://cdn-0.eneighborhoods.com/x2/@v=1527774666@/90150/6/621/1838621/1838621_1.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">10</int>
+            <arr name="detail_attributes">
+            <str>ld_agent_name;Cory Metts</str>
+            <str>ld_agent_name_linked;Y</str>
+            <str>ld_agent_phone;8043663431</str>
+            <str>ld_agent_smf;Y</str>
+            <str>ld_agent_view_listings;Y</str>
+            <str>ld_broker_name;Napier REALTORS ERA</str>
+            <str>ld_broker_phone;8047944531</str>
+            </arr>
+            <str name="city_preferred">RICE</str>
+            <arr name="places">
+            <str>PRINCE EDWARD</str>
+            <str>RICE</str>
+            </arr>
+            <str name="latlng_combo_zip">37.288899999999998,-78.278599999999997</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/05-clearwater-ln-prince-edward-va-23966/id-1000075302905/
+            </str>
+            <int name="sort_score">-10174999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 05 Clearwater Ln Prince Edward, VA 23966 US and has been listed on Homes.com since 15 November 2018 and is currently priced at $99,000.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;23922</str>
+            <str>county;APPOMATTOX</str>
+            <str>zip;23936</str>
+            <str>zip;23901</str>
+            <str>zip;23943</str>
+            <str>zip;23930</str>
+            <str>zip;23947</str>
+            <str>zip;23083</str>
+            <str>zip;23960</str>
+            <str>zip;23954</str>
+            <str>county;BUCKINGHAM</str>
+            <str>zip;23934</str>
+            <str>zip;23923</str>
+            <str>county;NOTTOWAY</str>
+            <str>zip;23909</str>
+            <str>zip;23958</str>
+            <str>zip;23824</str>
+            <str>county;LUNENBURG</str>
+            <str>zip;23040</str>
+            <str>zip;23955</str>
+            <str>zip;23974</str>
+            <str>zip;23942</str>
+            <str>zip;23002</str>
+            <str>county;CHARLOTTE</str>
+            <str>county;CUMBERLAND</str>
+            </arr>
+            <long name="_version_">1627865777356931072</long>
+            <str name="gas_utilities">N</str>
+            <date name="timestamp">2019-03-13T05:09:42.353Z</date>
+        </doc>
+        <doc>
+            <arr name="hdc_uuid_search">
+            <str>400028489514</str>
+            </arr>
+            <str name="listing_status">FOR SALE</str>
+            <str name="city">HAMPTON</str>
+            <str name="caption">
+            Brick Beauty on HUGE lot located in the heart of Hampton! Well built home with recent updates - wow, check out the beautiful bathroom, sun room and more - features beautifully refinished hardwood floors throughout, french doors lead to cozy living room with big picture window and wood burning stove, lots of space inside and out on over half an acre of land in the middle of the city! Move in ready and pre-inspected, just waiting for the perfect buyer!
+            </str>
+            <int name="half_baths">1</int>
+            <int name="square_footage">1687</int>
+            <str name="zip">23669</str>
+            <int name="price">167500</int>
+            <str name="state">VA</str>
+            <str name="supplier_listing_id">3yd-REINVA-10228065</str>
+            <int name="year_built">1952</int>
+            <str name="listing_type">RESALE</str>
+            <float name="lot_size">0.51</float>
+            <str name="mls_number">10228065</str>
+            <int name="office_id">7587644</int>
+            <int name="agent_id">7142555</int>
+            <str name="listing_url">
+            http://listings.listhub.net/pages/REINVA/10228065/?channel=homes
+            </str>
+            <str name="lsid">79984</str>
+            <str name="sub_division">ALL OTHERS AREA 101</str>
+            <date name="supplier_update">2018-12-19T21:55:24Z</date>
+            <str name="county">HAMPTON CITY</str>
+            <float name="total_baths">2.0</float>
+            <float name="num_stories">1.0</float>
+            <str name="country">US</str>
+            <str name="acct_level">F</str>
+            <date name="last_update">2019-03-13T01:09:07Z</date>
+            <arr name="headline_elements">
+            <str>square_footage;1687 SqFt</str>
+            <str>home_type;House</str>
+            <str>location_prep;In Buckroe Beach</str>
+            </arr>
+            <str name="headline">1687 SqFt House In Buckroe Beach</str>
+            <int name="full_baths">1</int>
+            <str name="address_mapped">302 WOODLAND RD;HAMPTON;VA;23669;US</str>
+            <long name="hdc_uuid">400028489514</long>
+            <int name="beds">3</int>
+            <str name="propid">375185114</str>
+            <str name="acct_type">AGENT</str>
+            <int name="supplier_id">509</int>
+            <long name="sz_id">400028489514</long>
+            <double name="lng">-76.321389</double>
+            <str name="property_type">RESIDENTIAL</str>
+            <str name="supplier_id_name">Real Estate Information Network, Inc (via Listhub)</str>
+            <str name="cbsa">47260</str>
+            <str name="premier_flag">N</str>
+            <str name="listhub_source_id">REINVA</str>
+            <str name="subdivision">ALL OTHERS AREA 101</str>
+            <double name="lat">37.038745</double>
+            <str name="latlng_combo">37.038745,-76.321389</str>
+            <date name="listing_date">2018-11-15T04:55:51Z</date>
+            <str name="address">302 WOODLAND ROAD</str>
+            <str name="lead_routing_email">Kaera@KaeraMims.com</str>
+            <arr name="arch_style">
+            <str>RANCH</str>
+            </arr>
+            <str name="hardwood_floors">Y</str>
+            <str name="parking">Y</str>
+            <str name="fireplace">Y</str>
+            <str name="garage">Y</str>
+            <str name="first_floor_master">Y</str>
+            <str name="natural_gas">Y</str>
+            <arr name="ext_finish">
+            <str>BRICK</str>
+            <str>BRICK</str>
+            </arr>
+            <arr name="features">
+            <str>Cooling;Central A/C</str>
+            <str>Flooring;Tile - Ceramic</str>
+            <str>Flooring;Wood</str>
+            <str>HasAttic;TRUE</str>
+            <str>Rooms;Bedroom</str>
+            <str>Rooms;Foyer</str>
+            <str>Rooms;Full Bath</str>
+            <str>Rooms;Half Bath</str>
+            <str>Rooms;Sunroom</str>
+            <str>Appliances;Dishwasher</str>
+            <str>Appliances;Range</str>
+            <str>Appliances;Refrigerator</str>
+            <str>HasFireplace;TRUE</str>
+            <str>HasDeck;TRUE</str>
+            <str>IsNewConstruction;FALSE</str>
+            <str>PropertySubType;Single Family Detached</str>
+            <str>PropertyType;Residential</str>
+            <str>PropertyType:otherDescription;Detached</str>
+            <str>PropertyType:otherDescription;Detached Residential</str>
+            <str>PropertyType:otherDescription;Residential</str>
+            <str>Roof;Asphalt</str>
+            <str>Stories;1.0</str>
+            <str>Style;Ranch</str>
+            <str>Exterior;Brick</str>
+            <str>Parking;Driveway</str>
+            <str>Parking;Garage</str>
+            <str>Parking;Off Street</str>
+            <str>Heating;Fireplace</str>
+            <str>Heating;Forced Air</str>
+            <str>Heating;Natural Gas</str>
+            <str>Num_Rooms;7</str>
+            </arr>
+            <arr name="features_normalized">
+            <str>Flooring;Tile;N</str>
+            <str>Rooms;Sun Room;N</str>
+            <str>Appliances;Dishwasher;N</str>
+            <str>Appliances;Range / Oven;N</str>
+            <str>Appliances;Refrigerator;N</str>
+            <str>Heating Fuels;Gas;Y</str>
+            <str>Heating;Fireplace;Y</str>
+            <str>Heating;Forced Air;Y</str>
+            <str>Cooling;Central;N</str>
+            <str>Parking;Garage - Attached;N</str>
+            <str>Roof;Asphalt;N</str>
+            <str>Exterior Build;Brick;N</str>
+            <str>Interior Features;Attic;N</str>
+            <str>Exterior Features;Deck;N</str>
+            </arr>
+            <str name="gas_utilities">Y</str>
+            <str name="bonus_room">N</str>
+            <str name="energy_efficient">N</str>
+            <str name="pool_community">N</str>
+            <str name="appliances_ss">N</str>
+            <str name="pool">N</str>
+            <str name="basement">N</str>
+            <str name="walk_in_closet">N</str>
+            <arr name="features_ranked">
+            <str>Rooms;Sun Room;N</str>
+            <str>Exterior Features;Deck;N</str>
+            <str>Interior Features;Attic;N</str>
+            </arr>
+            <arr name="features_ranked_display">
+            <str>Sun Room</str>
+            <str>Deck</str>
+            <str>Attic</str>
+            </arr>
+            <str name="tax_amount">1894</str>
+            <str name="supplier_school_elementary">CAPTAIN JOHN SMITH</str>
+            <str name="supplier_school_middle">BENJAMIN SYMS</str>
+            <str name="supplier_school_high">PHOEBUS</str>
+            <str name="apn">12003103</str>
+            <str name="fips_code">51650</str>
+            <arr name="maponics_schools">
+            <str>P_sch_name;SMITH ELEMENTARY SCHOOL</str>
+            <str>P_hdcgrd;B-</str>
+            <str>P_pupteach;16.11</str>
+            <str>P_nces_schid;510180000735</str>
+            <str>P_sch_dist;0.47</str>
+            <str>P_district;HAMPTON CITY PUBLIC SCHOOLS</str>
+            <str>P_nces_disid;5101800</str>
+            <str>P_assigned;Y</str>
+            <str>M_sch_name;SYMS MIDDLE SCHOOL</str>
+            <str>M_hdcgrd;B-</str>
+            <str>M_pupteach;13.23</str>
+            <str>M_nces_schid;510180000730</str>
+            <str>M_sch_dist;1.12</str>
+            <str>M_district;HAMPTON CITY PUBLIC SCHOOLS</str>
+            <str>M_nces_disid;5101800</str>
+            <str>M_assigned;Y</str>
+            <str>H_sch_name;PHOEBUS HIGH SCHOOL</str>
+            <str>H_hdcgrd;B-</str>
+            <str>H_pupteach;10.56</str>
+            <str>H_nces_schid;510180000755</str>
+            <str>H_sch_dist;0.42</str>
+            <str>H_district;HAMPTON CITY PUBLIC SCHOOLS</str>
+            <str>H_nces_disid;5101800</str>
+            <str>H_assigned;Y</str>
+            </arr>
+            <arr name="zip_target_keys">
+            <str>comcast</str>
+            </arr>
+            <arr name="images">
+            <str>
+            0;https://cdn.homes.com/cgi-bin/readimage/1fc420c70b0dc2279b298aafb5115920/302-woodland-rd-hampton-va-23669-0.jpg
+            </str>
+            <str>
+            1;https://cdn.homes.com/cgi-bin/readimage/479e5f172c55733dde71cd6b7e14f848/302-woodland-rd-hampton-va-23669-1.jpg
+            </str>
+            <str>
+            2;https://cdn.homes.com/cgi-bin/readimage/cd048dd2a8c4df90f96ef2bd28cbecae/302-woodland-rd-hampton-va-23669-2.jpg
+            </str>
+            <str>
+            3;https://cdn.homes.com/cgi-bin/readimage/d71e49eef5cbf4b7449be457e3dee3fe/302-woodland-rd-hampton-va-23669-3.jpg
+            </str>
+            <str>
+            4;https://cdn.homes.com/cgi-bin/readimage/4a5e27857c3b69cd0ebddb73e144ef23/302-woodland-rd-hampton-va-23669-4.jpg
+            </str>
+            <str>
+            5;https://cdn.homes.com/cgi-bin/readimage/6b3aca0d183f125d5d6ade1a81ff5c86/302-woodland-rd-hampton-va-23669-5.jpg
+            </str>
+            <str>
+            6;https://cdn.homes.com/cgi-bin/readimage/2cfca3c50bdb10479757c3b20754de6c/302-woodland-rd-hampton-va-23669-6.jpg
+            </str>
+            <str>
+            7;https://cdn.homes.com/cgi-bin/readimage/2f0e5f407cc79d58e9c0183478e9060a/302-woodland-rd-hampton-va-23669-7.jpg
+            </str>
+            <str>
+            8;https://cdn.homes.com/cgi-bin/readimage/11437e301e91ef3049011c7d908c8749/302-woodland-rd-hampton-va-23669-8.jpg
+            </str>
+            <str>
+            9;https://cdn.homes.com/cgi-bin/readimage/8c1a6114557e7d5f2f14f2d22344ab39/302-woodland-rd-hampton-va-23669-9.jpg
+            </str>
+            <str>
+            10;https://cdn.homes.com/cgi-bin/readimage/5762bbc891af5a9a046f4d54f66cbde5/302-woodland-rd-hampton-va-23669-10.jpg
+            </str>
+            <str>
+            11;https://cdn.homes.com/cgi-bin/readimage/618eedad583748a4b042afb026515d44/302-woodland-rd-hampton-va-23669-11.jpg
+            </str>
+            <str>
+            12;https://cdn.homes.com/cgi-bin/readimage/517af3f1ba3ecabb40c5f837333278d3/302-woodland-rd-hampton-va-23669-12.jpg
+            </str>
+            <str>
+            13;https://cdn.homes.com/cgi-bin/readimage/3a6486858102b4b9298840acf86e1596/302-woodland-rd-hampton-va-23669-13.jpg
+            </str>
+            <str>
+            14;https://cdn.homes.com/cgi-bin/readimage/59e466d9d43223e1e87cc1ade9d5cdef/302-woodland-rd-hampton-va-23669-14.jpg
+            </str>
+            <str>
+            15;https://cdn.homes.com/cgi-bin/readimage/a78be7a4494c8a87133b247e8271607a/302-woodland-rd-hampton-va-23669-15.jpg
+            </str>
+            <str>
+            16;https://cdn.homes.com/cgi-bin/readimage/4c3214cd8588e727566677b4e1b2b18b/302-woodland-rd-hampton-va-23669-16.jpg
+            </str>
+            <str>
+            17;https://cdn.homes.com/cgi-bin/readimage/b8042642fbb01343cb5170fb4fb717aa/302-woodland-rd-hampton-va-23669-17.jpg
+            </str>
+            <str>
+            18;https://cdn.homes.com/cgi-bin/readimage/62d1e05d73bad361b4c9bffce25ff602/302-woodland-rd-hampton-va-23669-18.jpg
+            </str>
+            <str>
+            19;https://cdn.homes.com/cgi-bin/readimage/a86f7aa0af81f780b0388356434ac25a/302-woodland-rd-hampton-va-23669-19.jpg
+            </str>
+            <str>
+            20;https://cdn.homes.com/cgi-bin/readimage/43298bcdfa1cf354394e3b77f5c9ba5d/302-woodland-rd-hampton-va-23669-20.jpg
+            </str>
+            <str>
+            21;https://cdn.homes.com/cgi-bin/readimage/cdc1c2a56f319f2477e2ede61ef8cbc4/302-woodland-rd-hampton-va-23669-21.jpg
+            </str>
+            <str>
+            22;https://cdn.homes.com/cgi-bin/readimage/3d39f231e5a3505c23e29a488a3fcdf8/302-woodland-rd-hampton-va-23669-22.jpg
+            </str>
+            <str>
+            23;https://cdn.homes.com/cgi-bin/readimage/f8b6a33c7891a5db43b598815b537e48/302-woodland-rd-hampton-va-23669-23.jpg
+            </str>
+            </arr>
+            <int name="image_count">24</int>
+            <str name="main_image">
+            https://cdn.homes.com/cgi-bin/readimage/1fc420c70b0dc2279b298aafb5115920/302-woodland-rd-hampton-va-23669-0.jpg
+            </str>
+            <int name="image_count_acctmod">8</int>
+            <int name="premier_snipe">17</int>
+            <arr name="detail_attributes">
+            <str>dma_name;Norfolk-Portsmouth-Newport-News-544</str>
+            <str>ld_agent_name;Mims, Kaera</str>
+            <str>ld_agent_phone;7578732707</str>
+            <str>ld_broker_name;Liz Moore & Associates LLC</str>
+            <str>ld_broker_phone;7578732707</str>
+            </arr>
+            <str name="city_preferred">HAMPTON</str>
+            <arr name="places">
+            <str>HAMPTON</str>
+            </arr>
+            <arr name="nbhd_search">
+            <str>OAK GROVE</str>
+            <str>BUCKROE BEACH</str>
+            </arr>
+            <arr name="nbhd_details">
+            <str>Oak Grove;R;Y</str>
+            <str>Buckroe Beach;N;Y</str>
+            </arr>
+            <str name="latlng_combo_zip">37.049399999999999,-76.338499999999996</str>
+            <str name="homescom_url">
+            https://www.homes.com/property/302-woodland-rd-hampton-va-23669/id-400028489514/
+            </str>
+            <arr name="latlng_combo_rpt">
+            <str>37.038745,-76.321389</str>
+            </arr>
+            <str name="latlng_combo_str_11">dq9dxq8qqdx</str>
+            <str name="latlng_combo_str_10">dq9dxq8qqd</str>
+            <str name="latlng_combo_str_9">dq9dxq8qq</str>
+            <str name="latlng_combo_str_8">dq9dxq8q</str>
+            <str name="latlng_combo_str_7">dq9dxq8</str>
+            <str name="latlng_combo_str_6">dq9dxq</str>
+            <str name="latlng_combo_str_5">dq9dx</str>
+            <str name="latlng_combo_str_4">dq9d</str>
+            <str name="latlng_combo_str_3">dq9</str>
+            <str name="latlng_combo_str_2">dq</str>
+            <str name="latlng_combo_str_1">d</str>
+            <int name="sort_score">-10149999</int>
+            <str name="local_connect_yn">Y</str>
+            <str name="team_listing_yn">N</str>
+            <str name="natural_description">
+            This home is located at 302 Woodland Road Hampton, VA 23669 US and has been listed on Homes.com since 15 November 2018 and is currently priced at $167,500, approximately $99 per square foot. This property was built in 1952. 302 Woodland Road is within the school district(s) Hampton City Public Schools with nearby schools including Smith Elementary School, Syms Middle School, and Phoebus High School. Similar properties nearby are <a href="/property/hampton-va-23669/id-400028508510/">128 Red Robin Turn</a>, <a href="/property/514-homestead-ave-hampton-va-23661/id-400028469449/">514 Homestead Ave</a>, <a href="/property/302-woodland-rd-hampton-va-23669/id-400028489514/">302 Woodland Rd</a>, <a href="/property/28-chamberlin-ave-w-hampton-va-23663/id-400035399723/">28 Chamberlin Ave W</a>, <a href="/property/34-ambrose-ln-hampton-va-23663/id-400028491368/">34 Ambrose Ln</a>, <a href="/property/117-segar-st-hampton-va-23663/id-400028488623/">117 Segar St</a>, <a href="/property/212-greenwell-dr-hampton-va-23666/id-400028498576/">212 Greenwell Dr</a>, <a href="/property/hampton-va-23669/id-400028495248/">313 Hercules Dr</a>, and <a href="/property/66-s-boxwood-st-hampton-va-23669/id-400028488503/">66 S Boxwood St</a>.
+            </str>
+            <arr name="technical">
+            <str>
+            loader_worker;3.9.2;pipeline_geocode;1.44.0;pipeline_hv;1.15.0;pipeline_mapping;2.29.1;pipeline_headline;1.15.0;pipeline_dedupe;2.47.0;pipeline_image;1.46.2;pipeline_solr;1.194.0
+            </str>
+            </arr>
+            <arr name="nearby_locations">
+            <str>zip;23666</str>
+            <str>zip;23661</str>
+            <str>zip;23664</str>
+            <str>zip;23696</str>
+            <str>city;CAPE CHARLES</str>
+            <str>city;YORKTOWN</str>
+            <str>city;WILLIAMSBURG</str>
+            <str>zip;23681</str>
+            <str>zip;23668</str>
+            <str>city;SMITHFIELD</str>
+            <str>county;NEWPORT NEWS</str>
+            <str>zip;23607</str>
+            <str>zip;23505</str>
+            <str>county;PORTSMOUTH</str>
+            <str>zip;23515</str>
+            <str>zip;23511</str>
+            <str>city;POQUOSON</str>
+            <str>zip;23601</str>
+            <str>zip;23663</str>
+            <str>zip;23612</str>
+            <str>zip;23651</str>
+            <str>zip;23670</str>
+            <str>county;YORK</str>
+            <str>zip;23630</str>
+            <str>zip;23606</str>
+            <str>county;POQUOSON</str>
+            <str>city;NEWPORT NEWS</str>
+            <str>county;NORFOLK</str>
+            <str>zip;23693</str>
+            <str>city;PORTSMOUTH</str>
+            <str>city;NORFOLK</str>
+            <str>city;CARROLLTON</str>
+            <str>zip;23628</str>
+            <str>zip;23605</str>
+            <str>zip;23667</str>
+            <str>county;WILLIAMSBURG</str>
+            <str>city;GLOUCESTER POINT</str>
+            <str>zip;23662</str>
+            <str>zip;23665</str>
+            </arr>
+            <long name="_version_">1627865778440110080</long>
+            <date name="timestamp">2019-03-13T05:09:43.451Z</date>
+        </doc>
+    </result>
+</response>
