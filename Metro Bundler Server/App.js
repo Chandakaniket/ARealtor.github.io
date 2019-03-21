@@ -33,11 +33,13 @@ var sharedProps = {
 var InitialARScene = require('./js/ARBusinessCard/BusinessCard.js');
 var InitialVRScene = require('./js/360PhotoTour/MainScene');
 var InitialVRStudio = require('./js/360Studio/HelloWorldScene');
+var InitialVRStudio = require('./js/360Studio1/HelloWorldScene');
 
 var UNSET = "UNSET";
 var VR_NAVIGATOR_TYPE = "VR";
 var AR_NAVIGATOR_TYPE = "AR";
 var VR_NAVIGATOR_360= "DEMO";
+var VR_NAVIGATOR_3601= "DEMO1";
 
 // This determines which type of experience to launch in, or UNSET, if the user should
 // be presented with a choice of AR or VR. By default, we offer the user a choice.
@@ -55,6 +57,7 @@ export default class ViroSample extends Component {
     this._getARNavigator = this._getARNavigator.bind(this);
     this._getVRNavigator = this._getVRNavigator.bind(this);
     this._get360VRNavigator=this._get360VRNavigator.bind(this);
+    this._get360VRNavigator1=this._get360VRNavigator1.bind(this);
     this._getExperienceButtonOnPress = this._getExperienceButtonOnPress.bind(this);
     this._exitViro = this._exitViro.bind(this);
   }
@@ -70,9 +73,10 @@ export default class ViroSample extends Component {
       return this._getARNavigator();
     } else if (this.state.navigatorType == VR_NAVIGATOR_360) {
       return this._get360VRNavigator();
-    }
+    } else if (this.state.navigatorType == VR_NAVIGATOR_3601) {
+      return this._get360VRNavigator1();
   }
-
+  }
   // Presents the user with a choice of an AR or VR experience
   _getExperienceSelector() {
     return (
@@ -104,6 +108,13 @@ export default class ViroSample extends Component {
 
             <Text style={localStyles.buttonText}>VR</Text>
           </TouchableHighlight>
+
+            <TouchableHighlight style={localStyles.buttons}
+            onPress={this._getExperienceButtonOnPress(VR_NAVIGATOR_3601)}
+            underlayColor={'#68a0ff'} >
+
+            <Text style={localStyles.buttonText}>VR1</Text>
+          </TouchableHighlight>
         </View>
       </View>
     );
@@ -127,6 +138,13 @@ export default class ViroSample extends Component {
 
   // Returns the ViroSceneNavigator for studio apartment which will start the VR experience  @ac
   _get360VRNavigator() {
+    return (
+      <ViroVRSceneNavigator {...this.state.sharedProps}
+        initialScene={{scene: InitialVRStudio}} onExitViro={this._exitViro}/>
+    );
+  }
+
+    _get360VRNavigator1() {
     return (
       <ViroVRSceneNavigator {...this.state.sharedProps}
         initialScene={{scene: InitialVRStudio}} onExitViro={this._exitViro}/>
