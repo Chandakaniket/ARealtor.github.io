@@ -1,0 +1,8 @@
+{ "headline":"897 SqFt House In Big Island","address":"2161 SWEET HOLLOW RD","listing_status":"for sale", "price":"47500",
+"city":"Norfolk", "state":"VA","listing_date":"2018-10-18T00:26:16Z",
+  "zip":"24526", "total_baths":"1.0", "caption":"3 Bedroom 1 Bath fixer upper. One level, country living. Wood stove heat, spring pumped water. Sold as is /where is. Medicaid sale, must sell for assessed value. Wood stove does not convey. Stove in kitchen conveys, but it is as is.",
+  "country":"US", "square_footage":"897", "year_built":"1949", 
+  "listing_url":"http://151368500.homesconnect.com/listing/221897721-151368500/2161%20Sweet%20Hollow%20RD-Vi-24526/?RefCode=40001",
+  "property_type":"RESIDENTIAL", "images":"https://cdn-9.eneighborhoods.com/x2/@v=1149811851@/2609/2/285/853285/853285_1.jpg",
+  
+}

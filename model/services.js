@@ -1,5 +1,7 @@
 
-class ARealtorServices{ 
+var mysql = require('mysql');
+class ARealtorServices{
+    
     constructor() {
     }
 }
