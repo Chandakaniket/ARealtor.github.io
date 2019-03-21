@@ -4,7 +4,8 @@
   "description": "HackU2019",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "express": "^4.15.2",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
     "socket.io": "^2.2.0"
   }
 }
