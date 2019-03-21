@@ -1,0 +1,7 @@
+{ "headline":"Lot In Timberville","address":"396 N MAIN ST","listing_status":"for sale", "price":"64900",
+"city":"TIMBERVILLE", "state":"VA","listing_date":"2018-08-31T16:25:38Z",
+  "zip":"22853", "caption":"Beautiful home site! Some of the best western views in Timberville! Very nice almost level lot in a great established neighborhood. Tap fees for water and sewer are paid. This lot is ready for your dream house!",
+  "country":"US",
+  "property_type":"LOTS/LAND", "images":"https://cdn-1.eneighborhoods.com/x2/@v=-1235869842@/101/6/663/566663/566663_2.jpg"
+  
+}
