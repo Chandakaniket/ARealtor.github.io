@@ -1,0 +1,7 @@
+{ "headline":"Lot In Leesburg","address":"40252 THOMAS MILL RD","listing_status":"for sale", 
+"city":"LEESBURG", "state":"VA","listing_date":"2018-02-26T10:36:22Z",
+  "zip":"20175", "total_baths":"1.0", "caption":"Fabulous rolling hills with tremendous location off of Dry Mill Road (near Dry Mill Winery). Working horse farm with operational barns and rings to ride inside or outside. Stone house needs love to return it to its original splendor. Panoramic views overlooking distant developments.",
+  "country":"US", "square_footage":"2820",
+  "property_type":"LOTS/LAND", "images":"https://cdn-0.eneighborhoods.com/x2/@v=-1415410333@/230/8/838/1000193838/1000193838_0.jpg"
+  
+}
