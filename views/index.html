@@ -12,6 +12,9 @@
 
   <!-- Bootstrap core CSS -->
   <link href="public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
   <!-- Custom fonts for this template -->
   <link href="public/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -29,9 +32,67 @@
   <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
       <a class="navbar-brand" href="#">Start Bootstrap</a>
-      <a class="btn btn-primary" href="#">Sign In</a>
+<a class="btn btn-primary" data-toggle="modal" data-target="#myModal" href="#">Sign In</a>
     </div>
   </nav>
+    
+<!-- Login Modal -->
+    <!-- The Modal -->
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+      
+        <!-- Modal Header -->
+          
+        <div class="modal-header">   
+            <h4 class="col-8 modal-title text-right" style="font-family: Arial">HACKU19</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        
+        </div>
+          
+        <!-- Modal body -->
+        <div class="modal-body">
+          <div class="container">
+        
+          
+          <form action="">
+            <div class="form-group">
+              <label for="uname" style="font-weight:bold; font-family: 'Salsa'">Username:</label>
+                <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text"><i class="fa fa-user"></i></span>
+                </div>    
+                <input type="text" class="form-control" id="uname" placeholder="Enter username" name="uname" required>
+                </div>    
+              </div>    
+            
+            <div class="form-group">
+                
+                    
+              <label for="pwd" style="font-weight:bold; font-family: ''">Password:</label>
+              <div class="input-group mb-3">     
+              <div class="input-group-prepend">
+                    <span class="input-group-text"><i class="fa fa-key"></i></span>
+              </div>
+              <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd" required>
+             </div>                          
+            </div>
+
+            <button type="submit" class="btn btn-primary">Sign In</button>
+          </form>
+        </div>
+
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
 
   <!-- Masthead -->
   <header class="masthead text-white text-center">
