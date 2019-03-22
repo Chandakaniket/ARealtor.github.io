@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+
+    .housesty {
+      font-weight: bold;
+      font-size: 1.3em;
+      margin: 2px 0 15px 0;
+
+    }
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin: auto;
+      min-height:200px;
+  }
+
+  /* Hide the carousel text when the screen is less than 600 pixels wide */
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+  }
+  </style>
+</head>
+<body style="background-color: #e3e3ea">
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><img style="max-width:100px; height: 60px; margin-top: -17px;" src="https://pbs.twimg.com/profile_images/2104564827/de_300x300_400x400.png"</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div style="height:750px" class="carousel-inner" role="listbox">
+      <div class="item active">
+        <img src="https://media.glassdoor.com/l/8e/70/c1/6f/dominion-enterprises-building.jpg" alt="Image">
+        <div class="carousel-caption">
+
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="https://www.tah-heetch.com/wp-content/uploads/2018/6/software-engineer-nodejs-dominion-enterprises-norfolk-va.jpg" alt="Image">
+        <div class="carousel-caption">
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="container text-center" >
+  <h2 style="font-weight: bold; font-family: 'Salsa'; font-size: 2.5em; margin-bottom: 20px">Listings</h2>
+<div class='row' id= 'mainContainer'>
+
+</div>
+</div><br>
+
+<footer style="background-color:black; color:white; font-size: 1.2em" class="container-fluid">
+  <div  class="copy-right-area">
+                    <div class="container">
+                        <div class="row text-right">
+                            <div class="col-lg-9 col-md-9 col-sm-9">
+                                <div class="copy-right">
+                                    <p>© Copyrights TeamArrow 2019, Old Dominion University</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+</footer>
+
+
+
+</body>
+
+<script>
+var obj = [
+{ "headline":"House In Big Island","address":"2161 SWEET HOLLOW RD","listing_status":"for sale", "price":"47500",
+"city":"Norfolk", "state":"VA","listing_date":"2018-10-18T00:26:16Z",
+  "zip":"24526", "total_baths":"1.0", "caption":"3 Bedroom 1 Bath fixer upper. One level, country living. Wood stove heat, spring pumped water. Sold as is /where is. Medicaid sale, must sell for assessed value. Wood stove does not convey. Stove in kitchen conveys, but it is as is.",
+  "country":"US", "square_footage":"897", "year_built":"1949",
+  "listing_url":"http://151368500.homesconnect.com/listing/221897721-151368500/2161%20Sweet%20Hollow%20RD-Vi-24526/?RefCode=40001",
+  "property_type":"RESIDENTIAL", "images":"https://cdn-9.eneighborhoods.com/x2/@v=1149811851@/2609/2/285/853285/853285_1.jpg",
+
+},
+
+{ "headline":"House In Leesburg","address":"40252 THOMAS MILL RD","listing_status":"for sale",
+"city":"LEESBURG", "state":"VA","listing_date":"2018-02-26T10:36:22Z",
+  "zip":"20175", "total_baths":"1.0", "caption":"Fabulous rolling hills with tremendous location off of Dry Mill Road (near Dry Mill Winery). Working horse farm with operational barns and rings to ride inside or outside. Stone house needs love to return it to its original splendor. Panoramic views overlooking distant developments.",
+  "country":"US", "square_footage":"2820",
+  "property_type":"LOTS/LAND", "images":"https://cdn-1.eneighborhoods.com/x2/@v=119079128@/2611/4/451/10215451/10215451_15.jpg"
+
+},
+{ "headline":"House In Great Bridge","address":"40252 THOMAS MILL RD","listing_status":"for sale", "price":"460500",
+"city":"CHESAPEAKE", "state":"VA","listing_date":"2018-09-09T19:02:38Z",
+  "zip":"23322", "total_baths":"3.0", "caption":"AWESOME 6 BEDROOM 3 FULL BATH CRAFTSMAN STYLE HOME. OPEN FLOOR PLAN, KITCHEN LOTS OF CABINETS, OPEN TO FAMILY ROOM WITH HUGH CENTER ISLAND. ONE BEDROOM DOWNSTAIRS WITH FULL BATH. MASTER BATH HAS SEP. DOUBLE SHOWER & JACUZZI.QUARTZ COUNTER TOPS AND LVP FLOORING ON THE FIRST LEVEL. HARDWOOD STAIRCASE WITH ROD IRON SPINDLE.CUL-DE-SAC LOT. COMPLETION IN 45 DAYS OR BETTER.",
+  "country":"US", "square_footage":"3200",
+  "property_type":"RESIDENTIAL", "images":"https://cdn-1.eneighborhoods.com/x2/@v=-1323918891@/2611/6/693/10216693/10216693_1.jpg"
+
+},
+{ "headline":"House In Henrico","address":"4193 CHARLES CITY RD","listing_status":"for sale", "price":"51950",
+"city":"RICHMOND", "state":"VA","listing_date":"2018-08-31T14:34:50Z",
+  "zip":"23231", "caption":"4.999 acres on Charles city rd. plat online; irregular shaped lot, priced way below assessment for quick sale.",
+  "country":"US", "square_footage":"3200",
+  "property_type":"LOTS/LAND", "images":"https://cdn-2.eneighborhoods.com/x2/@v=1043352691@/132/6/692/21817692/21817692_14.jpg"
+
+},
+{ "headline":"House In Timberville","address":"396 N MAIN ST","listing_status":"for sale", "price":"64900",
+"city":"TIMBERVILLE", "state":"VA","listing_date":"2018-08-31T16:25:38Z",
+  "zip":"22853", "caption":"Beautiful home site! Some of the best western views in Timberville! Very nice almost level lot in a great established neighborhood. Tap fees for water and sewer are paid. This lot is ready for your dream house!",
+  "country":"US",
+  "property_type":"LOTS/LAND", "images":"https://cdn-1.eneighborhoods.com/x2/@v=-1858703111@/2611/4/451/10215451/10215451_1.jpg"
+
+},
+{ "headline":"House In Hanover","address":"6 FARRINGTON PLACE LN","listing_status":"RESALE", "price":"165000",
+"city":"HANOVER", "state":"VA","listing_date":"2018-09-01T04:55:32Z",
+  "zip":"23005", "caption":"Pretty rolling wooded lot off Farrington Road. Next to The Federal Club golf course. Comcast hi speed 'Blast' internet & cable TV. Close in, between Glen Allen and Ashland. Very private and quiet. Just 10 minutes from Wyndham/Twin Hickory, Innsbrook & Short Pump. One mile west of Stanleys Store then right/north on Farrington about half a mile. Not tied to any builder. 5 lots available.",
+  "country":"US",
+  "property_type":"LOTS/LAND", "images":"https://cdn-1.eneighborhoods.com/x2/@v=106307121@/2611/6/693/10216693/10216693_24.jpg"
+
+}
+];
+var str = '';
+obj.forEach(function(element) {
+      str +="<div class='col-sm-4'>";
+        str +="<img style='height: 250px' src="+element['images']+" class='img-responsive img-rounded' style='width:100%' alt='Image'>";
+        str +="<p class='housesty'>"+element['headline']+"</p>";
+      str +="</div> ";
+  $('#mainContainer').html(str);
+  // console.log(str);
+});
+
+
+</script>
+</html>

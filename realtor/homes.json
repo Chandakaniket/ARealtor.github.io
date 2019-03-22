@@ -1,0 +1,38 @@
+
+{ "headline":"897 SqFt House In Big Island","address":"2161 SWEET HOLLOW RD","listing_status":"for sale", "price":"47500",
+"city":"Norfolk", "state":"VA","listing_date":"2018-10-18T00:26:16Z",
+  "zip":"24526", "total_baths":"1.0", "caption":"3 Bedroom 1 Bath fixer upper. One level, country living. Wood stove heat, spring pumped water. Sold as is /where is. Medicaid sale, must sell for assessed value. Wood stove does not convey. Stove in kitchen conveys, but it is as is.",
+  "country":"US", "square_footage":"897", "year_built":"1949",
+  "listing_url":"http://151368500.homesconnect.com/listing/221897721-151368500/2161%20Sweet%20Hollow%20RD-Vi-24526/?RefCode=40001",
+  "property_type":"RESIDENTIAL", "images":"https://cdn-9.eneighborhoods.com/x2/@v=1149811851@/2609/2/285/853285/853285_1.jpg",
+
+},
+
+{ "headline":"Lot In Leesburg","address":"40252 THOMAS MILL RD","listing_status":"for sale",
+"city":"LEESBURG", "state":"VA","listing_date":"2018-02-26T10:36:22Z",
+  "zip":"20175", "total_baths":"1.0", "caption":"Fabulous rolling hills with tremendous location off of Dry Mill Road (near Dry Mill Winery). Working horse farm with operational barns and rings to ride inside or outside. Stone house needs love to return it to its original splendor. Panoramic views overlooking distant developments.",
+  "country":"US", "square_footage":"2820",
+  "property_type":"LOTS/LAND", "images":"https://cdn-0.eneighborhoods.com/x2/@v=-1415410333@/230/8/838/1000193838/1000193838_0.jpg"
+
+},
+{ "headline":"3200 SqFt House In Great Bridge","address":"40252 THOMAS MILL RD","listing_status":"for sale", "price":"460500",
+"city":"CHESAPEAKE", "state":"VA","listing_date":"2018-09-09T19:02:38Z",
+  "zip":"23322", "total_baths":"3.0", "caption":"AWESOME 6 BEDROOM 3 FULL BATH CRAFTSMAN STYLE HOME. OPEN FLOOR PLAN, KITCHEN LOTS OF CABINETS, OPEN TO FAMILY ROOM WITH HUGH CENTER ISLAND. ONE BEDROOM DOWNSTAIRS WITH FULL BATH. MASTER BATH HAS SEP. DOUBLE SHOWER & JACUZZI.QUARTZ COUNTER TOPS AND LVP FLOORING ON THE FIRST LEVEL. HARDWOOD STAIRCASE WITH ROD IRON SPINDLE.CUL-DE-SAC LOT. COMPLETION IN 45 DAYS OR BETTER.",
+  "country":"US", "square_footage":"3200",
+  "property_type":"RESIDENTIAL", "images":"https://cdn-1.eneighborhoods.com/x2/@v=-1323918891@/2611/6/693/10216693/10216693_1.jpg"
+
+},
+{ "headline":"Lot In Henrico","address":"4193 CHARLES CITY RD","listing_status":"for sale", "price":"51950",
+"city":"RICHMOND", "state":"VA","listing_date":"2018-08-31T14:34:50Z",
+  "zip":"23231", "caption":"4.999 acres on Charles city rd. plat online; irregular shaped lot, priced way below assessment for quick sale.",
+  "country":"US", "square_footage":"3200",
+  "property_type":"LOTS/LAND", "images":"https://cdn-0.eneighborhoods.com/x2/@v=451167776@/90150/3/385/1831385/1831385_1.jpg"
+
+},
+{ "headline":"Lot In Timberville","address":"396 N MAIN ST","listing_status":"for sale", "price":"64900",
+"city":"TIMBERVILLE", "state":"VA","listing_date":"2018-08-31T16:25:38Z",
+  "zip":"22853", "caption":"Beautiful home site! Some of the best western views in Timberville! Very nice almost level lot in a great established neighborhood. Tap fees for water and sewer are paid. This lot is ready for your dream house!",
+  "country":"US",
+  "property_type":"LOTS/LAND", "images":"https://cdn-1.eneighborhoods.com/x2/@v=-1235869842@/101/6/663/566663/566663_2.jpg"
+
+}
