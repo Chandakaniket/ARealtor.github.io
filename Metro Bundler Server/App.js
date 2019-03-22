@@ -32,14 +32,14 @@ var sharedProps = {
 // Sets the default scene you want for AR and VR
 var InitialARScene = require('./js/ARBusinessCard/BusinessCard.js');
 var InitialVRScene = require('./js/360PhotoTour/MainScene');
-var InitialVRStudio = require('./js/360Studio/HelloWorldScene');
-var InitialVRStudio = require('./js/360Studio1/HelloWorldScene');
+var InitialVRStudioChandu = require('./js/360Studio/HelloWorldScene');
+var InitialVRStudioHrishi = require('./js/360Studio1/HelloWorldScene');
 
 var UNSET = "UNSET";
 var VR_NAVIGATOR_TYPE = "VR";
 var AR_NAVIGATOR_TYPE = "AR";
-var VR_NAVIGATOR_360= "DEMO";
-var VR_NAVIGATOR_3601= "DEMO1";
+var VR_ChanduApt= "DEMO";
+var VR_HrishiApt= "DEMO1";
 
 // This determines which type of experience to launch in, or UNSET, if the user should
 // be presented with a choice of AR or VR. By default, we offer the user a choice.
@@ -71,9 +71,9 @@ export default class ViroSample extends Component {
       return this._getVRNavigator();
     } else if (this.state.navigatorType == AR_NAVIGATOR_TYPE) {
       return this._getARNavigator();
-    } else if (this.state.navigatorType == VR_NAVIGATOR_360) {
+    } else if (this.state.navigatorType == VR_ChanduApt) {
       return this._get360VRNavigator();
-    } else if (this.state.navigatorType == VR_NAVIGATOR_3601) {
+    } else if (this.state.navigatorType == VR_HrishiApt) {
       return this._get360VRNavigator1();
   }
   }
@@ -87,6 +87,7 @@ export default class ViroSample extends Component {
             Choose your desired experience:
           </Text>
 
+            
           <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(AR_NAVIGATOR_TYPE)}
             underlayColor={'#68a0ff'} >
@@ -95,7 +96,7 @@ export default class ViroSample extends Component {
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
-            onPress={this._getExperienceButtonOnPress(VR_NAVIGATOR_360)}
+            onPress={this._getExperienceButtonOnPress(VR_ChanduApt)}
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>Studio Apt</Text>
@@ -110,7 +111,7 @@ export default class ViroSample extends Component {
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
-            onPress={this._getExperienceButtonOnPress(VR_NAVIGATOR_3601)}
+            onPress={this._getExperienceButtonOnPress(VR_HrishiApt)}
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>VR1</Text>
@@ -140,14 +141,14 @@ export default class ViroSample extends Component {
   _get360VRNavigator() {
     return (
       <ViroVRSceneNavigator {...this.state.sharedProps}
-        initialScene={{scene: InitialVRStudio}} onExitViro={this._exitViro}/>
+        initialScene={{scene: InitialVRStudioChandu}} onExitViro={this._exitViro}/>
     );
   }
 
     _get360VRNavigator1() {
     return (
       <ViroVRSceneNavigator {...this.state.sharedProps}
-        initialScene={{scene: InitialVRStudio}} onExitViro={this._exitViro}/>
+        initialScene={{scene: InitialVRStudioHrishi}} onExitViro={this._exitViro}/>
     );
   }
 
