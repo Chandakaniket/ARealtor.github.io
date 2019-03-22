@@ -1,6 +1,6 @@
-## Project Name: ARealtor
+## ARealtor
 
-Hackathon organized by Dominion Enterprises.
+A product built for a hackathon organized by Dominion Enterprises.
 <br>
 Start date: March 21, 2019.
 End date: March 22, 2019.
@@ -8,9 +8,8 @@ End date: March 22, 2019.
 ARealtor stands for, "A Smart Realtor".
 
 ## Executive Summary
-Buying a home is a big investment and most of us intend to spend 15-30 years of
-our lives in that home. Just as we test drive a car, we believe our consumers
-should be able to revisit their future homes. It is the ability to see yourself or picture your life/family there. ARealtor lets you take a virtual tour of your future home from the comfort of your couch using a laptop, tab, or a mobile device.
+Buying a home is a big investment and buyers usually spend 15-30 years in that home.
+Just as we test drive a car, we believe our consumers should be able to revisit their future homes. It is the ability to see yourself or picture your life and family. ARealtor lets you take a virtual tour of your future home from the comfort of your couch using a laptop, tab, or a mobile device.
 
 Version 1.0
 
@@ -26,3 +25,12 @@ Members of Team Arrow:
 Repository Layout
 
 Documentation covers the technical documentation.
+
+
+##Idea
+
+The product is an addition to the existing homes.com application
+
+When a customer shortlists their favorite houses in the mobile application. 
+They can view photos, detailed information about the house, and realtor contact details.
+The application does not give you the option to take a virtual tour.

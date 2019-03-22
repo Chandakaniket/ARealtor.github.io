@@ -10,4 +10,10 @@ estimation.
 Apple Inc. ARKit 2 caters to iOS devices like the iPhone and the iPad.
 Download [Xcode](https://developer.apple.com/xcode/) in order to run ARKit 2.
 
-Our webpage is built using LAMP stack(Linux, Apache, MySql, and PHP) and React Native.
+Our webpage is built using LAMP stack(Linux, Apache, MySql, and PHP), Node.js and React Native.
+
+
+Features implemented
+
+1. Customers will be able to take a virtual tour of the house. (360 degree)
+2. 
