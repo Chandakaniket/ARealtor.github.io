@@ -22,6 +22,7 @@ import {
   ViroNode,
   ViroImage,
   ViroUtils,
+    ViroSound,
 } from 'react-viro';
 
 let polarToCartesian = ViroUtils.polarToCartesian;
@@ -63,8 +64,13 @@ export default class OfficeTourSplashScene extends Component {
   render() {
     return (
       <ViroScene style={styles.container}>
+        
         <Viro360Image source={backgroundImage} onLoadEnd={this._onBackgroundPhotoLoadEnd}/>
-
+        <ViroSound paused={false} muted={false}
+                  minDistance={5} maxDistance={8}
+                  position={[0, 0, 0]}
+                source={require("./res/sound.mp3")}
+        />
         {
           /*
            * Display a spinner icon while the background image is being loaded.
