@@ -93,8 +93,7 @@ export default class ViroSample extends Component {
                 
            
             <Text style={localStyles.buttonText}>
-                House 1
-                Norfolk,VA
+                House In Big Island,
                 2 Beds, 1 Bath
                 (Augmented Reality)</Text>
           </TouchableHighlight>
@@ -104,9 +103,8 @@ export default class ViroSample extends Component {
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>
-                House 2
-                LEESBURG,VA
-                1 Bed,1 Bath
+                House In Leesburg,
+                3 Bed,1 Bath
                 (Virtual Tour)</Text>
           </TouchableHighlight>
 
@@ -116,9 +114,8 @@ export default class ViroSample extends Component {
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>
-                House 3
-                CHESAPEAKE,VA
-                3 Bed,2 Bath
+                House In Great Bridge,
+                4 Bed,2 Bath
                 (360 Photo Tour)</Text>
           </TouchableHighlight>
 
@@ -127,8 +124,7 @@ export default class ViroSample extends Component {
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>
-                House 4
-                RICHMOND,VA
+                House In Henrico,
                 6 Bed,3 Bath
                 (Virtual Reality)</Text>
           </TouchableHighlight>
