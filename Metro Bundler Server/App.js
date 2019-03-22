@@ -126,8 +126,7 @@ export default class ViroSample extends Component {
             underlayColor={'#68a0ff'} >
 
             <Text style={localStyles.buttonText}>
-                House In Henrico,
-                6 Bed,3 Bath
+                Dominion Enterprises Conference Room
                 (Virtual Reality)</Text>
           </TouchableHighlight>
         </View>
