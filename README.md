@@ -13,7 +13,7 @@ Just as we test drive a car, we believe our consumers should be able to revisit 
 
 Version 1.0
 
-Members of Team Arrow:
+## Members of Team Arrow:
 
 1. [Aniket Chandak](https://github.com/Chandakaniket)
 2. [Akshay Dhabade](https://github.com/Akshay-Dabade)
@@ -22,15 +22,6 @@ Members of Team Arrow:
 5. [Neha Niphadkar](https://github.com/niphadkarneha)
 
 
-Repository Layout
+#### Repository Layout
 
 Documentation covers the technical documentation.
-
-
-##Idea
-
-The product is an addition to the existing homes.com application
-
-When a customer shortlists their favorite houses in the mobile application. 
-They can view photos, detailed information about the house, and realtor contact details.
-The application does not give you the option to take a virtual tour.
