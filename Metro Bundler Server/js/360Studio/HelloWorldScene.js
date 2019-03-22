@@ -10,6 +10,7 @@ import {
   Viro360Image,
   ViroBox,
   ViroMaterials,
+  ViroSound,
 } from 'react-viro';
 
 export default class HelloWorldScene extends Component {
@@ -30,7 +31,11 @@ export default class HelloWorldScene extends Component {
     return (
       <ViroScene>
         <Viro360Image source={require('./res/6.jpg')} />
-        
+        <ViroSound paused={false} muted={false}
+                  minDistance={5} maxDistance={8}
+                  position={[0, 0, 0]}
+    source={require("./res/sound.mp3")}
+    />
         <ViroBox position={[4, 1, 9]} scale={[.7,.7,0]} materials={["grid"]}  onClick={this._showHelloBeachScene} />
       </ViroScene>
     );

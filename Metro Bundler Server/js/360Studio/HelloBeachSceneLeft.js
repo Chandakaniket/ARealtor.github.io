@@ -23,6 +23,7 @@ export default class HelloBeachSceneLeft extends Component {
     return (
       <ViroScene onClick={this._showHelloWorldScene}>
         <Viro360Image source={require('./res/3.jpg')} />
+        
       </ViroScene>
     );
   }
