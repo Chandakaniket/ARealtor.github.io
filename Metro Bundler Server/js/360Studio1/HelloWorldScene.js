@@ -8,6 +8,7 @@ import {
   ViroScene,
   ViroText,
   Viro360Image,
+    ViroSound,
 } from 'react-viro';
 
 export default class HelloWorldScene extends Component {
@@ -23,6 +24,11 @@ export default class HelloWorldScene extends Component {
       <ViroScene>
         <Viro360Image source={require('./res/H10.jpg')} />
         <ViroText text="Welcome to the reality" width={2} height={2} position={[0, 0, -2]} style={styles.helloWorldTextStyle} />
+            <ViroSound paused={false} muted={false}
+                  minDistance={5} maxDistance={8}
+                  position={[0, 0, 0]}
+                source={require("./res/sound.mp3")}
+    />
       </ViroScene>
     );
   }
