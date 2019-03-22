@@ -92,14 +92,14 @@ export default class ViroSample extends Component {
             onPress={this._getExperienceButtonOnPress(AR_NAVIGATOR_TYPE)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>AR</Text>
+            <Text style={localStyles.buttonText}>Augmented Reality</Text>
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(VR_ChanduApt)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>Studio Apt</Text>
+            <Text style={localStyles.buttonText}>Virtual Tour</Text>
           </TouchableHighlight>
 
 
@@ -107,14 +107,14 @@ export default class ViroSample extends Component {
             onPress={this._getExperienceButtonOnPress(VR_NAVIGATOR_TYPE)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>VR</Text>
+            <Text style={localStyles.buttonText}>360 Photo Tour</Text>
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(VR_HrishiApt)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>VR1</Text>
+            <Text style={localStyles.buttonText}>Virtual Reality</Text>
           </TouchableHighlight>
         </View>
       </View>
@@ -201,7 +201,7 @@ var localStyles = StyleSheet.create({
   },
   buttons : {
     height: 80,
-    width: 150,
+    width: 200,
     paddingTop:20,
     paddingBottom:20,
     marginTop: 10,
