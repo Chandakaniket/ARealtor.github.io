@@ -82,7 +82,11 @@ export default class ViroSample extends Component {
     return (
       <View style={localStyles.outer} >
         <View style={localStyles.inner} >
-
+            
+        
+        <Text style={localStyles.titleText1}>
+            Team Arrow->
+          </Text>
           <Text style={localStyles.titleText}>
             Choose your desired experience:
           </Text>
@@ -93,9 +97,7 @@ export default class ViroSample extends Component {
                 
            
             <Text style={localStyles.buttonText}>
-                House In Big Island,
-                2 Beds, 1 Bath
-                (Augmented Reality)</Text>
+                Augmented Reality</Text>
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
@@ -205,6 +207,14 @@ var localStyles = StyleSheet.create({
     color:'#fff',
     textAlign:'center',
     fontSize : 25
+  },
+    
+    titleText1: {
+    paddingTop: 30,
+    paddingBottom: 20,
+    color:'red',
+    textAlign:'center',
+    fontSize : 30
   },
   buttonText: {
     color:'#fff',
