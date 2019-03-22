@@ -87,19 +87,27 @@ export default class ViroSample extends Component {
             Choose your desired experience:
           </Text>
 
-            
-          <TouchableHighlight style={localStyles.buttons}
+      <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(AR_NAVIGATOR_TYPE)}
             underlayColor={'#68a0ff'} >
-
-            <Text style={localStyles.buttonText}>Augmented Reality</Text>
+                
+           
+            <Text style={localStyles.buttonText}>
+                House 1
+                Norfolk,VA
+                2 Beds, 1 Bath
+                (Augmented Reality)</Text>
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(VR_ChanduApt)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>Virtual Tour</Text>
+            <Text style={localStyles.buttonText}>
+                House 2
+                LEESBURG,VA
+                1 Bed,1 Bath
+                (Virtual Tour)</Text>
           </TouchableHighlight>
 
 
@@ -107,14 +115,22 @@ export default class ViroSample extends Component {
             onPress={this._getExperienceButtonOnPress(VR_NAVIGATOR_TYPE)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>360 Photo Tour</Text>
+            <Text style={localStyles.buttonText}>
+                House 3
+                CHESAPEAKE,VA
+                3 Bed,2 Bath
+                (360 Photo Tour)</Text>
           </TouchableHighlight>
 
             <TouchableHighlight style={localStyles.buttons}
             onPress={this._getExperienceButtonOnPress(VR_HrishiApt)}
             underlayColor={'#68a0ff'} >
 
-            <Text style={localStyles.buttonText}>Virtual Reality</Text>
+            <Text style={localStyles.buttonText}>
+                House 4
+                RICHMOND,VA
+                6 Bed,3 Bath
+                (Virtual Reality)</Text>
           </TouchableHighlight>
         </View>
       </View>
@@ -200,8 +216,8 @@ var localStyles = StyleSheet.create({
     fontSize : 20
   },
   buttons : {
-    height: 80,
-    width: 200,
+    height: 100,
+    width: 340,
     paddingTop:20,
     paddingBottom:20,
     marginTop: 10,
@@ -211,6 +227,8 @@ var localStyles = StyleSheet.create({
     borderWidth: 1,
     borderColor: '#fff',
   },
+    
+    
   exitButton : {
     height: 50,
     width: 100,
